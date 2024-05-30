@@ -1,0 +1,159 @@
+# Financial Risks in the 'Receive Goods -> Validate Invoice' Step of IKEA's Purchase to Pay Process
+
+The retail and home furnishings sector, exemplified by global giants like IKEA, operates on complex supply chains and procurement processes that are crucial for maintaining operational efficiency and customer satisfaction. At the heart of these processes lies the 'Receive Goods -> Validate Invoice' step in the purchase to pay (P2P) cycle, a critical juncture where goods are received and matched against purchase orders and invoices. This step is not only pivotal for ensuring the smooth flow of operations but also for safeguarding the financial integrity of the company.
+
+IKEA, with its vast network of stores, distribution centers, and factories, predominantly located in Europe, faces unique challenges in this step of the P2P process. The company's financial health, as indicated in the [Inter IKEA Group Financial Summary FY21](https://www.inter.ikea.com/-/media/interikea/igi/financial-reports/inter-ikea-group-financial-summary-fy21-3.pdf), is heavily reliant on efficient inventory management and robust receivables from its franchisees. However, the sector has been grappling with transport constraints, high customer demand, and supply chain disruptions, which have led to low inventory levels and challenges in replenishing stock to desired levels.
+
+The financial risks associated with the 'Receive Goods -> Validate Invoice' step are multifaceted. They include the risk of discrepancies between received goods and invoices, potential delays in the validation process, and the risk of fraudulent activities. Additionally, the recent steep rise in transport and raw material prices has created extra financial burdens for the entire IKEA value chain, as noted in the same [financial summary](https://www.inter.ikea.com/-/media/interikea/igi/financial-reports/inter-ikea-group-financial-summary-fy21-3.pdf). These challenges are compounded by the need to comply with stringent quality control measures and ethical supply chain practices, as highlighted by IKEA's efforts to reduce the risk of breaches in social conditions within its supply chain ([Compliance Week](https://www.complianceweek.com/ikea-compliance-and-enforcement-are-two-sides-of-the-same-coin/2726.article)).
+
+In light of these industry-specific challenges and operational nuances, this report will delve into a detailed financial risk analysis of the 'Receive Goods -> Validate Invoice' step in IKEA's P2P process. We will explore the potential financial implications, assess the impact of external factors such as global events and market dynamics, and examine IKEA's strategies to mitigate these risks. Our analysis will be informed by the latest industry reports, expert insights, and IKEA's financial statements to provide a comprehensive overview of the financial risks at this critical stage of the retail and home furnishings sector's P2P cycle.
+
+## Table of Contents
+
+- Assessment of Financial Risks in Goods Receipt and Invoice Validation at IKEA
+    - Risk of Manual Errors and Inefficiencies
+    - Fraud Risks
+    - Compliance Risks
+    - Supplier-Related Financial Risks
+    - Technological and Integration Risks
+- Strategies for Mitigating Supply Chain Disruptions
+    - Enhanced Predictive Analytics
+    - Technological Advancements in Inventory Management
+    - Supplier Relationship Management
+    - Investment in Resilience Infrastructure
+    - Real-Time Tracking and Visibility Tools
+- Enhancing Compliance and Quality Control Measures in the 'Receive Goods -&gt; Validate Invoice' Step at IKEA
+    - Compliance with IWAY and Supplier Code of Conduct
+    - Quality Control in Goods Receipt
+    - Automation and Technology Integration
+    - Financial and Non-Financial Metrics for Compliance
+    - Continuous Improvement and Employee Training
+
+
+
+
+
+# Assessment of Financial Risks in Goods Receipt and Invoice Validation at IKEA
+
+## Risk of Manual Errors and Inefficiencies
+The manual handling of goods receipt and invoice validation can lead to significant errors such as incorrect data entry, which can cause overpayments or underpayments. In the context of IKEA, a large-scale retailer with a high volume of transactions, the impact of such errors can be substantial. Manual processes are also time-consuming, leading to inefficiencies and potential delays in the supply chain. Automating these processes can reduce the risk of human error and improve operational efficiency. ([Artsyl Technologies](https://www.artsyltech.com/Invoice-validation))
+
+## Fraud Risks
+Fraudulent activities pose a serious financial risk during the goods receipt and invoice validation step. This includes the submission of false invoices, inflating invoice values, and duplicating invoices. For a company like IKEA, which deals with a multitude of suppliers, the risk of encountering fraudulent activities is heightened. Implementing robust validation procedures and audit trails can help in detecting and preventing fraud. ([Invensis](https://www.invensis.net/blog/invoice-factoring-risks))
+
+## Compliance Risks
+IKEA must comply with various regulatory requirements related to invoice validation. Non-compliance can lead to penalties and reputational damage. Ensuring that invoices are validated in accordance with industry regulations is crucial. This includes maintaining accurate records and documentation for audit purposes and adhering to tax rules and accounting principles. ([Dataserv](https://www.dataserv.com/blog/invoice-validation/))
+
+## Supplier-Related Financial Risks
+The financial stability of suppliers is a critical risk factor in the goods receipt and invoice validation process. Supplier financial risk can lead to supply chain disruptions, affecting IKEA's inventory levels and production schedules. It is essential to assess the financial health of suppliers and have contingency plans in place to mitigate these risks. ([SDCExec](https://www.sdcexec.com/sourcing-procurement/news/10326401/aravo-solutions-inc-5-best-practices-to-mitigate-supplier-financial-risk))
+
+## Technological and Integration Risks
+As IKEA continues to integrate technology into its operations, such as the partnership with Afterpay for flexible payments, there are risks associated with the implementation and integration of new systems. These risks include system failures, data breaches, and the potential for technology to become obsolete. Ensuring that new systems are compatible with existing processes and that there are strong cybersecurity measures in place is vital. ([Afterpay Newsroom](https://newsroom.afterpay.com/updates/ikea-partners-with-afterpay-to-offer-flexible-payments-making-home-furnishings-more-accessible-to-the-many))
+
+In summary, IKEA faces various financial risks in the 'Receive Goods -> Validate Invoice' step, including manual errors, fraud, compliance issues, supplier-related risks, and technological challenges. Addressing these risks requires a combination of automation, robust validation procedures, compliance management, supplier risk assessment, and careful technology integration.
+
+
+# Strategies for Mitigating Supply Chain Disruptions
+
+## Enhanced Predictive Analytics
+The integration of predictive analytics into the supply chain can significantly reduce the risk of disruptions by forecasting potential issues before they occur. For a company like IKEA, leveraging historical data and current trends can help predict demand more accurately, manage inventory levels, and optimize procurement schedules. Predictive analytics can also identify potential bottlenecks and suggest alternative routes or suppliers to minimize the impact on the goods receipt process. ([Goodfirms.co](https://www.goodfirms.co/inventory-management-software/blog/ikea-works-hard-to-mitigate-global-supply-chain-disruption))
+
+## Technological Advancements in Inventory Management
+Adopting advanced inventory management systems that utilize AI and machine learning can help IKEA to maintain optimal stock levels and reduce the risk of overstocking or stockouts. These systems can automate the process of matching received goods with corresponding invoices, reducing the risk of human error and ensuring that discrepancies are quickly identified and addressed. ([Goodfirms.co](https://www.goodfirms.co/inventory-management-software/blog/ikea-works-hard-to-mitigate-global-supply-chain-disruption))
+
+## Supplier Relationship Management
+Maintaining strong relationships with a diverse range of suppliers can mitigate risks associated with the 'Receive Goods -> Validate Invoice' step. IKEA can work closely with suppliers to ensure transparency and reliability in delivery schedules. Collaborative planning and forecasting with suppliers can also help in aligning expectations and reducing the risk of receiving incorrect or delayed shipments, which can complicate the invoice validation process. ([Forbes](https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/29/riding-the-wave-of-uncertainty-risk-mitigation-strategies-for-supply-chain-disruptions/))
+
+## Investment in Resilience Infrastructure
+IKEA can invest in infrastructure that enhances the resilience of its supply chain. This includes the establishment of temporary or decentralized warehouses to buffer against disruptions and ensure a steady flow of goods. Such strategic warehousing can facilitate quicker goods receipt and invoice validation by having products closer to the point of sale or distribution centers. ([Furniture Today](https://www.furnituretoday.com/supply-chain/independent-retailers-step-up-to-stronger-role-in-supply-chains/))
+
+## Real-Time Tracking and Visibility Tools
+Implementing real-time tracking and visibility tools across the supply chain can provide IKEA with up-to-the-minute information on the status of goods in transit. This visibility allows for proactive adjustments to be made in the event of delays or other issues, ensuring that the goods receipt and invoice validation steps are not adversely affected. These tools can also facilitate better communication with suppliers and transporters, leading to more efficient resolution of any discrepancies. ([NetSuite](https://www.netsuite.com/portal/resource/articles/erp/handle-supply-chain-disruptions.shtml))
+
+By focusing on these strategies, IKEA can mitigate the financial risks associated with the 'Receive Goods -> Validate Invoice' step in the purchase to pay process, ensuring that operations remain smooth and financial losses are minimized.
+
+
+# Enhancing Compliance and Quality Control Measures in the 'Receive Goods -> Validate Invoice' Step at IKEA
+
+## Compliance with IWAY and Supplier Code of Conduct
+IKEA's IWAY strategy is a cornerstone of its commitment to social and environmental responsibility ([IKEA's IWAY Supplier Code of Conduct](https://procurementmag.com/articles/explained-ikeas-iway-supplier-code-of-conduct)). At the 'Receive Goods -> Validate Invoice' step, ensuring that suppliers adhere to these standards is critical. Non-compliance can lead to reputational damage and financial penalties. IKEA must validate that goods received are from suppliers who comply with IWAY, which includes checks on labor conditions, safety, and environmental practices. This step mitigates the risk of associating with suppliers who may engage in unethical practices, which could result in financial losses and damage to IKEA's brand.
+
+## Quality Control in Goods Receipt
+Quality control measures are essential in the receipt of goods to prevent financial losses due to defective or non-conforming products ([Implementing Quality Control Measures](https://healthyofficehabits.com/total-quality-management-in-retail/)). IKEA should have robust processes to inspect the quality of goods upon receipt. This includes checking for damages, verifying product specifications, and ensuring that the goods match the purchase order details. Effective quality control at this stage can reduce the need for returns, replacements, and refunds, thereby avoiding additional costs and preserving customer satisfaction.
+
+## Automation and Technology Integration
+The integration of technology in the 'Receive Goods -> Validate Invoice' process can significantly reduce manual errors and improve efficiency ([Best Practices for the Procure-to-Pay Process](https://www.mhcautomation.com/blog/procure-to-pay-process-guide/)). Automation tools can assist in matching received goods with purchase orders and invoices, ensuring that payments are made only for goods that have been correctly received. This reduces the risk of overpayments or paying for goods not received. Additionally, technology can help track supplier performance metrics, such as on-time delivery and invoice accuracy, which are essential for supplier relationship management.
+
+## Financial and Non-Financial Metrics for Compliance
+Monitoring compliance effectiveness metrics is vital for identifying and addressing potential financial risks ([Strengthening Compliance Effectiveness Metrics](https://assets.kpmg.com/content/dam/kpmg/cn/pdf/en/2021/12/strengthening-compliance-effectiveness-metrics.pdf)). IKEA should incorporate both financial and non-financial attributes to assess compliance with procurement policies and regulations. This includes tracking the timeliness of goods receipt, accuracy of invoice validation, and adherence to payment terms. By measuring these metrics, IKEA can ensure that the 'Receive Goods -> Validate Invoice' step aligns with the company's financial and operational objectives.
+
+## Continuous Improvement and Employee Training
+Continuous improvement is key to maintaining high standards in the 'Receive Goods -> Validate Invoice' process ([Total Quality Management in Retail](https://healthyofficehabits.com/total-quality-management-in-retail/)). IKEA should regularly review and improve its quality processes, soliciting feedback from both customers and employees. Training programs for employees involved in goods receipt and invoice validation are essential to ensure they are equipped with the knowledge and skills required to perform their roles effectively. This not only enhances compliance and quality control but also fosters a culture of excellence and accountability within the organization.
+
+
+## References
+
+- [https://www.investopedia.com/terms/p/purchasetopay.asp](https://www.investopedia.com/terms/p/purchasetopay.asp)
+- [https://healthyofficehabits.com/total-quality-management-in-retail/](https://healthyofficehabits.com/total-quality-management-in-retail/)
+- [https://www.storis.com/2024-industry-trend-guide/](https://www.storis.com/2024-industry-trend-guide/)
+- [https://www.bill.com/learning/invoice-validation](https://www.bill.com/learning/invoice-validation)
+- [https://www.academia.edu/34451397/Financial_Risks_faced_by_IKEA_in_China](https://www.academia.edu/34451397/Financial_Risks_faced_by_IKEA_in_China)
+- [https://www.pipefy.com/blog/procure-to-pay/](https://www.pipefy.com/blog/procure-to-pay/)
+- [https://stripe.com/resources/more/invoice-processing-101](https://stripe.com/resources/more/invoice-processing-101)
+- [https://www.artsyltech.com/Invoice-validation](https://www.artsyltech.com/Invoice-validation)
+- [https://www.ikea.com/global/en/newsroom/corporate/ikea-continues-to-grow-in-a-challenging-business-environment-221013/](https://www.ikea.com/global/en/newsroom/corporate/ikea-continues-to-grow-in-a-challenging-business-environment-221013/)
+- [https://www.funded.com/blog/2023/09/implementing-quality-control-measures-a-comprehensive-guide/](https://www.funded.com/blog/2023/09/implementing-quality-control-measures-a-comprehensive-guide/)
+- [https://www.dynamicinventory.net/ikea-supply-chain-management/](https://www.dynamicinventory.net/ikea-supply-chain-management/)
+- [https://link.springer.com/article/10.1007/BF02893933](https://link.springer.com/article/10.1007/BF02893933)
+- [https://www.cms.gov/sites/default/files/2021-09/Quality-Measures-How-They-Are-Developed-Used-Maintained.pdf](https://www.cms.gov/sites/default/files/2021-09/Quality-Measures-How-They-Are-Developed-Used-Maintained.pdf)
+- [https://www.goodfirms.co/inventory-management-software/blog/ikea-works-hard-to-mitigate-global-supply-chain-disruption](https://www.goodfirms.co/inventory-management-software/blog/ikea-works-hard-to-mitigate-global-supply-chain-disruption)
+- [https://www.forbes.com/sites/claraludmir/2023/11/24/how-sustainability-and-affordability-can-go-hand-in-hand-the-case-of-ikea/](https://www.forbes.com/sites/claraludmir/2023/11/24/how-sustainability-and-affordability-can-go-hand-in-hand-the-case-of-ikea/)
+- [https://hbr.org/2021/06/inside-ikeas-digital-transformation](https://hbr.org/2021/06/inside-ikeas-digital-transformation)
+- [https://myhfa.org/navigating-the-furniture-industry-supply-chain-challenges/](https://myhfa.org/navigating-the-furniture-industry-supply-chain-challenges/)
+- [https://www.invensis.net/blog/importance-of-invoice-validation](https://www.invensis.net/blog/importance-of-invoice-validation)
+- [https://procurementmag.com/articles/explained-ikeas-iway-supplier-code-of-conduct](https://procurementmag.com/articles/explained-ikeas-iway-supplier-code-of-conduct)
+- [https://nanonets.com/blog/procure-to-pay-process/](https://nanonets.com/blog/procure-to-pay-process/)
+- [https://www.pymnts.com/news/retail/2024/ikea-us-ceo-shares-2024-strategy-to-blend-retail-payments-and-ai-for-shopper-appeal/](https://www.pymnts.com/news/retail/2024/ikea-us-ceo-shares-2024-strategy-to-blend-retail-payments-and-ai-for-shopper-appeal/)
+- [https://blog.cylindo.com/the-state-of-the-furniture-industry](https://blog.cylindo.com/the-state-of-the-furniture-industry)
+- [https://www.theguardian.com/business/2023/dec/21/ikea-warns-red-sea-attacks-could-disrupt-supplies-and-deliveries?ref=upstract.com](https://www.theguardian.com/business/2023/dec/21/ikea-warns-red-sea-attacks-could-disrupt-supplies-and-deliveries?ref=upstract.com)
+- [https://www2.deloitte.com/content/dam/Deloitte/us/Documents/us_7727471_Enterprise_Risk_Management_Series_Article2_FINAL_version.pdf](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/us_7727471_Enterprise_Risk_Management_Series_Article2_FINAL_version.pdf)
+- [https://www.oracle.com/scm/reduce-supply-chain-disruptions/](https://www.oracle.com/scm/reduce-supply-chain-disruptions/)
+- [https://www.invensis.net/blog/invoice-factoring-risks](https://www.invensis.net/blog/invoice-factoring-risks)
+- [https://blog.procureport.com/a-guide-to-procure-to-pay-p2p-process/](https://blog.procureport.com/a-guide-to-procure-to-pay-p2p-process/)
+- [https://www.thomasnet.com/insights/ikea-supply-chain/](https://www.thomasnet.com/insights/ikea-supply-chain/)
+- [https://www.thehrdigest.com/ikeas-digital-transformation-how-the-swedish-furniture-giant-is-adapting-to-the-new-retail-landscape/](https://www.thehrdigest.com/ikeas-digital-transformation-how-the-swedish-furniture-giant-is-adapting-to-the-new-retail-landscape/)
+- [https://www.forbes.com/sites/kaleighmoore/2022/05/16/how-furniture-brands-and-manufacturers-are-coping-with-ongoing-supply-chain-strain/](https://www.forbes.com/sites/kaleighmoore/2022/05/16/how-furniture-brands-and-manufacturers-are-coping-with-ongoing-supply-chain-strain/)
+- [https://trans.info/en/how-is-ikea-meeting-today-s-logistics-challenges-we-speak-to-susanne-waidzunas-global-supply-chain-operations-manager-260932](https://trans.info/en/how-is-ikea-meeting-today-s-logistics-challenges-we-speak-to-susanne-waidzunas-global-supply-chain-operations-manager-260932)
+- [https://www.ikea.com/global/en/stories/people-planet/how-ikea-uses-iway-audits-to-identify-gaps-and-improvements-in-the-global-supply-chain-230627/](https://www.ikea.com/global/en/stories/people-planet/how-ikea-uses-iway-audits-to-identify-gaps-and-improvements-in-the-global-supply-chain-230627/)
+- [https://auditboard.com/blog/risk-mitigation/](https://auditboard.com/blog/risk-mitigation/)
+- [https://www.ikea.com/global/en/images/IKEA_SUSTAINABILITY_Report_FY_23_20240125_1b190c008f.pdf](https://www.ikea.com/global/en/images/IKEA_SUSTAINABILITY_Report_FY_23_20240125_1b190c008f.pdf)
+- [https://creately.com/guides/procure-to-pay-process-guide/](https://creately.com/guides/procure-to-pay-process-guide/)
+- [https://www.linkedin.com/advice/1/what-key-invoice-processing-risks-controls-your](https://www.linkedin.com/advice/1/what-key-invoice-processing-risks-controls-your)
+- [https://journals.sagepub.com/doi/abs/10.1177/009207039602400101](https://journals.sagepub.com/doi/abs/10.1177/009207039602400101)
+- [https://newsroom.afterpay.com/updates/ikea-partners-with-afterpay-to-offer-flexible-payments-making-home-furnishings-more-accessible-to-the-many](https://newsroom.afterpay.com/updates/ikea-partners-with-afterpay-to-offer-flexible-payments-making-home-furnishings-more-accessible-to-the-many)
+- [https://www.inter.ikea.com/-/media/interikea/igi/financial-reports/inter-ikea-group-financial-summary-fy21-3.pdf](https://www.inter.ikea.com/-/media/interikea/igi/financial-reports/inter-ikea-group-financial-summary-fy21-3.pdf)
+- [https://www.retail-week.com/tech/inside-ikeas-innovation-strategy-stores-ai-and-supply-chain/7044744.article](https://www.retail-week.com/tech/inside-ikeas-innovation-strategy-stores-ai-and-supply-chain/7044744.article)
+- [https://www.furnituretoday.com/furniture-people/what-do-you-think-needs-to-happen-to-reinvigorate-furniture-business-in-2024/](https://www.furnituretoday.com/furniture-people/what-do-you-think-needs-to-happen-to-reinvigorate-furniture-business-in-2024/)
+- [https://www.sdcexec.com/sourcing-procurement/news/10326401/aravo-solutions-inc-5-best-practices-to-mitigate-supplier-financial-risk](https://www.sdcexec.com/sourcing-procurement/news/10326401/aravo-solutions-inc-5-best-practices-to-mitigate-supplier-financial-risk)
+- [https://www.financialfalconet.com/ikea-supply-chain-problems-issues-management/](https://www.financialfalconet.com/ikea-supply-chain-problems-issues-management/)
+- [https://www.complianceweek.com/ikea-compliance-and-enforcement-are-two-sides-of-the-same-coin/2726.article](https://www.complianceweek.com/ikea-compliance-and-enforcement-are-two-sides-of-the-same-coin/2726.article)
+- [https://www.myob.com/au/resources/guides/accounting/procure-to-pay](https://www.myob.com/au/resources/guides/accounting/procure-to-pay)
+- [https://www.startus-insights.com/innovators-guide/furniture-industry-trends/](https://www.startus-insights.com/innovators-guide/furniture-industry-trends/)
+- [https://www.reuters.com/business/retail-consumer/ikea-prices-fall-despite-red-sea-disruptions-group-ceo-says-davos-2024-01-15/](https://www.reuters.com/business/retail-consumer/ikea-prices-fall-despite-red-sea-disruptions-group-ceo-says-davos-2024-01-15/)
+- [https://www.sciencedirect.com/science/article/pii/S0959652623028019](https://www.sciencedirect.com/science/article/pii/S0959652623028019)
+- [https://www.netsuite.com/portal/resource/articles/erp/handle-supply-chain-disruptions.shtml](https://www.netsuite.com/portal/resource/articles/erp/handle-supply-chain-disruptions.shtml)
+- [https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/29/riding-the-wave-of-uncertainty-risk-mitigation-strategies-for-supply-chain-disruptions/](https://www.forbes.com/sites/forbesbusinesscouncil/2023/08/29/riding-the-wave-of-uncertainty-risk-mitigation-strategies-for-supply-chain-disruptions/)
+- [https://www.mhcautomation.com/blog/procure-to-pay-process-guide/](https://www.mhcautomation.com/blog/procure-to-pay-process-guide/)
+- [https://www.fieldcircle.com/articles/vendor-risk-management-and-mitigation-strategies/](https://www.fieldcircle.com/articles/vendor-risk-management-and-mitigation-strategies/)
+- [https://assets.kpmg.com/content/dam/kpmg/cn/pdf/en/2021/12/strengthening-compliance-effectiveness-metrics.pdf](https://assets.kpmg.com/content/dam/kpmg/cn/pdf/en/2021/12/strengthening-compliance-effectiveness-metrics.pdf)
+- [https://www.dataserv.com/blog/invoice-validation/](https://www.dataserv.com/blog/invoice-validation/)
+- [https://www.artsyltech.com/invoice-verification-as-part-of-invoice-processing](https://www.artsyltech.com/invoice-verification-as-part-of-invoice-processing)
+- [https://www.factoredquality.com/resource/8-best-practices-to-increase-quality-control-in-manufacturing](https://www.factoredquality.com/resource/8-best-practices-to-increase-quality-control-in-manufacturing)
+- [https://www.retaildive.com/news/for-furniture-retail-supply-chain-chaos-has-become-normalized/622308/](https://www.retaildive.com/news/for-furniture-retail-supply-chain-chaos-has-become-normalized/622308/)
+- [https://www.furnituretoday.com/supply-chain/independent-retailers-step-up-to-stronger-role-in-supply-chains/](https://www.furnituretoday.com/supply-chain/independent-retailers-step-up-to-stronger-role-in-supply-chains/)
+- [https://www.tandfonline.com/doi/full/10.1080/13675560500405584](https://www.tandfonline.com/doi/full/10.1080/13675560500405584)
+- [https://www.qualitygurus.com/quality-control-101-understanding-its-importance-benefits-approaches-and-key-strategies/](https://www.qualitygurus.com/quality-control-101-understanding-its-importance-benefits-approaches-and-key-strategies/)
+- [https://www.controlhub.com/blog/p2p-best-practices](https://www.controlhub.com/blog/p2p-best-practices)
+- [https://www.supplychaindive.com/news/furniture-supply-chains-bankruptcies-2023-Noble-House-Mitchell-Gold/704573/](https://www.supplychaindive.com/news/furniture-supply-chains-bankruptcies-2023-Noble-House-Mitchell-Gold/704573/)
+- [https://www.clear.tech/blog/accounts-payable-risk-assessment](https://www.clear.tech/blog/accounts-payable-risk-assessment)
+- [https://oboloo.com/blog/accounts-payable-risk-assessment-a-step-by-step-guide/](https://oboloo.com/blog/accounts-payable-risk-assessment-a-step-by-step-guide/)

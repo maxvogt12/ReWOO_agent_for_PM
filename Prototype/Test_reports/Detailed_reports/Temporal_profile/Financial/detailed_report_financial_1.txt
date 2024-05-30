@@ -1,0 +1,181 @@
+# Financial Risks in the Purchase Requisition Process at IKEA
+
+The purchase to pay process, a cornerstone of procurement operations, is fraught with financial risks that can significantly impact a company's bottom line. At the heart of this process lies the critical 'Create Purchase Requisition -> Reject Purchase Requisition' step, which, if not managed effectively, can lead to substantial financial repercussions, particularly in the home furnishings sector where companies like [IKEA](https://www.thomasnet.com/insights/ikea-supply-chain/) operate. This introduction will outline the financial risks associated with this step, taking into account the operational practices and industry-specific factors relevant to IKEA.
+
+In the home furnishings sector, the creation and rejection of purchase requisitions are pivotal actions that can trigger a cascade of financial risks. These risks stem from various sources, including operational inefficiencies, poor planning, and the complexities of managing a global supply chain. For instance, the rejection of a purchase requisition may indicate underlying issues such as inadequate demand forecasting, misalignment with inventory management strategies, or non-compliance with corporate social responsibility (CSR) commitments, all of which can incur financial losses and productivity slowdowns ([Weproc Blog](https://blog.weproc.com/en/purchasing-process/the-different-types-of-risks-for-your-purchasing-process/)).
+
+IKEA, known for its efficient supply chain and inventory management, faces unique challenges in this regard. The company's commitment to sustainability and CSR necessitates careful supplier selection and adherence to ethical practices, which, if compromised, can lead to reputational damage and contractual risks ([ContractSafe Blog](https://www.contractsafe.com/blog/procurement-risks)). Moreover, the dynamic nature of the retail sector, exacerbated by events such as the COVID-19 pandemic, has highlighted the importance of agility and resilience in procurement processes ([Supply Chain Digital](https://supplychaindigital.com/logistics/ikea-epicor-the-supply-chain-crisis-impact-on-furniture)).
+
+Financial risks at the requisition stage can also be amplified by the lack of process standardization and automation, leading to inefficiencies and errors ([Ivalua Blog](https://www.ivalua.com/blog/purchase-to-pay/)). For a company like IKEA, which prides itself on prompt order fulfillment and customer satisfaction, any disruption in the procurement process can have immediate and far-reaching financial consequences.
+
+As we delve deeper into the financial risks associated with the 'Create Purchase Requisition -> Reject Purchase Requisition' step, it is crucial to understand that these risks are not isolated incidents but are indicative of the broader financial health of the company. They require vigilant risk management strategies to ensure that the procurement process aligns with IKEA's strategic objectives and maintains its reputation for operational excellence ([GEP Blog](https://www.gep.com/blog/strategy/identifying-and-mitigating-procurement-risks)).
+
+In conclusion, the financial risks inherent in the purchase requisition process are multifaceted and can significantly impact a company's financial stability. For IKEA, navigating these risks is essential to sustaining its competitive advantage and ensuring the seamless operation of its global retail empire.
+
+## Table of Contents
+
+- Assessing the Impact of Purchase Requisition Rejections
+    - Financial Implications of Rejected Purchase Requisitions
+    - Impact on Supplier Relationships and Pricing
+    - Inventory Management and Stock Levels
+    - Budgetary Control and Cost Management
+    - Operational Efficiency and Process Optimization
+- Mitigating Financial and Operational Risks in Purchase Requisition Management
+    - Streamlining the Requisition Approval Workflow
+    - Enhancing Visibility with Real-Time Data Analytics
+    - Vendor Management and Strategic Sourcing
+    - Implementing P2P Automation and Integration
+    - Training and Compliance
+- Strategic Approaches to Optimize the Purchase to Pay Process
+    - Identifying and Addressing the Causes of Requisition Rejections
+    - Leveraging Technology for Enhanced Requisition Accuracy
+    - Proactive Supplier Engagement and Collaboration
+    - Continuous Monitoring and Analysis of Requisition Data
+    - Training and Empowerment of Procurement Personnel
+
+
+
+
+
+# Assessing the Impact of Purchase Requisition Rejections
+
+## Financial Implications of Rejected Purchase Requisitions
+
+Rejections of purchase requisitions can lead to several financial risks, including project delays and increased costs. When a requisition is rejected, the intended purchase of goods or services is delayed, which can disrupt production schedules and lead to missed sales opportunities, particularly during peak seasons for home furnishings. Additionally, the time spent on creating and processing a requisition that ends up being rejected represents an administrative cost that does not contribute to productive outcomes.
+
+## Impact on Supplier Relationships and Pricing
+
+The rejection of purchase requisitions can strain relationships with suppliers, especially if orders are frequently canceled or modified. Suppliers may become less willing to offer favorable terms or discounts to a company that is perceived as unreliable or unpredictable in its purchasing behavior. This can lead to higher costs for materials and potentially lower quality if the company is forced to switch to alternative suppliers with less favorable terms ([Supply Chain Dive](https://www.supplychaindive.com/news/furniture-supply-chains-bankruptcies-2023-Noble-House-Mitchell-Gold/704573/)).
+
+## Inventory Management and Stock Levels
+
+In the home furnishings sector, managing inventory levels is critical to avoid both stockouts and excess inventory. Rejected purchase requisitions can contribute to stockouts, which may result in lost sales and customer dissatisfaction. Conversely, if requisitions are rejected due to overstocking, the company may incur additional costs for storage and potential markdowns to clear excess inventory ([Retail Dive](https://www.retaildive.com/news/for-furniture-retail-supply-chain-chaos-has-become-normalized/622308/)).
+
+## Budgetary Control and Cost Management
+
+Purchase requisitions are a key control mechanism to ensure that spending aligns with budgetary constraints. Rejections may indicate that departments are not adhering to budgets or that budgets are not well-aligned with operational needs. This misalignment can lead to financial risks such as overspending or underinvestment in critical areas, impacting the overall financial health of the company ([Tipalti](https://tipalti.com/procurement-hub/purchase-requisitions/)).
+
+## Operational Efficiency and Process Optimization
+
+Frequent rejections of purchase requisitions can signal inefficiencies in the procurement process. It may indicate a need for better communication between departments, more accurate forecasting, or improved training for staff involved in the requisition process. Addressing these issues can lead to more efficient operations and reduced costs over time. Moreover, leveraging technology such as procurement solutions can streamline the requisition process, reduce errors, and improve compliance with company policies ([Cflow](https://www.cflowapps.com/procurement/procurement-kpis/)).
+
+In summary, the rejection of purchase requisitions in the home furnishings sector, and at a company like IKEA, can have significant financial implications. It is essential to monitor and analyze the reasons behind requisition rejections to mitigate risks and improve the overall efficiency and effectiveness of the purchase to pay process.
+
+
+# Mitigating Financial and Operational Risks in Purchase Requisition Management
+
+## Streamlining the Requisition Approval Workflow
+
+To mitigate risks associated with the rejection of purchase requisitions, it is essential to streamline the approval workflow. This involves setting clear thresholds for automatic approvals and ensuring that only requisitions that meet specific criteria are routed for manual review. By doing so, companies like IKEA can reduce the time spent on processing and minimize the risk of unnecessary rejections that could disrupt the supply chain. Automation tools can be leveraged to facilitate this process, ensuring that requisitions are evaluated consistently and efficiently. ([Anvyl](https://anvyl.com/blog/purchase-order-management-best-practices-for-home-goods-and-furniture-brands/))
+
+## Enhancing Visibility with Real-Time Data Analytics
+
+Real-time data analytics can play a pivotal role in identifying patterns that lead to requisition rejections. By analyzing data trends, IKEA can proactively address issues such as frequent mismatches in order quantities or recurring discrepancies in specifications. This insight allows for corrective measures to be implemented before requisitions are created, thereby reducing the likelihood of rejections and the associated financial and operational risks. ([Deloitte](https://www2.deloitte.com/content/dam/Deloitte/in/Documents/risk/in-ra-procure-to-pay-analytics-v2-noexp.pdf))
+
+## Vendor Management and Strategic Sourcing
+
+Effective vendor management and strategic sourcing are critical in mitigating risks at the requisition stage. By maintaining strong relationships with a diverse pool of suppliers, IKEA can ensure that it has multiple sourcing options, which can reduce the impact of a rejected requisition. Additionally, strategic sourcing can help identify suppliers that are more likely to meet IKEA's quality and delivery standards, thus reducing the risk of requisition rejections due to non-compliance with company standards. ([McKinsey](https://www.mckinsey.com/industries/retail/our-insights/ten-steps-retailers-can-take-to-shock-proof-their-supply-chains))
+
+## Implementing P2P Automation and Integration
+
+Procure-to-Pay (P2P) automation and integration with other business systems such as ERP or inventory management systems can significantly reduce the risk of purchase requisition rejections. Automated systems can ensure that all requisitions are compliant with company policies and budgetary constraints, and they can flag potential issues for review before submission. Integration with inventory management systems can prevent duplicate orders and ensure that requisitions are aligned with current stock levels and demand forecasts. ([ControlHub](https://www.controlhub.com/blog/what-is-purchase-requisition))
+
+## Training and Compliance
+
+Ensuring that all employees involved in the purchase requisition process are well-trained and aware of compliance requirements is crucial. Regular training sessions can help staff understand the importance of accuracy and detail in requisition creation, which can reduce the risk of rejections due to errors or non-compliance. Additionally, incorporating compliance checks into the digital solutions used for requisition management can help maintain adherence to regulatory standards and internal policies. ([ProcurePort](https://blog.procureport.com/what-is-the-importance-of-risk-management-to-procurement/))
+
+By focusing on these areas, IKEA can address the financial and operational risks associated with the 'Create Purchase Requisition -> Reject Purchase Requisition' step in the purchase to pay process, ensuring a more efficient and risk-averse operation within the home furnishings sector.
+
+
+# Strategic Approaches to Optimize the Purchase to Pay Process
+
+## Identifying and Addressing the Causes of Requisition Rejections
+
+Requisition rejections in the home furnishings sector, particularly at a company like IKEA, can stem from various causes such as incorrect product specifications, budget constraints, or non-compliance with procurement policies. To mitigate these risks, it is essential to analyze the root causes of rejections. This involves a thorough review of past requisitions to identify patterns or common issues that lead to rejections. By addressing these underlying causes, companies can reduce the frequency of rejections and improve the efficiency of the purchase to pay process.
+
+## Leveraging Technology for Enhanced Requisition Accuracy
+
+The adoption of advanced eProcurement solutions ([Zycus](https://www.zycus.com/blog/procure-to-pay/procure-to-pay-cycle-6-actionable-tips-to-improve-optimize)) can significantly reduce the risk of errors in purchase requisitions. These systems enable the automation of data entry and validation processes, ensuring that requisitions are accurate and comply with company standards. Additionally, integrating these solutions with existing ERP systems ([MHC Automation](https://www.mhcautomation.com/blog/procure-to-pay-process-guide/)) can facilitate real-time data sharing and approval workflows, further optimizing the requisition process.
+
+## Proactive Supplier Engagement and Collaboration
+
+Building strong relationships with suppliers is crucial for minimizing requisition rejections. By engaging suppliers early in the procurement process and maintaining open lines of communication, companies can ensure that suppliers understand their requirements and expectations. This collaborative approach can lead to more accurate requisitions and a higher acceptance rate, as suppliers are more likely to provide the right products at the right time ([Zycus](https://www.zycus.com/blog/procure-to-pay/procure-to-pay-cycle-6-actionable-tips-to-improve-optimize)).
+
+## Continuous Monitoring and Analysis of Requisition Data
+
+To optimize the purchase to pay process, it is vital to continuously monitor and analyze requisition data. Tracking key metrics such as the rate of requisition rejections, reasons for rejections, and time taken to resolve rejections can provide valuable insights. These insights can then be used to refine procurement strategies, adjust policies, and implement targeted improvements to reduce financial risks associated with requisition rejections ([Zycus](https://www.zycus.com/blog/procure-to-pay/procure-to-pay-cycle-6-actionable-tips-to-improve-optimize)).
+
+## Training and Empowerment of Procurement Personnel
+
+Investing in the training and development of procurement personnel can have a significant impact on reducing requisition rejections. By equipping staff with the knowledge and tools they need to create accurate and compliant requisitions, companies can empower their teams to make informed decisions. This includes training on procurement policies, use of eProcurement systems, and best practices for supplier engagement. A well-trained procurement team is less likely to make errors that lead to requisition rejections, thereby optimizing the overall purchase to pay process ([Pipefy](https://www.pipefy.com/blog/purchase-to-pay-process-improvement/)).
+
+
+## References
+
+- [https://ctl.mit.edu/pub/thesis/root-cause-analysis-and-impact-unplanned-procurement-truckload-transportation-costs](https://ctl.mit.edu/pub/thesis/root-cause-analysis-and-impact-unplanned-procurement-truckload-transportation-costs)
+- [https://www.retail-week.com/tech/inside-ikeas-innovation-strategy-stores-ai-and-supply-chain/7044744.article](https://www.retail-week.com/tech/inside-ikeas-innovation-strategy-stores-ai-and-supply-chain/7044744.article)
+- [https://www.ivalua.com/blog/purchase-to-pay/](https://www.ivalua.com/blog/purchase-to-pay/)
+- [https://www.supplychaindive.com/news/furniture-supply-chains-bankruptcies-2023-Noble-House-Mitchell-Gold/704573/](https://www.supplychaindive.com/news/furniture-supply-chains-bankruptcies-2023-Noble-House-Mitchell-Gold/704573/)
+- [https://www.thomasnet.com/insights/ikea-supply-chain/](https://www.thomasnet.com/insights/ikea-supply-chain/)
+- [https://www.zycus.com/blog/procure-to-pay/procure-to-pay-cycle-6-actionable-tips-to-improve-optimize](https://www.zycus.com/blog/procure-to-pay/procure-to-pay-cycle-6-actionable-tips-to-improve-optimize)
+- [https://www.frevvo.com/blog/procurement-risks/](https://www.frevvo.com/blog/procurement-risks/)
+- [https://blog.procureport.com/a-guide-to-procure-to-pay-p2p-process/](https://blog.procureport.com/a-guide-to-procure-to-pay-p2p-process/)
+- [https://www.fraxion.biz/blog/guide-to-the-purchase-requisition-process](https://www.fraxion.biz/blog/guide-to-the-purchase-requisition-process)
+- [https://su-plus.strathmore.edu/bitstreams/494d8bd9-b82b-41e3-a317-7999ea8fbe63/download](https://su-plus.strathmore.edu/bitstreams/494d8bd9-b82b-41e3-a317-7999ea8fbe63/download)
+- [https://www.gep.com/blog/strategy/identifying-and-mitigating-procurement-risks](https://www.gep.com/blog/strategy/identifying-and-mitigating-procurement-risks)
+- [https://blog.weproc.com/en/purchasing-process/purchase-requisition-process-definition/](https://blog.weproc.com/en/purchasing-process/purchase-requisition-process-definition/)
+- [https://www.forbes.com/sites/kaleighmoore/2022/05/16/how-furniture-brands-and-manufacturers-are-coping-with-ongoing-supply-chain-strain/](https://www.forbes.com/sites/kaleighmoore/2022/05/16/how-furniture-brands-and-manufacturers-are-coping-with-ongoing-supply-chain-strain/)
+- [https://www.linkedin.com/pulse/enhancing-efficiency-procurement-strategies-case-studies](https://www.linkedin.com/pulse/enhancing-efficiency-procurement-strategies-case-studies)
+- [https://creately.com/guides/procure-to-pay-process-guide/](https://creately.com/guides/procure-to-pay-process-guide/)
+- [https://www.storis.com/case-studies/](https://www.storis.com/case-studies/)
+- [https://www.spglobal.com/marketintelligence/en/news-insights/blog/the-big-picture-2024-supply-chain-industry-outlook](https://www.spglobal.com/marketintelligence/en/news-insights/blog/the-big-picture-2024-supply-chain-industry-outlook)
+- [https://www.thehrdigest.com/ikeas-digital-transformation-how-the-swedish-furniture-giant-is-adapting-to-the-new-retail-landscape/](https://www.thehrdigest.com/ikeas-digital-transformation-how-the-swedish-furniture-giant-is-adapting-to-the-new-retail-landscape/)
+- [https://www.retaildive.com/news/the-hidden-financial-risks-in-retail-supply-chains/618649/](https://www.retaildive.com/news/the-hidden-financial-risks-in-retail-supply-chains/618649/)
+- [https://myhfa.org/navigating-the-furniture-industry-supply-chain-challenges/](https://myhfa.org/navigating-the-furniture-industry-supply-chain-challenges/)
+- [https://kissingerassoc.com/requisition-management/](https://kissingerassoc.com/requisition-management/)
+- [https://supplychaindigital.com/logistics/ikea-epicor-the-supply-chain-crisis-impact-on-furniture](https://supplychaindigital.com/logistics/ikea-epicor-the-supply-chain-crisis-impact-on-furniture)
+- [https://www.retaildive.com/news/for-furniture-retail-supply-chain-chaos-has-become-normalized/622308/](https://www.retaildive.com/news/for-furniture-retail-supply-chain-chaos-has-become-normalized/622308/)
+- [https://www.retaildive.com/spons/top-3-supply-chain-challenges-for-retailers-in-2024/695866/](https://www.retaildive.com/spons/top-3-supply-chain-challenges-for-retailers-in-2024/695866/)
+- [https://www.oliverwyman.com/our-expertise/insights/2021/nov/overcoming-retails-supply-chain-challenge.html](https://www.oliverwyman.com/our-expertise/insights/2021/nov/overcoming-retails-supply-chain-challenge.html)
+- [https://www.controlhub.com/blog/risk-management-in-the-procure-to-pay-process](https://www.controlhub.com/blog/risk-management-in-the-procure-to-pay-process)
+- [https://www.reuters.com/business/retail-consumer/ikea-owner-sees-cost-pressures-rising-after-hit-profits-2021-11-03/](https://www.reuters.com/business/retail-consumer/ikea-owner-sees-cost-pressures-rising-after-hit-profits-2021-11-03/)
+- [https://www.linkedin.com/pulse/11-procurement-trends-2024-according-experts-procurement-tactics](https://www.linkedin.com/pulse/11-procurement-trends-2024-according-experts-procurement-tactics)
+- [https://quandarycg.com/procurement-risks-and-how-to-navigate-them/](https://quandarycg.com/procurement-risks-and-how-to-navigate-them/)
+- [https://www.method.me/blog/efficient-supply-chain-management/](https://www.method.me/blog/efficient-supply-chain-management/)
+- [https://link.springer.com/chapter/10.1007/978-3-030-12730-5_19](https://link.springer.com/chapter/10.1007/978-3-030-12730-5_19)
+- [https://www.researchgate.net/publication/323726207_IKEA_IN_CHINA_Biggest_Market_in_the_World_Financial_Risks](https://www.researchgate.net/publication/323726207_IKEA_IN_CHINA_Biggest_Market_in_the_World_Financial_Risks)
+- [https://blog.procureport.com/what-is-the-importance-of-risk-management-to-procurement/](https://blog.procureport.com/what-is-the-importance-of-risk-management-to-procurement/)
+- [https://www.ft.com/content/03ad23b3-2dee-410c-8347-336c537ad091](https://www.ft.com/content/03ad23b3-2dee-410c-8347-336c537ad091)
+- [https://tipalti.com/procurement-hub/purchase-requisitions/](https://tipalti.com/procurement-hub/purchase-requisitions/)
+- [https://www.mckinsey.com/industries/retail/our-insights/ten-steps-retailers-can-take-to-shock-proof-their-supply-chains](https://www.mckinsey.com/industries/retail/our-insights/ten-steps-retailers-can-take-to-shock-proof-their-supply-chains)
+- [https://www.pymnts.com/news/retail/2024/ikea-us-ceo-shares-2024-strategy-to-blend-retail-payments-and-ai-for-shopper-appeal/](https://www.pymnts.com/news/retail/2024/ikea-us-ceo-shares-2024-strategy-to-blend-retail-payments-and-ai-for-shopper-appeal/)
+- [https://www.financialfalconet.com/ikea-supply-chain-problems-issues-management/](https://www.financialfalconet.com/ikea-supply-chain-problems-issues-management/)
+- [https://www.controlhub.com/blog/what-is-purchase-requisition](https://www.controlhub.com/blog/what-is-purchase-requisition)
+- [https://nanonets.com/blog/procure-to-pay-process/](https://nanonets.com/blog/procure-to-pay-process/)
+- [https://www2.deloitte.com/content/dam/Deloitte/in/Documents/risk/in-ra-procure-to-pay-analytics-v2-noexp.pdf](https://www2.deloitte.com/content/dam/Deloitte/in/Documents/risk/in-ra-procure-to-pay-analytics-v2-noexp.pdf)
+- [https://whatfix.com/blog/procurement-risks/](https://whatfix.com/blog/procurement-risks/)
+- [https://www.gep.com/blog/technology/harness-the-potential-of-a-purchase-requisition-system](https://www.gep.com/blog/technology/harness-the-potential-of-a-purchase-requisition-system)
+- [https://www.cflowapps.com/procurement/procurement-kpis/](https://www.cflowapps.com/procurement/procurement-kpis/)
+- [https://www.mckinsey.com/capabilities/operations/our-insights/taking-the-pulse-of-shifting-supply-chains](https://www.mckinsey.com/capabilities/operations/our-insights/taking-the-pulse-of-shifting-supply-chains)
+- [https://hbr.org/podcast/2024/01/how-ikea-evolved-its-strategy-while-keeping-its-culture-constant](https://hbr.org/podcast/2024/01/how-ikea-evolved-its-strategy-while-keeping-its-culture-constant)
+- [https://www.isixsigma.com/finance/case-study-reducing-purchase-order-cycle-time-part-1/](https://www.isixsigma.com/finance/case-study-reducing-purchase-order-cycle-time-part-1/)
+- [https://www.clear.tech/blog/purchase-requisition](https://www.clear.tech/blog/purchase-requisition)
+- [https://www.pipefy.com/blog/purchase-to-pay-process-improvement/](https://www.pipefy.com/blog/purchase-to-pay-process-improvement/)
+- [https://projectmanager.com.au/the-ikea-approach-to-risk/](https://projectmanager.com.au/the-ikea-approach-to-risk/)
+- [https://www.thomasnet.com/insights/9-procurement-process-inefficiencies-and-how-to-fix-them/](https://www.thomasnet.com/insights/9-procurement-process-inefficiencies-and-how-to-fix-them/)
+- [https://www.storis.com/2024-industry-trend-guide/](https://www.storis.com/2024-industry-trend-guide/)
+- [https://www.deskera.com/blog/mastering-purchase-requisitions-a-guide-for-manufacturing-executives/](https://www.deskera.com/blog/mastering-purchase-requisitions-a-guide-for-manufacturing-executives/)
+- [https://www.forbes.com/sites/claraludmir/2023/11/24/how-sustainability-and-affordability-can-go-hand-in-hand-the-case-of-ikea/](https://www.forbes.com/sites/claraludmir/2023/11/24/how-sustainability-and-affordability-can-go-hand-in-hand-the-case-of-ikea/)
+- [https://www.researchgate.net/publication/323239003_Minimization_of_Rejection_Rate_using_Lean_Six_Sigma_Tool_in_Medium_Scale_Manufacturing_Industry](https://www.researchgate.net/publication/323239003_Minimization_of_Rejection_Rate_using_Lean_Six_Sigma_Tool_in_Medium_Scale_Manufacturing_Industry)
+- [https://anvyl.com/blog/purchase-order-management-best-practices-for-home-goods-and-furniture-brands/](https://anvyl.com/blog/purchase-order-management-best-practices-for-home-goods-and-furniture-brands/)
+- [https://www.concur.com/blog/article/what-is-purchase-requisition-streamlining-financial-workflow](https://www.concur.com/blog/article/what-is-purchase-requisition-streamlining-financial-workflow)
+- [https://ziphq.com/blog/what-is-a-purchase-requisition](https://ziphq.com/blog/what-is-a-purchase-requisition)
+- [https://www.contractsafe.com/blog/procurement-risks](https://www.contractsafe.com/blog/procurement-risks)
+- [https://myhfa.org/demand-planning-trends-for-2024/](https://myhfa.org/demand-planning-trends-for-2024/)
+- [https://www.projectmanagement.com/articles/264795/The-IKEA-Approach-to-Risk](https://www.projectmanagement.com/articles/264795/The-IKEA-Approach-to-Risk)
+- [https://www.mhcautomation.com/blog/procure-to-pay-process-guide/](https://www.mhcautomation.com/blog/procure-to-pay-process-guide/)
+- [https://www.isixsigma.com/finance/case-study-reducing-purchase-order-cycle-time-part-2/](https://www.isixsigma.com/finance/case-study-reducing-purchase-order-cycle-time-part-2/)
+- [https://www.controlhub.com/blog/p2p-best-practices](https://www.controlhub.com/blog/p2p-best-practices)
+- [https://blog.weproc.com/en/purchasing-process/the-different-types-of-risks-for-your-purchasing-process/](https://blog.weproc.com/en/purchasing-process/the-different-types-of-risks-for-your-purchasing-process/)
+- [https://procurementtactics.com/risk-management-in-procurement/](https://procurementtactics.com/risk-management-in-procurement/)
+- [https://jayrm.medium.com/inside-ikeas-innovative-marketing-strategy-a-blueprint-for-success-6deef6218314](https://jayrm.medium.com/inside-ikeas-innovative-marketing-strategy-a-blueprint-for-success-6deef6218314)

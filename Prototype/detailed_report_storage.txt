@@ -1,0 +1,218 @@
+# Process Inefficiencies in IT Incident Handling: A Focus on the 'Completed -> Accepted' Step in the Automotive Industry
+
+The automotive industry, with its increasing reliance on information technology, faces unique challenges in managing IT incidents efficiently. Volvo, a leading player in this sector, is no exception. The 'Completed -> Accepted' step in the IT incident handling process is critical, as it marks the transition from resolving an incident to formal acknowledgment and acceptance by the affected party. However, this step is often fraught with inefficiencies that can lead to delays, customer dissatisfaction, and increased operational costs.
+
+Common causes of inefficiencies at this stage include communication breakdowns between support teams and end-users, misalignment of expectations regarding the resolution, and inadequate verification processes to ensure that the incident has been resolved to the user's satisfaction. These issues are compounded by the complex and interconnected nature of modern automotive systems, where a single incident may have wide-ranging implications.
+
+Remediation strategies for these inefficiencies involve a multi-faceted approach. Enhancing communication channels, establishing clear protocols for resolution verification, and implementing robust feedback mechanisms are essential steps. Additionally, leveraging process mining techniques, as demonstrated in studies such as the [Process Mining in Information Technology Incident Management: A Case Study at Volvo Belgium](https://ceur-ws.org/Vol-1052/paper2.pdf), can provide valuable insights into process bottlenecks and inefficiencies. By analyzing real-life event logs, organizations can identify patterns such as 'ping-pong' behavior between support teams and misuse of the 'Wait-User' status, which can then be addressed to streamline the 'Completed -> Accepted' step.
+
+In the context of cybersecurity, the [Auto-ISAC series of automotive cybersecurity best practices](https://argus-sec.com/blog/standards-and-compliance/auto-isac-series-of-automotive-cybersecurity-best-practices/) and guidelines from organizations like [NHTSA](https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-09/cybersecurity-best-practices-safety-modern-vehicles-2022-pre-final-tag_0.pdf) provide a framework for incident response that can be adapted to improve the IT incident handling process. These best practices emphasize the importance of rapid incident identification, resolution, and learning from incidents to prevent future occurrences.
+
+As the automotive industry continues to evolve with technological advancements, addressing process inefficiencies in IT incident management remains a priority. This report will delve into the intricacies of the 'Completed -> Accepted' step, exploring the underlying causes of inefficiencies and proposing targeted remediation strategies tailored to the automotive sector, with a particular focus on Volvo's practices and challenges.
+
+## Table of Contents
+
+- Identifying Process Inefficiencies at the 'Completed -&gt; Accepted' Step in IT Incident Handling at Volvo
+    - Common Causes of Inefficiencies in the 'Completed -&gt; Accepted' Step
+    - Remediation Strategies for the 'Completed -&gt; Accepted' Step
+    - Impact of Inefficiencies on Volvo's Operational Performance
+    - Volvo's Approach to Continuous Improvement in Incident Management
+    - Utilizing Data Analytics for Process Optimization
+    - Strategies for Reducing Ping Pong Events in IT Incident Handling at Volvo
+        - Understanding Ping Pong Events in Incident Management
+        - Analyzing the Root Causes of Ping Pong Events
+        - Implementing Cross-Functional Team Collaboration
+        - Enhancing Support Team Training and Specialization
+        - Streamlining Communication and Incident Ownership
+    - Strategies for Reducing Wait-User Status Abuse in IT Incident Handling at Volvo
+        - Defining Clear Guidelines for Wait-User Status
+        - Monitoring and Reporting on Wait-User Status Usage
+        - Training and Awareness Programs
+        - Implementing Automated Alerts for Extended Wait-User Status
+        - Encouraging User Engagement and Feedback
+- Recommendations for Improving IT Incident Handling Efficiency at Volvo
+    - Streamlining the Validation Process for Completed Incidents
+    - Leveraging Incident Management Tools with AI Capabilities
+    - Enhancing Collaboration between IT Teams and End-Users
+    - Implementing Continuous Training and Knowledge Sharing
+    - Regular Auditing and Feedback Mechanisms
+
+
+
+
+
+# Identifying Process Inefficiencies at the 'Completed -> Accepted' Step in IT Incident Handling at Volvo
+
+## Common Causes of Inefficiencies in the 'Completed -> Accepted' Step
+
+In the context of IT incident management, particularly at Volvo, the 'Completed -> Accepted' step is crucial as it signifies the transition of an incident from being resolved by the IT team to being accepted by the end-user or the affected party. Inefficiencies in this step can lead to delays in incident closure, dissatisfaction among end-users, and potential recurrence of issues. Common causes of inefficiencies at this stage include:
+
+- **Lack of Clear Communication**: Inadequate communication between the IT team and the end-user can result in misunderstandings regarding the resolution provided. ([source](https://www.linkedin.com/pulse/streamlining-resolution-gaining-efficiency-leveraging-good-fkjwf))
+- **Insufficient Testing**: If the resolution is not thoroughly tested, it may fail to address the incident adequately, leading to a rejection in the acceptance phase.
+- **Poor Documentation**: Without proper documentation, the end-user may not understand the resolution implemented, causing delays in acceptance. ([source](https://www.alembicstrategy.com/strategic-thinking/how-to-identify-inefficient-processes-and-how-to-address-them))
+- **Resource Constraints**: Limited availability of key personnel to confirm the resolution or provide necessary approvals can stall the acceptance process.
+- **System Limitations**: Inadequate ITSM tools may not support efficient tracking and management of the 'Completed -> Accepted' step, leading to bottlenecks. ([source](https://sprinto.com/blog/incident-management-software/))
+
+## Remediation Strategies for the 'Completed -> Accepted' Step
+
+To address the inefficiencies identified, the following remediation strategies can be implemented:
+
+- **Enhance Communication Protocols**: Establish structured communication channels and protocols to ensure clarity and consistency in conveying the resolution to the end-user. ([source](https://www.linkedin.com/pulse/streamlining-resolution-gaining-efficiency-leveraging-good-fkjwf))
+- **Implement Rigorous Testing Procedures**: Develop a comprehensive testing framework to validate resolutions before they are marked as 'Completed'.
+- **Standardize Documentation Practices**: Create templates and guidelines for documenting incident resolutions to facilitate better understanding and quicker acceptance by end-users.
+- **Optimize Resource Allocation**: Utilize resource management tools to ensure that key personnel are available for timely acceptance of completed incidents.
+- **Upgrade ITSM Tools**: Invest in advanced ITSM solutions that provide better support for tracking and managing the 'Completed -> Accepted' step. ([source](https://sprinto.com/blog/incident-management-software/))
+
+## Impact of Inefficiencies on Volvo's Operational Performance
+
+Inefficiencies in the 'Completed -> Accepted' step can have a significant impact on Volvo's operational performance, including:
+
+- **Increased Resolution Times**: Delays in the acceptance of completed incidents can lead to longer overall resolution times, affecting service level agreements (SLAs).
+- **Customer Dissatisfaction**: Failure to promptly accept and close incidents can result in dissatisfaction among end-users and a perceived lack of responsiveness from the IT department.
+- **Recurring Incidents**: Without proper acceptance and confirmation of resolution, incidents may recur, leading to additional workload and resource consumption.
+
+## Volvo's Approach to Continuous Improvement in Incident Management
+
+Volvo can adopt a continuous improvement approach to address inefficiencies in the incident management process by:
+
+- **Leveraging Improvement Management Technology**: Utilize continuous improvement software to track opportunities for process enhancement and measure the impact of changes over time. ([source](https://blog.kainexus.com/improvement-disciplines/lean/lean-software/automotive-manufacturing/6-steps-to-continuous-improvement-in-automotive-manufacturing))
+- **Adopting Lean Methodologies**: Implement lean principles to streamline the 'Completed -> Accepted' step, eliminating waste and maximizing resource utilization.
+- **Engaging Stakeholders**: Involve IT teams, business units, and end-users in the improvement process to ensure that changes meet the needs of all stakeholders. ([source](https://www.linkedin.com/pulse/streamlining-resolution-gaining-efficiency-leveraging-good-fkjwf))
+
+## Utilizing Data Analytics for Process Optimization
+
+Data analytics can play a pivotal role in identifying and addressing inefficiencies in the 'Completed -> Accepted' step by:
+
+- **Analyzing Incident Data**: Use process mining techniques to analyze incident logs and identify patterns that contribute to delays in the acceptance phase. ([source](http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-1052/paper2.pdf))
+- **Monitoring KPIs**: Establish key performance indicators (KPIs) related to the 'Completed -> Accepted' step to measure performance and identify areas for improvement.
+- **Predictive Analytics**: Implement predictive analytics to forecast potential bottlenecks and proactively address them before they impact the acceptance of completed incidents.
+
+By focusing on these areas, Volvo can enhance the efficiency of the 'Completed -> Accepted' step in its IT incident management process, leading to improved service delivery and customer satisfaction.
+
+
+## Strategies for Reducing Ping Pong Events in IT Incident Handling at Volvo
+
+### Understanding Ping Pong Events in Incident Management
+Ping pong events in IT incident management refer to the frequent back-and-forth transfer of incidents between different support teams or departments. This can lead to increased resolution times and decreased customer satisfaction. At Volvo, reducing these events is crucial for streamlining the incident management process.
+
+### Analyzing the Root Causes of Ping Pong Events
+To mitigate ping pong events, it is essential to understand their root causes. Common factors include unclear incident ownership, lack of expertise within the initial support team, and inadequate communication channels between teams. By identifying these causes, Volvo can implement targeted strategies to reduce the occurrence of such events.
+
+### Implementing Cross-Functional Team Collaboration
+Encouraging collaboration between different support teams can significantly reduce ping pong events. Volvo can establish cross-functional teams that include members from various departments, ensuring that incidents are handled by the most appropriate team from the outset. This approach promotes knowledge sharing and reduces the need for transferring incidents.
+
+### Enhancing Support Team Training and Specialization
+Investing in the training and specialization of support teams can prevent incidents from being passed around unnecessarily. Volvo can provide continuous training for support staff to ensure they have the necessary skills to handle a wide range of incidents. Specialized teams can be developed for complex or recurring issues, minimizing transfers.
+
+### Streamlining Communication and Incident Ownership
+Clear communication channels and defined incident ownership are vital for reducing ping pong events. Volvo can implement a system where each incident is assigned a clear owner responsible for its resolution. This owner would coordinate with other teams as needed, without transferring ownership unless absolutely necessary.
+
+## Strategies for Reducing Wait-User Status Abuse in IT Incident Handling at Volvo
+
+### Defining Clear Guidelines for Wait-User Status
+The misuse of the Wait-User status can artificially inflate resolution KPIs and mask underlying process inefficiencies. Volvo can establish clear guidelines for when and how to use the Wait-User status, ensuring it is applied appropriately and only when the incident resolution genuinely depends on user response.
+
+### Monitoring and Reporting on Wait-User Status Usage
+Regular monitoring and reporting can discourage the misuse of the Wait-User status. Volvo can implement dashboards that track the frequency and duration of incidents in this status, identifying patterns of abuse and enabling management to take corrective action.
+
+### Training and Awareness Programs
+Educating support teams on the impact of Wait-User status abuse is crucial. Volvo can conduct training sessions to explain the importance of accurate status reporting and how it affects the company's ability to resolve incidents efficiently.
+
+### Implementing Automated Alerts for Extended Wait-User Status
+To prevent incidents from lingering in the Wait-User status, Volvo can use automated alerts that notify support teams when an incident has been in this status beyond a reasonable timeframe. This prompts a review of the incident and encourages timely follow-up with the user.
+
+### Encouraging User Engagement and Feedback
+Improving user engagement can reduce the need for the Wait-User status. Volvo can create channels for easy user feedback and prompt responses to support queries, ensuring that users provide the necessary information for incident resolution in a timely manner.
+
+
+# Recommendations for Improving IT Incident Handling Efficiency at Volvo
+
+## Streamlining the Validation Process for Completed Incidents
+
+To enhance the efficiency of the 'Completed -> Accepted' step in IT incident handling, Volvo can implement a streamlined validation process. This involves setting up automated checks that verify whether the resolution meets the predefined criteria before it is marked as 'Completed'. Additionally, a checklist for incident owners to confirm resolution effectiveness can be established, ensuring that all necessary steps are taken before an incident is passed on for acceptance.
+
+## Leveraging Incident Management Tools with AI Capabilities
+
+Volvo can benefit from incident management tools that incorporate artificial intelligence (AI) to predict and classify the urgency and impact of incidents. AI can also suggest solutions based on historical data, which can expedite the resolution process. By integrating AI into their incident management system, Volvo can reduce the time taken for incidents to move from 'Completed' to 'Accepted' as the AI can assist in ensuring that resolutions are comprehensive and likely to be accepted by the end-user or stakeholder.
+
+## Enhancing Collaboration between IT Teams and End-Users
+
+Improving collaboration between IT teams and end-users is crucial for the 'Completed -> Accepted' step. Volvo can establish a protocol for direct communication channels, such as chat or video calls, to discuss the resolution before marking it as 'Completed'. This proactive engagement can clarify any misunderstandings and confirm that the solution aligns with the user's expectations, leading to quicker acceptance.
+
+## Implementing Continuous Training and Knowledge Sharing
+
+Continuous training programs for IT staff at Volvo can focus on the latest incident management best practices and tools. Knowledge sharing sessions can be organized to disseminate lessons learned from past incidents, which can improve the handling of future incidents. By investing in the ongoing education of their IT personnel, Volvo can ensure that their team is well-equipped to handle incidents efficiently, reducing the time between 'Completed' and 'Accepted' statuses.
+
+## Regular Auditing and Feedback Mechanisms
+
+Volvo should conduct regular audits of the incident management process to identify bottlenecks and areas for improvement. Feedback mechanisms can be put in place to gather insights from both IT staff and end-users about the 'Completed -> Accepted' step. This feedback can be analyzed to make data-driven improvements to the process, ensuring that incidents are accepted promptly and with fewer iterations.
+
+By focusing on these recommendations, Volvo can enhance the efficiency of their IT incident handling process, particularly at the critical 'Completed -> Accepted' step, leading to improved service quality and customer satisfaction.
+
+
+## References
+
+- [https://underdefense.com/wp-content/uploads/2020/11/Car-Manufacturer-Incident-Forensics-and-Response-.pdf](https://underdefense.com/wp-content/uploads/2020/11/Car-Manufacturer-Incident-Forensics-and-Response-.pdf)
+- [https://automotiveisac.com/best-practices/](https://automotiveisac.com/best-practices/)
+- [https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/automotive-r-and-d-transformation-optimizing-gen-ais-potential-value](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/automotive-r-and-d-transformation-optimizing-gen-ais-potential-value)
+- [https://www.sportingbounce.com/blog/sports-psychology-for-table-tennis](https://www.sportingbounce.com/blog/sports-psychology-for-table-tennis)
+- [https://www.researchgate.net/publication/257307622_Analysis_of_the_Volvo_IT_Incident_and_Problem_Handling_Processes_using_Process_Mining_and_Social_Network_Analysis](https://www.researchgate.net/publication/257307622_Analysis_of_the_Volvo_IT_Incident_and_Problem_Handling_Processes_using_Process_Mining_and_Social_Network_Analysis)
+- [https://f.hubspotusercontent00.net/hubfs/4266002/Library/Case Studies/Updates/Crypsis20_Case Study_IRR_Automotive Manufacturer_Update.pdf](https://f.hubspotusercontent00.net/hubfs/4266002/Library/Case Studies/Updates/Crypsis20_Case Study_IRR_Automotive Manufacturer_Update.pdf)
+- [https://www.netreo.com/blog/12-best-practices-to-improve-incident-management/](https://www.netreo.com/blog/12-best-practices-to-improve-incident-management/)
+- [https://ceur-ws.org/Vol-1052/paper12.pdf](https://ceur-ws.org/Vol-1052/paper12.pdf)
+- [https://www.lucidchart.com/blog/fix-inefficient-processes](https://www.lucidchart.com/blog/fix-inefficient-processes)
+- [https://www.linkedin.com/pulse/optimizing-incident-management-strategies-best-practices-kvwlf](https://www.linkedin.com/pulse/optimizing-incident-management-strategies-best-practices-kvwlf)
+- [https://automotiveisac.com/download-best-practices](https://automotiveisac.com/download-best-practices)
+- [https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624738c9719c1e3de2d61608/1648834762155/0_Auto-ISAC-BPs_Executive-Summary_01July2019_TLP-White.pdf](https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624738c9719c1e3de2d61608/1648834762155/0_Auto-ISAC-BPs_Executive-Summary_01July2019_TLP-White.pdf)
+- [http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-1052/paper8.pdf](http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-1052/paper8.pdf)
+- [https://www.process.st/how-to-improve-a-process/](https://www.process.st/how-to-improve-a-process/)
+- [https://www.squadcast.com/blog/streamline-incident-resolution-with-squadcasts-outgoing-webhooks](https://www.squadcast.com/blog/streamline-incident-resolution-with-squadcasts-outgoing-webhooks)
+- [https://link.springer.com/content/pdf/10.1007/978-3-319-24647-5_2.pdf](https://link.springer.com/content/pdf/10.1007/978-3-319-24647-5_2.pdf)
+- [http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-1052/paper2.pdf](http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-1052/paper2.pdf)
+- [https://www.thomasnet.com/insights/auto-industry-reshoring-ai/](https://www.thomasnet.com/insights/auto-industry-reshoring-ai/)
+- [https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/vehicle_cybersecurity_best_practices_01072021.pdf](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/vehicle_cybersecurity_best_practices_01072021.pdf)
+- [https://www.researchgate.net/publication/277132872_BPIC_2013_Volvo_Incident_and_Problem_Management_Behavior_Analysis](https://www.researchgate.net/publication/277132872_BPIC_2013_Volvo_Incident_and_Problem_Management_Behavior_Analysis)
+- [https://www.barrelny.com/posts/ping-pong-method-customer-service](https://www.barrelny.com/posts/ping-pong-method-customer-service)
+- [https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739cefc47ee5a2587d126/1648835022990/4_Auto-ISAC-BPs_Risk-Management_19August2019_TLP_White.pdf](https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739cefc47ee5a2587d126/1648835022990/4_Auto-ISAC-BPs_Risk-Management_19August2019_TLP_White.pdf)
+- [https://www.apqc.org/resource-library/resource-listing/2024-supply-chain-priorities-and-challenges-automotive-industry](https://www.apqc.org/resource-library/resource-listing/2024-supply-chain-priorities-and-challenges-automotive-industry)
+- [https://www.businesstechweekly.com/cybersecurity/risk-management/incident-response-best-practices/](https://www.businesstechweekly.com/cybersecurity/risk-management/incident-response-best-practices/)
+- [https://www.autohouse.com/blog/2024-automotive-industry-trends/](https://www.autohouse.com/blog/2024-automotive-industry-trends/)
+- [https://ceur-ws.org/Vol-1052/paper8.pdf](https://ceur-ws.org/Vol-1052/paper8.pdf)
+- [https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/return-to-sender-resolving-the-automotive-recall-resurgence](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/return-to-sender-resolving-the-automotive-recall-resurgence)
+- [https://www.mckinsey.com/~/media/mckinsey/industries/automotive and assembly/our insights/cybersecurity in automotive mastering the challenge/cybersecurity-in-automotive-mastering-the-challenge.pdf](https://www.mckinsey.com/~/media/mckinsey/industries/automotive and assembly/our insights/cybersecurity in automotive mastering the challenge/cybersecurity-in-automotive-mastering-the-challenge.pdf)
+- [https://pingpongreviewed.com/ping-pong-techniques/](https://pingpongreviewed.com/ping-pong-techniques/)
+- [https://csrc.nist.gov/csrc/media/publications/shared/documents/itl-bulletin/itlbul2012-09.pdf](https://csrc.nist.gov/csrc/media/publications/shared/documents/itl-bulletin/itlbul2012-09.pdf)
+- [https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/62473a09c9eb8b4806c08071/1648835081607/7_auto-isac-bps_sdl_02february2020_tlp_white.pdf](https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/62473a09c9eb8b4806c08071/1648835081607/7_auto-isac-bps_sdl_02february2020_tlp_white.pdf)
+- [https://www.primebpm.com/unlocking-efficiency-leveraging-root-cause-analysis-for-process-optimisation/](https://www.primebpm.com/unlocking-efficiency-leveraging-root-cause-analysis-for-process-optimisation/)
+- [https://www.greenpaddle.com/blogs/posts/table-tennis-psychology-ultimate-guide](https://www.greenpaddle.com/blogs/posts/table-tennis-psychology-ultimate-guide)
+- [https://ceur-ws.org/Vol-1052/paper1.pdf](https://ceur-ws.org/Vol-1052/paper1.pdf)
+- [https://mdpi-res.com/d_attachment/mca/mca-27-00002/article_deploy/mca-27-00002.pdf?version=1640940484](https://mdpi-res.com/d_attachment/mca/mca-27-00002/article_deploy/mca-27-00002.pdf?version=1640940484)
+- [https://ieeexplore.ieee.org/document/9874288](https://ieeexplore.ieee.org/document/9874288)
+- [https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/15-tips-for-identifying-and-addressing-operational-inefficiencies/](https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/15-tips-for-identifying-and-addressing-operational-inefficiencies/)
+- [https://www.linkedin.com/pulse/streamlining-resolution-gaining-efficiency-leveraging-good-fkjwf](https://www.linkedin.com/pulse/streamlining-resolution-gaining-efficiency-leveraging-good-fkjwf)
+- [https://res.mdpi.com/d_attachment/energies/energies-13-05766/article_deploy/energies-13-05766.pdf](https://res.mdpi.com/d_attachment/energies/energies-13-05766/article_deploy/energies-13-05766.pdf)
+- [https://ceur-ws.org/Vol-1052/paper2.pdf](https://ceur-ws.org/Vol-1052/paper2.pdf)
+- [https://upstream.auto/reports/global-automotive-cybersecurity-report/](https://upstream.auto/reports/global-automotive-cybersecurity-report/)
+- [https://www.alembicstrategy.com/strategic-thinking/how-to-identify-inefficient-processes-and-how-to-address-them](https://www.alembicstrategy.com/strategic-thinking/how-to-identify-inefficient-processes-and-how-to-address-them)
+- [https://www.researchgate.net/publication/289716463_Process_mining-based_understanding_and_analysis_of_Volvo_IT's_incident_and_problem_management_processes_the_BPI_challenge_2013](https://www.researchgate.net/publication/289716463_Process_mining-based_understanding_and_analysis_of_Volvo_IT's_incident_and_problem_management_processes_the_BPI_challenge_2013)
+- [https://www.sciencedirect.com/science/article/pii/S0951832021003835](https://www.sciencedirect.com/science/article/pii/S0951832021003835)
+- [https://www.tuvsud.com/en-us/-/media/global/pdf-files/whitepaper-report-e-books/tuvsud-iatf-16949.pdf](https://www.tuvsud.com/en-us/-/media/global/pdf-files/whitepaper-report-e-books/tuvsud-iatf-16949.pdf)
+- [https://www.squadcast.com/blog/comparing-the-top-5-on-call-management-software-solutions-in-2024](https://www.squadcast.com/blog/comparing-the-top-5-on-call-management-software-solutions-in-2024)
+- [https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
+- [https://ceur-ws.org/Vol-1052/paper10.pdf](https://ceur-ws.org/Vol-1052/paper10.pdf)
+- [https://kepner-tregoe.com/success-stories/improving-it-incident-management-performance/](https://kepner-tregoe.com/success-stories/improving-it-incident-management-performance/)
+- [https://www.automation.com/en-us/articles/april-2022/case-study-how-technology-automotive-manufacturers](https://www.automation.com/en-us/articles/april-2022/case-study-how-technology-automotive-manufacturers)
+- [https://scholarworks.moreheadstate.edu/cgi/viewcontent.cgi?article=1860&context=msu_theses_dissertations](https://scholarworks.moreheadstate.edu/cgi/viewcontent.cgi?article=1860&context=msu_theses_dissertations)
+- [https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.ipd.pdf](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r3.ipd.pdf)
+- [https://argus-sec.com/blog/standards-and-compliance/auto-isac-series-of-automotive-cybersecurity-best-practices/](https://argus-sec.com/blog/standards-and-compliance/auto-isac-series-of-automotive-cybersecurity-best-practices/)
+- [https://www.eidebailly.com/insights/articles/2022/1/how-to-identify-and-improve-your-inefficient-business-processes](https://www.eidebailly.com/insights/articles/2022/1/how-to-identify-and-improve-your-inefficient-business-processes)
+- [https://www.indeed.com/career-advice/career-development/inefficient-process](https://www.indeed.com/career-advice/career-development/inefficient-process)
+- [https://sprinto.com/blog/incident-management-software/](https://sprinto.com/blog/incident-management-software/)
+- [https://www.linkedin.com/advice/0/what-some-effective-ways-identify-eliminate-inefficiencies](https://www.linkedin.com/advice/0/what-some-effective-ways-identify-eliminate-inefficiencies)
+- [https://racketinsight.com/table-tennis/technical-advice-attacking-players/](https://racketinsight.com/table-tennis/technical-advice-attacking-players/)
+- [https://www.squadcast.com/blog/the-6-best-incident-management-software-in-2024](https://www.squadcast.com/blog/the-6-best-incident-management-software-in-2024)
+- [https://research.aimultiple.com/digital-transformation-automotive/](https://research.aimultiple.com/digital-transformation-automotive/)
+- [https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-09/cybersecurity-best-practices-safety-modern-vehicles-2022-pre-final-tag_0.pdf](https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-09/cybersecurity-best-practices-safety-modern-vehicles-2022-pre-final-tag_0.pdf)
+- [https://blog.kainexus.com/improvement-disciplines/lean/lean-software/automotive-manufacturing/6-steps-to-continuous-improvement-in-automotive-manufacturing](https://blog.kainexus.com/improvement-disciplines/lean/lean-software/automotive-manufacturing/6-steps-to-continuous-improvement-in-automotive-manufacturing)
+- [https://www.ptc.com/en/blogs/alm/top-automotive-trends-in-2024](https://www.ptc.com/en/blogs/alm/top-automotive-trends-in-2024)
+- [https://ics-cert.kaspersky.com/publications/reports/2024/02/07/cybersecurity-in-the-automotive-industry-ensuring-compliance-with-unece-regulations/](https://ics-cert.kaspersky.com/publications/reports/2024/02/07/cybersecurity-in-the-automotive-industry-ensuring-compliance-with-unece-regulations/)

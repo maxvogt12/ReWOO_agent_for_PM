@@ -1,0 +1,174 @@
+# Geopolitical Risks Impacting the Purchase to Pay Process in the Furniture Retail Sector: An IKEA Perspective
+
+The global furniture retail sector, exemplified by industry leader IKEA, is navigating a complex and risk-laden landscape as it manages the critical 'Create Purchase Requisition -> Validate Invoice' step in the purchase to pay (P2P) process. This stage is foundational to procurement efficiency and business growth, yet it is increasingly vulnerable to a myriad of geopolitical risks that can disrupt operations and impact financial performance.
+
+In recent years, the geopolitical environment has become a central concern for procurement professionals, with events such as the ongoing [war between Russia and Ukraine](https://www.resilinc.com/blog/geopolitical-supply-chain-risks-2024/), the [Israel-Hamas conflict](https://www.resilinc.com/blog/geopolitical-supply-chain-risks-2024/), and the [crisis in the Red Sea](https://www.resilinc.com/blog/geopolitical-supply-chain-risks-2024/) sending shockwaves through global supply chains. These conflicts have led to increased shipping rates, access restrictions to critical materials, and heightened insurance premiums, directly affecting the P2P process.
+
+The [Red Sea Crisis](https://www.forbes.com/sites/dennismitzner/2024/02/19/red-sea-tensions-impact-on-global-trade-retail-and-manufacturing/), in particular, has caused major shipping companies to reroute from the Suez Canal, leading to longer transit times and higher costs. This has a direct bearing on the furniture retail sector, where companies like IKEA rely on timely and cost-effective transportation of goods from diverse global suppliers.
+
+Furthermore, the [supply chain trends outlook for 2024](https://www.supplychaindive.com/news/supply-chain-trends-outlook-2024/706096/) indicates that elevated operating costs, labor tensions, and fluctuating freight demand continue to pose risks to transportation modes critical to IKEA's supply chain. These factors can lead to delays and increased costs during the 'Create Purchase Requisition' phase, potentially causing a ripple effect through to 'Validate Invoice' and beyond.
+
+In addition to these direct supply chain impacts, IKEA must also navigate broader geopolitical trends, such as the [shifting focus of the global economy](https://www2.deloitte.com/content/dam/Deloitte/pl/Documents/Reports/Global-Retail-Outlook-2024.pdf) from goods to services, inflationary pressures, and consumer shifts towards more cost-conscious purchasing behaviors. These trends necessitate a strategic approach to procurement and risk management, ensuring that IKEA can maintain its commitment to sustainability and ethical practices, including [combating child labor](https://medium.com/discourse/is-ikea-ethical-and-sustainable-6121b334e77e) and reducing its environmental impact.
+
+As we stand in April 2024, it is clear that IKEA, along with the entire furniture retail sector, must remain vigilant and proactive in the face of these geopolitical risks. The ability to adapt procurement strategies, leverage technology such as [predictive analytics](https://www.goodfirms.co/inventory-management-software/blog/ikea-works-hard-to-mitigate-global-supply-chain-disruption), and maintain robust supplier relationships will be critical in navigating the uncertainties of the 'Create Purchase Requisition -> Validate Invoice' step in the P2P process.
+
+## Table of Contents
+
+- Assessment of Geopolitical Risks Impacting Furniture Retail Supply Chains
+    - Global Political Instability and Trade Disruptions
+    - Economic Sanctions and Trade Barriers
+    - Climate Change and Environmental Policies
+    - Misinformation and Disinformation
+    - Supply Chain Resilience and Diversification
+- Strategies for Mitigating Geopolitical Risks in the Purchase to Pay Cycle
+    - Diversification of Supplier Base
+    - Political Risk Insurance
+    - Enhanced Monitoring and Forecasting
+    - Strengthening Cybersecurity Measures
+    - Collaborative Risk Management
+- Technological Innovations and Best Practices in Purchase to Pay for Resilience
+    - Adoption of AI and Machine Learning
+    - Implementation of Robotic Process Automation (RPA)
+    - Utilization of Blockchain for Transparency
+    - Digital Wallets and Payment Technologies
+    - Data Analytics for Risk Assessment
+
+
+
+
+
+# Assessment of Geopolitical Risks Impacting Furniture Retail Supply Chains
+
+## Global Political Instability and Trade Disruptions
+
+The furniture retail sector, including companies like IKEA, is susceptible to global political instability which can lead to trade disruptions. The ongoing conflict in regions such as the Middle East, particularly the Red Sea attacks, has already prompted major shipping companies to reroute their vessels, adding significant delays and costs to the supply chain ([The Guardian](https://www.theguardian.com/business/2023/dec/21/ikea-warns-red-sea-attacks-could-disrupt-supplies-and-deliveries)). This instability can affect the 'Create Purchase Requisition -> Validate Invoice' step by causing unpredictability in the availability and cost of goods, leading to challenges in fulfilling purchase requisitions and validating invoices due to fluctuating prices and delayed deliveries.
+
+## Economic Sanctions and Trade Barriers
+
+Economic sanctions and trade barriers imposed in response to geopolitical events can have a direct impact on the furniture retail sector's supply chain. For instance, the sanctions and export controls resulting from Russia's actions in Ukraine have disrupted the flow of natural gas, oil, and grain, causing companies to reconsider their supply chains ([Foley](https://www.foley.com/insights/publications/2022/07/avoid-supply-chain-disruption-geopolitical-risk/)). These disruptions can lead to increased costs and scarcity of materials, which in turn can complicate the purchase requisition process and lead to discrepancies during invoice validation.
+
+## Climate Change and Environmental Policies
+
+Climate change poses significant risks to global supply chains, with extreme weather events topping the list of immediate threats ([World Economic Forum](https://www.weforum.org/agenda/2024/01/global-risks-report-2024/)). Furniture retailers may face challenges in sourcing materials and ensuring the timely transportation of goods. Additionally, environmental policies aimed at combating climate change could lead to changes in regulations, affecting the sourcing and manufacturing of furniture. These factors can influence the 'Create Purchase Requisition' step by necessitating adjustments to sourcing strategies and could lead to increased scrutiny during the 'Validate Invoice' step to ensure compliance with new regulations.
+
+## Misinformation and Disinformation
+
+The spread of misinformation and disinformation, particularly around AI-generated content, can lead to civil unrest and government-driven censorship ([World Economic Forum](https://www.weforum.org/agenda/2024/01/global-risks-report-2024/)). This can indirectly impact the furniture retail sector by affecting consumer confidence and leading to potential market instability. Such an environment can complicate the procurement process and invoice validation due to the potential for misinformation regarding supplier reliability and product availability.
+
+## Supply Chain Resilience and Diversification
+
+In response to these geopolitical risks, furniture retailers like IKEA may need to focus on building resilient and diversified supply chains. This involves identifying alternative suppliers and routes, investing in local sourcing where possible, and employing technology to enhance supply chain visibility. These strategies can mitigate the impact of geopolitical risks on the 'Create Purchase Requisition -> Validate Invoice' step by ensuring a more stable and predictable supply chain, allowing for more accurate forecasting and budgeting during the procurement process.
+
+In summary, geopolitical risks can significantly impact the furniture retail sector's supply chain, particularly at the 'Create Purchase Requisition -> Validate Invoice' step. Companies must remain vigilant and adaptable to navigate these challenges effectively.
+
+
+# Strategies for Mitigating Geopolitical Risks in the Purchase to Pay Cycle
+
+## Diversification of Supplier Base
+To mitigate geopolitical risks in the purchase to pay cycle, furniture retailers like IKEA should consider diversifying their supplier base. By sourcing materials and products from a variety of countries and regions, companies can reduce their dependency on any single area that may be subject to political instability, trade restrictions, or other geopolitical events. This strategy can help maintain a steady flow of goods even when certain regions are experiencing disruptions. For instance, IKEA's supply chain strategy includes long-term relationships with suppliers across the globe, which can be leveraged to redistribute orders when necessary ([Thomasnet](https://www.thomasnet.com/insights/ikea-supply-chain/)).
+
+## Political Risk Insurance
+Political risk insurance is a financial tool that can protect businesses from losses due to geopolitical events such as expropriation, political violence, or currency inconvertibility. Furniture retailers should assess their exposure to such risks and consider purchasing appropriate insurance coverage. This can provide a safety net for investments in volatile regions and ensure financial stability during periods of geopolitical uncertainty. Political risk insurance can be particularly relevant for protecting assets and investments in countries with high geopolitical risk profiles.
+
+## Enhanced Monitoring and Forecasting
+Regular monitoring and forecasting of geopolitical events enable businesses to anticipate and prepare for potential impacts on their operations. Furniture retailers should invest in intelligence and risk assessment services that provide real-time updates on geopolitical developments. By staying informed, companies like IKEA can make proactive adjustments to their purchase to pay cycle, such as altering purchase requisitions or expediting invoice validations before a situation escalates. Advanced analytics and AI can also play a role in predicting geopolitical shifts, allowing businesses to respond swiftly to emerging risks.
+
+## Strengthening Cybersecurity Measures
+In the digital age, geopolitical risks extend to the cyber realm. Cyberattacks can disrupt the purchase to pay cycle by targeting invoice validation systems or supplier communication channels. Furniture retailers must ensure robust cybersecurity measures are in place to protect against such threats. This includes regular security audits, employee training on cyber hygiene, and the implementation of secure invoicing platforms that can detect and prevent fraudulent activities. IKEA, for example, could benefit from automated invoice validation systems that reduce the risk of cyber fraud ([Dataserv](https://www.dataserv.com/blog/invoice-validation/)).
+
+## Collaborative Risk Management
+Collaboration between retailers and their suppliers is crucial for managing geopolitical risks effectively. Furniture retailers should work closely with their suppliers to establish joint risk management protocols and contingency plans. This collaborative approach ensures that all parties are aligned and can respond collectively to disruptions in the purchase to pay cycle. Sharing information and best practices can also help in identifying potential risks early and developing more resilient supply chain strategies.
+
+By implementing these strategies, furniture retailers like IKEA can navigate the complexities of geopolitical risks in the purchase to pay cycle, ensuring that their operations remain stable and efficient despite the uncertainties of the global political landscape.
+
+
+# Technological Innovations and Best Practices in Purchase to Pay for Resilience
+
+## Adoption of AI and Machine Learning
+The integration of AI and machine learning technologies in the purchase to pay (P2P) process is revolutionizing the way furniture retail companies like IKEA manage their procurement and invoicing. AI algorithms enhance supplier selection, contract management, and spend analysis, leading to more informed decision-making and streamlined operations. For instance, IKEA's use of AI for demand forecasting and personalized recommendations has improved stock optimization and customer satisfaction ([IKEA's Leap Forward with Data and AI](https://d3.harvard.edu/platform-digit/submission/ikeas-leap-forward-with-data-and-ai)).
+
+## Implementation of Robotic Process Automation (RPA)
+RPA is being employed to automate repetitive tasks within the P2P cycle, such as invoice validation. This not only reduces the potential for human error but also frees up staff to focus on more strategic tasks. By automating the 'Create Purchase Requisition -> Validate Invoice' step, companies can ensure greater accuracy and efficiency, which is crucial in the face of geopolitical risks that may disrupt supply chains.
+
+## Utilization of Blockchain for Transparency
+Blockchain technology offers an immutable ledger that can be used to record transactions securely and transparently. In the context of geopolitical risks, blockchain can provide a clear record of transactions and help ensure compliance with international regulations and sanctions. This technology can be particularly useful in validating the authenticity of invoices and preventing fraud.
+
+## Digital Wallets and Payment Technologies
+The rise of digital wallets and advanced payment technologies, including biometric authentication, is enhancing the security and efficiency of the payment process. Furniture retailers like IKEA can benefit from these technologies by reducing the risk of fraud and ensuring seamless transactions, even in the face of geopolitical tensions that may affect traditional banking systems ([PayPal Payment Technology Trends](https://www.paypal.com/us/brc/article/8-payment-technology-trends-2024)).
+
+## Data Analytics for Risk Assessment
+Data analytics plays a pivotal role in identifying and mitigating geopolitical risks at every stage of the P2P process. By analyzing large volumes of data, furniture retailers can anticipate and respond to potential disruptions caused by geopolitical events. This proactive approach allows for better risk management and ensures business continuity.
+
+In summary, technological innovations such as AI, RPA, blockchain, digital payment technologies, and data analytics are essential best practices for enhancing resilience in the P2P process, particularly in the furniture retail sector. Companies like IKEA are already leveraging these technologies to navigate the complexities of geopolitical risks and maintain efficient and secure operations.
+
+
+## References
+
+- [https://www.forbes.com/sites/claraludmir/2023/11/24/how-sustainability-and-affordability-can-go-hand-in-hand-the-case-of-ikea/](https://www.forbes.com/sites/claraludmir/2023/11/24/how-sustainability-and-affordability-can-go-hand-in-hand-the-case-of-ikea/)
+- [https://blog.weproc.com/en/purchasing-process/purchase-requisition-process-definition/](https://blog.weproc.com/en/purchasing-process/purchase-requisition-process-definition/)
+- [https://hbr.org/2021/06/inside-ikeas-digital-transformation](https://hbr.org/2021/06/inside-ikeas-digital-transformation)
+- [https://www.invensis.net/blog/importance-of-invoice-validation](https://www.invensis.net/blog/importance-of-invoice-validation)
+- [https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-era-of-resiliency-in-the-cloud](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/the-new-era-of-resiliency-in-the-cloud)
+- [https://www.resilinc.com/blog/geopolitical-supply-chain-risks-2024/](https://www.resilinc.com/blog/geopolitical-supply-chain-risks-2024/)
+- [https://www.controlhub.com/blog/risk-management-in-the-procure-to-pay-process](https://www.controlhub.com/blog/risk-management-in-the-procure-to-pay-process)
+- [https://research.aimultiple.com/p2p-ai/](https://research.aimultiple.com/p2p-ai/)
+- [https://www.deloitte.com/global/en/Industries/consumer/analysis/global-retail-outlook.html](https://www.deloitte.com/global/en/Industries/consumer/analysis/global-retail-outlook.html)
+- [https://www.supplychaindive.com/news/ikea-furniture-store-fulfillment-operations-automation/616679/](https://www.supplychaindive.com/news/ikea-furniture-store-fulfillment-operations-automation/616679/)
+- [https://www.fraxion.biz/blog/guide-to-the-purchase-requisition-process](https://www.fraxion.biz/blog/guide-to-the-purchase-requisition-process)
+- [https://blog.cylindo.com/the-state-of-the-furniture-industry](https://blog.cylindo.com/the-state-of-the-furniture-industry)
+- [https://www.spglobal.com/en/enterprise/geopolitical-risk/](https://www.spglobal.com/en/enterprise/geopolitical-risk/)
+- [https://www.pwc.com/us/en/services/consulting/business-transformation/library/supply-chain-geopolitical-unrest.html](https://www.pwc.com/us/en/services/consulting/business-transformation/library/supply-chain-geopolitical-unrest.html)
+- [https://www.wtwco.com/en-gb/insights/2024/03/global-retail-risk-outlook-2024](https://www.wtwco.com/en-gb/insights/2024/03/global-retail-risk-outlook-2024)
+- [https://www.imd.org/ibyimd/supply-chain/three-strategies-to-de-risk-supply-chains-amid-soaring-geopolitical-tensions/](https://www.imd.org/ibyimd/supply-chain/three-strategies-to-de-risk-supply-chains-amid-soaring-geopolitical-tensions/)
+- [https://www.marketingscoop.com/ai/automated-invoice-validation/](https://www.marketingscoop.com/ai/automated-invoice-validation/)
+- [https://www2.deloitte.com/uk/en/blog/risk-powers-performance/2024/navigating-uncertainty-practical-steps-to-address-geopolitical-risk-in-2024.html](https://www2.deloitte.com/uk/en/blog/risk-powers-performance/2024/navigating-uncertainty-practical-steps-to-address-geopolitical-risk-in-2024.html)
+- [https://www.furnituretoday.com/opinion/navigating-the-new-norms-u-s-furniture-retails-mid-2023-evolution-ben-haverty/](https://www.furnituretoday.com/opinion/navigating-the-new-norms-u-s-furniture-retails-mid-2023-evolution-ben-haverty/)
+- [https://www.payshepherd.com/blog/procure-to-pay-process](https://www.payshepherd.com/blog/procure-to-pay-process)
+- [https://www.imd.org/ibyimd/management/where-business-and-policy-meet-managing-geopolitical-tensions/](https://www.imd.org/ibyimd/management/where-business-and-policy-meet-managing-geopolitical-tensions/)
+- [https://www.forbes.com/sites/dennismitzner/2024/02/19/red-sea-tensions-impact-on-global-trade-retail-and-manufacturing/](https://www.forbes.com/sites/dennismitzner/2024/02/19/red-sea-tensions-impact-on-global-trade-retail-and-manufacturing/)
+- [https://www.sphericalinsights.com/blogs/top-10-global-furniture-industry-trends-in-2024](https://www.sphericalinsights.com/blogs/top-10-global-furniture-industry-trends-in-2024)
+- [https://www.weforum.org/agenda/2022/07/supply-chain-disruptions/](https://www.weforum.org/agenda/2022/07/supply-chain-disruptions/)
+- [https://www.flowfacilitators.com/supply-chain-risk-management-managing-geopolitical-risks](https://www.flowfacilitators.com/supply-chain-risk-management-managing-geopolitical-risks)
+- [https://www.pipefy.com/blog/procure-to-pay-trends/](https://www.pipefy.com/blog/procure-to-pay-trends/)
+- [https://www.furnituretoday.com/opinion/how-can-furniture-retailers-adapt-to-retail-space-shrinking-ben-haverty/](https://www.furnituretoday.com/opinion/how-can-furniture-retailers-adapt-to-retail-space-shrinking-ben-haverty/)
+- [https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/a-technology-survival-guide-for-resilience](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/a-technology-survival-guide-for-resilience)
+- [https://enterprise.craft.co/post/geopolitical-risks-and-their-impact-on-supply-chains](https://enterprise.craft.co/post/geopolitical-risks-and-their-impact-on-supply-chains)
+- [https://www.zycus.com/blog/procurement-technology/source-to-pay-trends-shaping-procurement](https://www.zycus.com/blog/procurement-technology/source-to-pay-trends-shaping-procurement)
+- [https://www.gartner.com/en/supply-chain/insights/beyond-supply-chain-blog/the-geopolitical-weaponization-of-supply-chain](https://www.gartner.com/en/supply-chain/insights/beyond-supply-chain-blog/the-geopolitical-weaponization-of-supply-chain)
+- [https://www.wsj.com/articles/new-disruptions-geopolitics-hang-over-2024-supply-chains-6fca8f1e](https://www.wsj.com/articles/new-disruptions-geopolitics-hang-over-2024-supply-chains-6fca8f1e)
+- [https://www.researchgate.net/publication/336850754_Analysis_of_IKEA's_Internationalization_Strategy](https://www.researchgate.net/publication/336850754_Analysis_of_IKEA's_Internationalization_Strategy)
+- [https://www.supplychaindive.com/news/IKEA-Circular-Supply-Chain-Waste-Hierarchy/519481/](https://www.supplychaindive.com/news/IKEA-Circular-Supply-Chain-Waste-Hierarchy/519481/)
+- [https://www.dataserv.com/blog/invoice-validation/](https://www.dataserv.com/blog/invoice-validation/)
+- [https://www.bill.com/learning/invoice-validation](https://www.bill.com/learning/invoice-validation)
+- [https://www.startus-insights.com/innovators-guide/furniture-industry-trends/](https://www.startus-insights.com/innovators-guide/furniture-industry-trends/)
+- [https://www.theagilityeffect.com/en/case/how-ikea-is-stepping-up-its-digital-transformation/](https://www.theagilityeffect.com/en/case/how-ikea-is-stepping-up-its-digital-transformation/)
+- [https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/how-global-companies-can-manage-geopolitical-risk](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/how-global-companies-can-manage-geopolitical-risk)
+- [https://www.linkedin.com/pulse/resilient-furniture-industry-sees-new-opportunities-despite-1um1e](https://www.linkedin.com/pulse/resilient-furniture-industry-sees-new-opportunities-despite-1um1e)
+- [https://www.cio.com/article/402582/7-tips-for-improving-it-resilience-in-the-digital-era.html](https://www.cio.com/article/402582/7-tips-for-improving-it-resilience-in-the-digital-era.html)
+- [https://www.financestrategists.com/wealth-management/investment-risk/geopolitical-risk-management/](https://www.financestrategists.com/wealth-management/investment-risk/geopolitical-risk-management/)
+- [https://medium.com/discourse/is-ikea-ethical-and-sustainable-6121b334e77e](https://medium.com/discourse/is-ikea-ethical-and-sustainable-6121b334e77e)
+- [https://www.goodfirms.co/inventory-management-software/blog/ikea-works-hard-to-mitigate-global-supply-chain-disruption](https://www.goodfirms.co/inventory-management-software/blog/ikea-works-hard-to-mitigate-global-supply-chain-disruption)
+- [https://www.forbes.com/sites/kaleighmoore/2022/05/16/how-furniture-brands-and-manufacturers-are-coping-with-ongoing-supply-chain-strain/](https://www.forbes.com/sites/kaleighmoore/2022/05/16/how-furniture-brands-and-manufacturers-are-coping-with-ongoing-supply-chain-strain/)
+- [https://www.supplychaindive.com/news/supply-chain-trends-outlook-2024/706096/](https://www.supplychaindive.com/news/supply-chain-trends-outlook-2024/706096/)
+- [https://www.worldfurnitureonline.com/report/world-furniture-outlook/](https://www.worldfurnitureonline.com/report/world-furniture-outlook/)
+- [https://www2.deloitte.com/content/dam/Deloitte/pl/Documents/Reports/Global-Retail-Outlook-2024.pdf](https://www2.deloitte.com/content/dam/Deloitte/pl/Documents/Reports/Global-Retail-Outlook-2024.pdf)
+- [https://www.bbc.co.uk/news/business-59151681](https://www.bbc.co.uk/news/business-59151681)
+- [https://www.startus-insights.com/innovators-guide/procurement-technology-trends/](https://www.startus-insights.com/innovators-guide/procurement-technology-trends/)
+- [https://www.businesstechweekly.com/operational-efficiency/business-continuity/digital-resilience/](https://www.businesstechweekly.com/operational-efficiency/business-continuity/digital-resilience/)
+- [https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/how-three-global-companies-navigate-geopolitical-risk-to-build-resilience](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/how-three-global-companies-navigate-geopolitical-risk-to-build-resilience)
+- [https://d3.harvard.edu/platform-digit/submission/ikeas-leap-forward-with-data-and-ai￼/](https://d3.harvard.edu/platform-digit/submission/ikeas-leap-forward-with-data-and-ai￼/)
+- [https://www.nmrk.com/insights/thought-leadership/global-supply-chain-challenges-in-early-2024](https://www.nmrk.com/insights/thought-leadership/global-supply-chain-challenges-in-early-2024)
+- [https://www.furnituretoday.com/opinion/challenges-and-opportunities-for-furniture-retailers-in-the-2024-expansion-landscape-ben-haverty/](https://www.furnituretoday.com/opinion/challenges-and-opportunities-for-furniture-retailers-in-the-2024-expansion-landscape-ben-haverty/)
+- [https://www.foley.com/insights/publications/2022/07/avoid-supply-chain-disruption-geopolitical-risk/](https://www.foley.com/insights/publications/2022/07/avoid-supply-chain-disruption-geopolitical-risk/)
+- [https://www.paypal.com/us/brc/article/8-payment-technology-trends-2024](https://www.paypal.com/us/brc/article/8-payment-technology-trends-2024)
+- [https://www.retail-week.com/tech/inside-ikeas-innovation-strategy-stores-ai-and-supply-chain/7044744.article](https://www.retail-week.com/tech/inside-ikeas-innovation-strategy-stores-ai-and-supply-chain/7044744.article)
+- [https://thestrategystory.com/blog/ikea-pestel-analysis/](https://thestrategystory.com/blog/ikea-pestel-analysis/)
+- [https://www.thomasnet.com/insights/ikea-supply-chain/](https://www.thomasnet.com/insights/ikea-supply-chain/)
+- [https://www.zycus.com/blog/procure-to-pay/best-procure-to-pay-software-for-2024-and-beyond](https://www.zycus.com/blog/procure-to-pay/best-procure-to-pay-software-for-2024-and-beyond)
+- [https://www.ivalua.com/blog/procure-to-pay-solution-guide/](https://www.ivalua.com/blog/procure-to-pay-solution-guide/)
+- [https://research.aimultiple.com/automated-invoice-validation/](https://research.aimultiple.com/automated-invoice-validation/)
+- [https://www.theguardian.com/business/2023/dec/21/ikea-warns-red-sea-attacks-could-disrupt-supplies-and-deliveries?ref=upstract.com](https://www.theguardian.com/business/2023/dec/21/ikea-warns-red-sea-attacks-could-disrupt-supplies-and-deliveries?ref=upstract.com)
+- [https://www.ey.com/en_gl/insights/geostrategy/2024-geostrategic-outlook](https://www.ey.com/en_gl/insights/geostrategy/2024-geostrategic-outlook)
+- [https://www.tandfonline.com/doi/full/10.1080/09537287.2023.2286283](https://www.tandfonline.com/doi/full/10.1080/09537287.2023.2286283)
+- [https://www.weforum.org/agenda/2024/01/global-risks-report-2024/](https://www.weforum.org/agenda/2024/01/global-risks-report-2024/)
+- [https://www.cbre.com/insights/articles/three-ways-to-ensure-retails-resilience-in-2023](https://www.cbre.com/insights/articles/three-ways-to-ensure-retails-resilience-in-2023)

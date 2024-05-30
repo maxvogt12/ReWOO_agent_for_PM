@@ -1,0 +1,151 @@
+# Environmental and Sustainability Risks in the Purchase to Pay Process in the Retail Industry: A Case Study of Walmart
+
+The retail industry, exemplified by giants like Walmart, plays a pivotal role in the global economy, influencing production patterns, consumption behaviors, and consequently, environmental sustainability. Walmart, as one of the largest retailers worldwide, has undertaken significant initiatives to mitigate its environmental impact, particularly through its purchase to pay (P2P) process. This process, integral to retail operations, involves the procurement of goods and services from suppliers to their payment and encompasses various stages where sustainability and environmental risks are prevalent.
+
+Walmart's approach to reducing its environmental footprint is multifaceted, focusing on areas such as energy use, waste management, packaging, and transportation within its supply chain. The company's ambitious [Project Gigaton](https://www.esgtoday.com/walmart-hits-goal-to-reduce-1-billion-tons-of-supply-chain-emissions-6-years-ahead-of-2030-target/) aims to eliminate one billion metric tons of greenhouse gases from its global value chain by 2030. Despite these efforts, the P2P process in the retail sector, including at Walmart, is fraught with sustainability challenges. These range from the direct environmental impacts of procured goods to the indirect effects associated with suppliers' practices and the broader implications of consumer behavior.
+
+The environmental risks in the P2P process are diverse, including the depletion of natural resources, pollution, and greenhouse gas emissions, which are exacerbated by the scale and complexity of Walmart's supply chain. Sustainability risks also encompass social and governance aspects, such as labor practices and compliance with environmental laws, which can affect the retailer's reputation and operational viability.
+
+Moreover, the transition risks associated with shifting towards a more sustainable business model, such as changes in consumer preferences and regulatory landscapes, pose financial and strategic challenges. Walmart's initiatives, such as the [sustainability-based supply chain finance program](https://www.retaildive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/711243/) with HSBC, illustrate attempts to align financial incentives with sustainability goals to mitigate these risks.
+
+This report will delve deeper into the specific environmental and sustainability risks associated with the P2P process in the retail industry, using Walmart as a case study. It will explore how these risks are managed and what further measures could be implemented to enhance sustainability in this critical area of retail operations.
+
+## Table of Contents
+
+- Scope 3 Emissions in Walmart's Purchase to Pay Process
+    - Overview of Scope 3 Emissions
+    - Supplier Engagement Strategies
+    - Tools and Incentives for Suppliers
+    - Impact and Progress
+    - Challenges and Future Directions
+- Sustainable Sourcing in Walmart's Purchase to Pay Process
+    - Environmental and Sustainability Risks in Sourcing
+    - Job Creation through Sustainable Practices
+    - Supplier Development and Support
+    - Impact on Local Communities
+    - Challenges and Adaptations
+- Financial Tools and Programs for Sustainability in Walmart's Purchase to Pay Process
+    - Green Financing and Investments
+    - Sustainability-Linked Loans
+    - Grants and Subsidies for Sustainable Practices
+    - Internal Carbon Pricing
+    - Performance-Based Incentives for Sustainability
+
+
+
+
+
+## Scope 3 Emissions in Walmart's Purchase to Pay Process
+
+### Overview of Scope 3 Emissions
+
+Scope 3 emissions encompass indirect emissions that occur in a company’s value chain, including both upstream and downstream activities. In the retail sector, these emissions are predominantly generated through the production and transportation of goods sold by retailers like Walmart. According to the Science Based Targets initiative (SBTi), Walmart's Scope 3 emissions constituted 93.5% of its total carbon footprint, with 81% stemming from upstream activities ([Supply Chain Dive](https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-6-years-early/708192/)).
+
+### Supplier Engagement Strategies
+
+Walmart has implemented several strategies to engage suppliers in reducing Scope 3 emissions. The centerpiece of these efforts is Project Gigaton, which aims to eliminate one billion metric tons of greenhouse gases from Walmart’s supply chain by 2030. This initiative encourages suppliers to focus on areas such as energy use, agriculture, waste, packaging, deforestation, and product use and design ([Capcom NCR](https://capcom-ncr.com/insights/2024/flexing-for-the-planet-how-walmart-crushed-its-supplier-emissions-target)).
+
+### Tools and Incentives for Suppliers
+
+To facilitate supplier participation in emission reduction, Walmart provides educational resources, financial incentives, and recognition programs. Suppliers are given access to a toolkit developed in collaboration with organizations like the World Wildlife Fund and the Environmental Defense Fund. Additionally, Walmart offers a sustainability-based supply chain finance program through HSBC, which provides earlier payments for goods to vendors that meet certain sustainability targets ([Capcom NCR](https://capcom-ncr.com/insights/2024/flexing-for-the-planet-how-walmart-crushed-its-supplier-emissions-target)).
+
+### Impact and Progress
+
+The impact of Walmart’s initiatives on Scope 3 emissions has been significant. By February 2024, Walmart announced that its suppliers had exceeded the Project Gigaton goal by reducing, avoiding, or sequestering over one billion metric tons of emissions, six years ahead of the target date. This achievement involved the participation of over 5,900 suppliers ([Verdantix](https://networks.verdantix.com/climate-innovation-network/how-they-do-it-walmart-reduces-supply-chain-emissions-by-a-gigaton)).
+
+### Challenges and Future Directions
+
+Despite these successes, Walmart faces ongoing challenges due to the scale of its operations and the diversity of its suppliers. Managing the data quality from thousands of suppliers for robust reporting remains a significant hurdle. Looking forward, Walmart plans to refine its Scope 3 emission estimates and explore new reduction opportunities across its value chain. The retailer is also committed to achieving net-zero emissions in its operations by 2040 and across its entire value chain by 2050 ([Corporate Walmart](https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/CDP-2022-Climate-Change-Submission.pdf)).
+
+By addressing these challenges and continuing to innovate in supplier engagement and sustainability practices, Walmart aims to maintain its leadership role in the retail sector's transition towards environmental sustainability.
+
+
+## Sustainable Sourcing in Walmart's Purchase to Pay Process
+
+### Environmental and Sustainability Risks in Sourcing
+
+Walmart's commitment to sustainable sourcing is evident in its various initiatives, such as Project Gigaton, which aims to reduce greenhouse gas emissions in its supply chain. The environmental risks associated with sourcing include deforestation, overuse of water resources, and pollution due to inadequate waste management practices by suppliers. Walmart addresses these risks by engaging suppliers to adopt more sustainable practices, such as optimizing fertilizer use and reducing emissions ([Walmart 2019 ESG Report](https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2019-esg-report.pdf)).
+
+### Job Creation through Sustainable Practices
+
+Walmart's approach to sustainability extends to job creation, particularly through initiatives that encourage responsible sourcing and environmental stewardship. By promoting sustainable agriculture and manufacturing practices, Walmart not only helps create jobs in these sectors but also ensures these jobs are sustainable in the long term. For instance, Walmart's investment in training and supporting farmers for sustainable agricultural practices helps secure agricultural jobs and enhances food security ([Walmart Sustainability Hub](https://www.walmartsustainabilityhub.com/nature/what-walmart-is-doing)).
+
+### Supplier Development and Support
+
+Walmart provides significant support to its suppliers through education and financial incentives to adopt sustainable practices. This includes sustainability-based supply chain finance programs that offer earlier payments for vendors meeting certain sustainability targets. Such financial tools are crucial for small and medium enterprises (SMEs) in developing sustainable practices that align with Walmart’s environmental goals ([Supply Chain Dive](https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/710733/)).
+
+### Impact on Local Communities
+
+The transition to sustainable sourcing practices has a direct positive impact on local communities. By reducing environmental degradation and promoting sustainable use of resources, communities benefit from improved health, ecosystem services, and potentially, new job opportunities in eco-friendly sectors. Walmart's initiatives, such as supporting the transition to regenerative agricultural practices, directly contribute to the economic and environmental health of the communities where its suppliers are based ([Walmart 2019 ESG Report](https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2019-esg-report.pdf)).
+
+### Challenges and Adaptations
+
+Despite the progress, Walmart faces challenges such as ensuring compliance across its vast supply chain and the need for continuous improvement in its sustainability metrics. Adapting to emerging sustainability standards and maintaining transparency are critical for Walmart to manage these challenges effectively. Continuous engagement and upgrading of supplier capabilities are necessary to meet these evolving demands and to mitigate risks associated with non-compliance ([Walmart Corporate](https://corporate.walmart.com/purpose/sustainability/people/responsible-sourcing)).
+
+
+## Financial Tools and Programs for Sustainability in Walmart's Purchase to Pay Process
+
+### Green Financing and Investments
+
+Walmart has been actively engaging in green financing as a means to fund its sustainability initiatives. This includes the issuance of green bonds, which are specifically aimed at raising funds for projects that have positive environmental impacts, such as renewable energy installations and energy efficiency improvements. These financial instruments not only support Walmart's sustainability goals but also attract investors who are interested in environmentally friendly projects. The use of green bonds exemplifies how financial tools can align investor returns with environmental progress.
+
+### Sustainability-Linked Loans
+
+Walmart has explored sustainability-linked loans (SLLs) which are credit facilities that incentivize borrowers to achieve predetermined sustainability performance targets. The interest rates on these loans can be tied to Walmart’s performance in reducing carbon emissions or improving energy efficiency across its operations. This financial mechanism directly ties Walmart's financial costs to its sustainability outcomes, encouraging the company to meet or exceed its environmental targets to benefit from lower financing costs.
+
+### Grants and Subsidies for Sustainable Practices
+
+To further enhance its commitment to sustainability, Walmart may utilize grants and subsidies offered by governments or environmental organizations. These financial aids are designed to support projects that might not be immediately profitable but are crucial for long-term environmental benefits, such as waste reduction systems or the development of more sustainable packaging solutions. By leveraging these external financial supports, Walmart can implement environmentally beneficial technologies and practices that might otherwise be financially unfeasible.
+
+### Internal Carbon Pricing
+
+Walmart has implemented an internal carbon pricing strategy, which is a financial tool used to internally charge its own business units for their carbon emissions. This approach encourages Walmart’s various departments to innovate in ways that reduce their carbon footprint, as lowering emissions becomes financially beneficial. Internal carbon pricing acts as a self-regulating mechanism that drives the adoption of cleaner, more sustainable practices throughout the company’s operations.
+
+### Performance-Based Incentives for Sustainability
+
+Walmart has set up performance-based incentive programs that reward executives and managers for meeting specific sustainability targets. These incentives are often part of the broader compensation structure and are designed to align personal rewards with the company’s environmental goals. By financially incentivizing sustainability, Walmart ensures that its leadership remains engaged and proactive in pursuing the company’s environmental objectives.
+
+Each of these financial tools and programs plays a crucial role in integrating sustainability into the core financial strategies of Walmart, demonstrating a comprehensive approach to environmental stewardship in the retail sector.
+
+
+## References
+
+- [https://sustainabilityconsortium.org/walmart-tried-to-make-sustainability-affordable-heres-what-happened/](https://sustainabilityconsortium.org/walmart-tried-to-make-sustainability-affordable-heres-what-happened/)
+- [https://corporate.walmart.com/news/2024/04/22/every-day-sustainability-how-walmart-and-sams-club-are-making-more-sustainable-choices-easy-accessible-and-affordable](https://corporate.walmart.com/news/2024/04/22/every-day-sustainability-how-walmart-and-sams-club-are-making-more-sustainable-choices-easy-accessible-and-affordable)
+- [https://nrf.com/topics/sustainability/esg-tool-kit/climate-and-climate-related-risk-retail-industry](https://nrf.com/topics/sustainability/esg-tool-kit/climate-and-climate-related-risk-retail-industry)
+- [https://cciced.eco/wp-content/uploads/2020/07/Walmart-green-consumption-case-study-002.pdf](https://cciced.eco/wp-content/uploads/2020/07/Walmart-green-consumption-case-study-002.pdf)
+- [https://corporate.walmart.com/purpose/esgreport](https://corporate.walmart.com/purpose/esgreport)
+- [https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/710733/](https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/710733/)
+- [https://www.wtwco.com/en-gb/insights/2024/03/global-retail-risk-outlook-2024](https://www.wtwco.com/en-gb/insights/2024/03/global-retail-risk-outlook-2024)
+- [https://theconversation.com/walmart-tried-to-make-sustainability-affordable-heres-what-happened-76771](https://theconversation.com/walmart-tried-to-make-sustainability-affordable-heres-what-happened-76771)
+- [https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/CDP-2022-Climate-Change-Submission.pdf](https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/CDP-2022-Climate-Change-Submission.pdf)
+- [https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2019-esg-report.pdf](https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2019-esg-report.pdf)
+- [https://www.esgtoday.com/walmart-hits-goal-to-reduce-1-billion-tons-of-supply-chain-emissions-6-years-ahead-of-2030-target/](https://www.esgtoday.com/walmart-hits-goal-to-reduce-1-billion-tons-of-supply-chain-emissions-6-years-ahead-of-2030-target/)
+- [https://www.themomentum.com/reports/walmart-2021-sustainability-report](https://www.themomentum.com/reports/walmart-2021-sustainability-report)
+- [https://networks.verdantix.com/climate-innovation-network/how-they-do-it-walmart-reduces-supply-chain-emissions-by-a-gigaton](https://networks.verdantix.com/climate-innovation-network/how-they-do-it-walmart-reduces-supply-chain-emissions-by-a-gigaton)
+- [https://www.nytimes.com/2024/04/05/business/walmart-settlement-overcharge-refund.html](https://www.nytimes.com/2024/04/05/business/walmart-settlement-overcharge-refund.html)
+- [https://corporate.walmart.com/purpose/esgreport/environmental/product-supply-chain-sustainability](https://corporate.walmart.com/purpose/esgreport/environmental/product-supply-chain-sustainability)
+- [https://www.gsb.stanford.edu/faculty-research/case-studies/wal-marts-sustainability-strategy](https://www.gsb.stanford.edu/faculty-research/case-studies/wal-marts-sustainability-strategy)
+- [https://corporate.walmart.com/content/dam/corporate/documents/newsroom/events/2022-discussion-on-responsible-sourcing/esg-responsible-sourcing-transcript.pdf](https://corporate.walmart.com/content/dam/corporate/documents/newsroom/events/2022-discussion-on-responsible-sourcing/esg-responsible-sourcing-transcript.pdf)
+- [https://corporate.walmart.com/content/dam/corporate/documents/esgreport/cdp-response-archive/cdp-climatechange2021.pdf](https://corporate.walmart.com/content/dam/corporate/documents/esgreport/cdp-response-archive/cdp-climatechange2021.pdf)
+- [https://www.retaildive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/711243/](https://www.retaildive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/711243/)
+- [https://www.mckinsey.com/industries/retail/our-insights/climate-sustainability-in-retail-who-will-pay](https://www.mckinsey.com/industries/retail/our-insights/climate-sustainability-in-retail-who-will-pay)
+- [https://www.mytotalretail.com/article/beyond-trends-a-blueprint-for-retailers-to-embrace-sustainable-practices-in-2024-and-beyond/](https://www.mytotalretail.com/article/beyond-trends-a-blueprint-for-retailers-to-embrace-sustainable-practices-in-2024-and-beyond/)
+- [https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement/walmart-inc-2024-annual-report.pdf](https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement/walmart-inc-2024-annual-report.pdf)
+- [https://grist.org/business-technology/top-10-ways-walmart-is-failing-on-sustainability/](https://grist.org/business-technology/top-10-ways-walmart-is-failing-on-sustainability/)
+- [https://s201.q4cdn.com/262069030/files/doc_downloads/ESG/WMT-Green-Financing-Framework-FINAL.pdf](https://s201.q4cdn.com/262069030/files/doc_downloads/ESG/WMT-Green-Financing-Framework-FINAL.pdf)
+- [https://seekingalpha.com/article/4654263-walmart-stock-q3-2024-earnings-financial-outlook-amid-ecommerce-revolution](https://seekingalpha.com/article/4654263-walmart-stock-q3-2024-earnings-financial-outlook-amid-ecommerce-revolution)
+- [https://sustainabilitymag.com/supply-chain-sustainability/how-walmart-is-successfully-driving-scope-3-decarbonisation](https://sustainabilitymag.com/supply-chain-sustainability/how-walmart-is-successfully-driving-scope-3-decarbonisation)
+- [https://capcom-ncr.com/insights/2024/flexing-for-the-planet-how-walmart-crushed-its-supplier-emissions-target](https://capcom-ncr.com/insights/2024/flexing-for-the-planet-how-walmart-crushed-its-supplier-emissions-target)
+- [https://legacyretail.com/2024/01/17/navigating-walmarts-sustainability-requirements-for-suppliers/](https://legacyretail.com/2024/01/17/navigating-walmarts-sustainability-requirements-for-suppliers/)
+- [https://corporate.walmart.com/news/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement](https://corporate.walmart.com/news/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement)
+- [https://www.walmartsustainabilityhub.com/nature/what-walmart-is-doing](https://www.walmartsustainabilityhub.com/nature/what-walmart-is-doing)
+- [https://hbr.org/2023/09/research-consumers-sustainability-demands-are-rising](https://hbr.org/2023/09/research-consumers-sustainability-demands-are-rising)
+- [https://ssir.org/articles/entry/the_greening_of_wal_mart](https://ssir.org/articles/entry/the_greening_of_wal_mart)
+- [https://corporate.walmart.com/purpose/sustainability/people/responsible-sourcing](https://corporate.walmart.com/purpose/sustainability/people/responsible-sourcing)
+- [https://corporate.walmart.com/purpose/sustainability](https://corporate.walmart.com/purpose/sustainability)
+- [https://www.bain.com/insights/sustainability-in-retail/](https://www.bain.com/insights/sustainability-in-retail/)
+- [https://www.retaildive.com/news/walmarts-chief-sustainability-officer-talks-esg-priorities-challenges/695448/](https://www.retaildive.com/news/walmarts-chief-sustainability-officer-talks-esg-priorities-challenges/695448/)
+- [https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-6-years-early/708192/](https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-6-years-early/708192/)
+- [https://corporate.walmart.com/content/dam/corporate/documents/esgreport/fy2023-walmart-esg-highlights.pdf](https://corporate.walmart.com/content/dam/corporate/documents/esgreport/fy2023-walmart-esg-highlights.pdf)
+- [https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/wal-071-2018-grr-full-book1.pdf](https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/wal-071-2018-grr-full-book1.pdf)

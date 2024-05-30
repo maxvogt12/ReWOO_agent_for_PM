@@ -1,0 +1,25 @@
+Based on the DFG abstraction of the order-to-cash process at Procter and Gamble, some potential audit risks and their possible causes include:
+
+1. Duplicate Orders:
+- Cause: The frequency of "Order Validation -> Order Validation" is 13913, indicating a potential risk of duplicate orders being validated.
+- Root Cause: Lack of system controls to prevent duplicate orders from entering the system.
+
+2. Inaccurate Credit Checks:
+- Cause: The frequency of "Customer Credit Check -> Customer Credit Check" is 27826, suggesting multiple credit checks being performed on the same customer.
+- Root Cause: Inadequate integration between systems leading to repeated credit check requests.
+
+3. Delayed Payments:
+- Cause: The performance time for "Payment Received -> Goods Shipped" is 86400, indicating a potential delay in payments being processed.
+- Root Cause: Inefficient payment processing systems or delays in reconciliation between payment received and goods shipped.
+
+4. Manual Order Approvals:
+- Cause: The performance time for "Order Validation -> Order Approval" is 320696.077, suggesting a lengthy approval process.
+- Root Cause: Manual order approval processes leading to delays in order processing.
+
+5. Inaccurate Invoicing:
+- Cause: The frequency of "Send Invoice -> Prepare Goods for Shipment" is 2326, indicating potential issues with invoicing being sent before goods are ready for shipment.
+- Root Cause: Lack of synchronization between invoicing and shipment preparation processes, leading to incorrect or premature invoices.
+
+6. Invalid Orders:
+- Cause: The frequency of "Order Rejected -> Order Completed" is 10551, indicating a significant number of rejected orders that are still being completed.
+- Root Cause: Inadequate order rejection processes or lack of proper communication between order validation and completion stages.

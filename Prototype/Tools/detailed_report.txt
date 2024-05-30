@@ -1,0 +1,225 @@
+# Inefficiencies in the 'Order Received -> Order Rejected' Step: A Closer Look at IKEA's Purchase to Pay Process
+
+The purchase to pay (P2P) process is a critical component of the consumer goods sector, serving as the backbone for managing the flow of goods and financial transactions from order placement to payment completion. At IKEA, a global leader in the home furnishing industry, the 'Order Received -> Order Rejected' step within the P2P cycle is a crucial juncture that can significantly impact customer satisfaction, operational efficiency, and the company's bottom line. This report introduction examines common causes for process inefficiencies at this stage, drawing insights from IKEA's practices and customer experiences.
+
+IKEA's vast product range and global presence necessitate a robust and efficient P2P process to ensure that customer orders are fulfilled accurately and promptly. However, inefficiencies can arise due to various factors, leading to order rejections that frustrate customers and strain the company's resources. Common causes of such inefficiencies include incorrect billing information, multiple order attempts within a short period, stock issues, and technical problems during payment processing, as reported by customers on [IKEA's customer service page](https://www.ikea.com/us/en/customer-service/knowledge/articles/2bb79998-eg15-43c9-ge80-917b8e3f6761.html) and shared on platforms like [Reddit](https://www.reddit.com/r/IKEA/comments/gcdlq9/payment_processing_failed_please_contact_your_bank/).
+
+These challenges are not unique to IKEA; they reflect broader trends in the consumer goods sector, where companies must navigate the complexities of inventory management, customer service, and technological integration. By exploring IKEA's approach to managing these issues, including its inventory management strategies and customer feedback mechanisms, this report aims to shed light on the underlying causes of inefficiencies and propose actionable solutions to enhance the P2P process. Through this analysis, we will also consider industry best practices and technological advancements that can streamline the 'Order Received -> Order Rejected' step, ultimately leading to improved customer experiences and operational excellence.
+
+## Table of Contents
+
+- Payment Decline Reasons and Solutions in the Consumer Goods Sector at IKEA
+    - Overview of Payment Declines at IKEA
+    - Common Reasons for Payment Declines
+        - Insufficient Funds
+        - Expired or Invalid Cards
+        - Technical Issues
+        - Anti-Fraud Filters
+        - Payment Gateway Errors
+    - Solutions to Reduce Payment Declines
+        - Enhanced Customer Communication
+        - Dunning Management
+        - Technical Infrastructure Optimization
+        - Fraud Management Refinement
+        - Payment Method Diversification
+    - Implementing Proactive Strategies
+    - Conclusion
+- Inventory Management and Stock Availability
+    - Real-Time Inventory Tracking and Its Impact on Order Rejection
+        - The Role of Technology in Inventory Accuracy
+    - Impact of Omni-Channel Inventory Management on Order Fulfillment
+        - Integration Challenges and Solutions
+    - Supplier Lead Time and Its Effect on Inventory Management
+        - Strategies for Managing Supplier Relationships
+    - Demand Forecasting and Inventory Turnover
+        - Utilizing Data Analytics for Accurate Forecasting
+    - Sustainable Inventory Practices and Their Influence on Stock Availability
+        - Balancing Sustainability and Efficiency
+- Streamlining the Procure-to-Pay Process
+    - Identifying Inefficiencies in Order Processing
+    - Enhancing Data Accuracy
+    - Improving Supplier Communication
+    - Automating Approval Workflows
+    - Leveraging Advanced Analytics for Forecasting
+
+
+
+
+
+# Payment Decline Reasons and Solutions in the Consumer Goods Sector at IKEA
+
+## Overview of Payment Declines at IKEA
+
+Payment declines at IKEA, as in other consumer goods sectors, can significantly disrupt the purchase-to-pay process. These declines not only lead to immediate revenue loss but can also damage customer relationships and brand reputation. Understanding the reasons behind payment declines is crucial for developing effective solutions to minimize their occurrence.
+
+## Common Reasons for Payment Declines
+
+### Insufficient Funds
+The most prevalent cause of payment declines is insufficient funds in the customer's account ([PayPal](https://www.paypal.com/uk/money-hub/article/declined-payments-card-declines)). At IKEA, when a customer's card is declined due to a lack of funds, it can lead to an abandoned cart and a lost sale.
+
+### Expired or Invalid Cards
+Expired or invalid cards are another common reason for payment declines. Customers may unknowingly attempt to use a card that has expired or has been reported lost or stolen, leading to a decline ([Checkout.com](https://www.checkout.com/blog/five-reasons-why-card-payments-are-declined)).
+
+### Technical Issues
+Technical glitches in the payment processing system, such as server downtimes or software bugs, can result in declined transactions. These issues are often unpredictable and require swift resolution to prevent loss of sales ([PayPal](https://www.paypal.com/uk/money-hub/article/declined-payments-card-declines)).
+
+### Anti-Fraud Filters
+Overly sensitive anti-fraud filters can mistakenly decline legitimate transactions. This can occur due to unusual purchasing patterns or locations that the system flags as potentially fraudulent ([Corefy](https://corefy.com/blog/payment-declines-reasons-and-what-can-be-done)).
+
+### Payment Gateway Errors
+Errors at the payment gateway level, such as incorrect data entry or processing errors, can also lead to payment declines. These errors may be on the part of the customer or the payment system itself ([Corefy](https://corefy.com/blog/payment-declines-reasons-and-what-can-be-done)).
+
+## Solutions to Reduce Payment Declines
+
+### Enhanced Customer Communication
+Implementing clear and immediate communication with customers when a payment fails can help resolve issues quickly. This includes sending notifications and providing a direct link to update payment information or retry the payment ([AppFrontier](https://appfrontier.com/blog/how-to-deal-with-failed-payments)).
+
+### Dunning Management
+Establishing automated dunning email systems can help manage failed payments effectively. These systems notify customers of upcoming payments and failed transactions, prompting them to take action ([AppFrontier](https://appfrontier.com/blog/how-to-deal-with-failed-payments)).
+
+### Technical Infrastructure Optimization
+Ensuring that the technical infrastructure is robust and can handle payment processing effectively is critical. This includes maintaining network connectivity, server capacity, and system reliability to minimize downtime and transaction errors ([Stripe](https://stripe.com/resources/more/payment-acceptance-101)).
+
+### Fraud Management Refinement
+Refining anti-fraud measures to accurately distinguish between fraudulent and legitimate transactions can reduce false declines. Collaborating with payment service providers to improve fraud detection algorithms is essential ([PYMNTS](https://www.pymnts.com/fraud-prevention/2024/ecommerce-merchants-fail-to-connect-failed-payments-and-fraud/)).
+
+### Payment Method Diversification
+Offering a variety of payment methods, including alternative and local options, can improve payment acceptance rates. This caters to different customer preferences and reduces the likelihood of declines due to payment method issues ([Checkout.com](https://www.checkout.com/blog/what-is-payment-acceptance-rate)).
+
+## Implementing Proactive Strategies
+
+IKEA can benefit from proactive strategies that anticipate and address potential payment issues before they result in declines. This includes monitoring payment acceptance rates, analyzing reasons for transaction failures, and making necessary adjustments to payment processes ([Stripe](https://stripe.com/resources/more/payment-acceptance-101)).
+
+## Conclusion
+
+By understanding the common reasons for payment declines and implementing targeted solutions, IKEA can improve its purchase-to-pay efficiency, enhance customer satisfaction, and ultimately reduce the rate of order rejections due to payment issues.
+
+
+# Inventory Management and Stock Availability
+
+## Real-Time Inventory Tracking and Its Impact on Order Rejection
+Real-time inventory tracking is a critical component in reducing the 'Order Received -> Order Rejected' inefficiencies. With an average inventory accuracy rate of just 63% in US retail stores, the implementation of real-time tracking systems can significantly improve accuracy ([Cash Flow Inventory](https://cashflowinventory.com/blog/real-time-inventory-tracking/)). These systems utilize technologies such as RFID and barcode scanning to provide up-to-date information on stock levels, thereby minimizing the chances of order rejection due to stockouts or overstocking.
+
+### The Role of Technology in Inventory Accuracy
+Advanced technologies integrated into inventory management systems, such as AI and machine learning, are essential for analyzing historical data and market trends to predict stock requirements accurately. This predictive capability is crucial for maintaining optimal stock levels and avoiding the rejection of orders due to inventory discrepancies ([Imenso Software](https://www.imensosoftware.com/16-inventory-management-trends-to-watch-out-for-in-2024/)).
+
+## Impact of Omni-Channel Inventory Management on Order Fulfillment
+Omni-channel inventory management harmonizes stock across various sales channels, reducing the likelihood of order rejection due to stockouts. By ensuring consistency between online and offline availability, retailers can optimize turnover and provide a seamless shopping experience, which is critical for maintaining stock availability and fulfilling orders efficiently ([Imenso Software](https://www.imensosoftware.com/16-inventory-management-trends-to-watch-out-for-in-2024/)).
+
+### Integration Challenges and Solutions
+While omni-channel strategies are beneficial, they come with integration challenges that can lead to process inefficiencies. Retailers must invest in robust systems that can seamlessly connect different sales channels and provide real-time stock visibility to prevent order rejections.
+
+## Supplier Lead Time and Its Effect on Inventory Management
+Assessing supplier lead times is vital for maintaining stock availability. Delays in replenishment can lead to order rejections if the stock is not available to meet customer demand. Retailers must work closely with suppliers to manage replenishment cycles and maintain a level of safety stock to buffer against supply chain uncertainties ([Lido App](https://www.lido.app/inventory/inventory-availability)).
+
+### Strategies for Managing Supplier Relationships
+Building strong relationships with suppliers and implementing systems that provide visibility into lead times can help retailers anticipate and mitigate the risks of stock unavailability. This proactive approach ensures that orders are fulfilled on time and reduces the rate of order rejections.
+
+## Demand Forecasting and Inventory Turnover
+Effective demand forecasting is essential for optimizing inventory turnover rates. By analyzing sales data and market trends, retailers can predict future demand and adjust inventory levels accordingly. This helps in preventing both overstocking and stockouts, which are common causes of order rejections ([Retail Insider](https://retail-insider.com/articles/2024/03/optimizing-your-inventory-management-a-retailers-guide/)).
+
+### Utilizing Data Analytics for Accurate Forecasting
+Data analytics tools can process large volumes of sales data to identify patterns and trends that inform inventory management decisions. Retailers that leverage these tools can maintain stock availability that aligns with customer demand, thus reducing the likelihood of order rejections.
+
+## Sustainable Inventory Practices and Their Influence on Stock Availability
+Adopting sustainable inventory practices, such as optimizing transportation routes and reducing packaging waste, can indirectly affect stock availability. By minimizing environmental impact and aligning with consumer values, retailers can also achieve cost savings in the long run, which can be reinvested into improving inventory management processes ([Imenso Software](https://www.imensosoftware.com/16-inventory-management-trends-to-watch-out-for-in-2024/)).
+
+### Balancing Sustainability and Efficiency
+While implementing sustainable practices, retailers must ensure that these initiatives do not compromise the efficiency of inventory management. For instance, reducing packaging waste should not lead to increased product damage and subsequent stock unavailability. It is crucial to find a balance that supports both sustainability and the seamless execution of the 'Order Received -> Order Rejected' step.
+
+
+# Streamlining the Procure-to-Pay Process
+
+## Identifying Inefficiencies in Order Processing
+In the consumer goods sector, particularly at companies like IKEA, process inefficiencies in the 'Order Received -> Order Rejected' step can often be attributed to discrepancies between purchase orders and the actual inventory levels. Real-time inventory management systems are crucial to avoid such mismatches. When an order is received but later rejected, it may be due to the system not updating inventory levels promptly, leading to a sale of items that are not in stock. Streamlining this process involves implementing advanced inventory tracking systems that update in real-time and provide accurate visibility to both the sales team and customers. ([Pipefy](https://www.pipefy.com/blog/procure-to-pay/))
+
+## Enhancing Data Accuracy
+Data inaccuracies can lead to order rejections if the information on the purchase order does not match the details of the inventory or the supplier's information. To streamline this aspect, companies like IKEA can employ data management tools that ensure the integrity and synchronization of data across all platforms. This includes the use of procure-to-pay software that automatically matches purchase orders with inventory data and supplier details, reducing the risk of human error and the subsequent rejection of orders. ([MHC Automation](https://www.mhcautomation.com/blog/procure-to-pay-process-guide/))
+
+## Improving Supplier Communication
+Poor communication with suppliers can result in order rejections when there is a lack of clarity about the availability or specifications of products. To address this, establishing a vendor portal that allows for transparent communication and real-time updates on order status can be beneficial. This portal can serve as a platform for suppliers to confirm order details, update delivery timelines, and communicate any potential issues directly, thus reducing the likelihood of order rejections. ([MHC Automation](https://www.mhcautomation.com/blog/procure-to-pay-process-guide/))
+
+## Automating Approval Workflows
+Manual approval workflows can create bottlenecks and lead to delays in order processing, increasing the chances of order rejection due to time-sensitive inventory changes. Automating the approval process with a procure-to-pay solution can expedite decision-making and reduce the time from order receipt to confirmation. This includes setting up predefined approval rules and using electronic signatures to speed up the process. ([Documation](https://www.documation.co.uk/guide-to-the-p2p-process/))
+
+## Leveraging Advanced Analytics for Forecasting
+Finally, advanced analytics can play a significant role in predicting demand and optimizing inventory levels to prevent order rejections. By analyzing historical data and market trends, IKEA can forecast future demand more accurately and adjust procurement accordingly. This proactive approach to inventory management ensures that the company is less likely to face situations where orders are received but cannot be fulfilled due to stock shortages. ([Zycus](https://www.zycus.com/blog/procure-to-pay/p2p-transformation-procure-to-pay-trends))
+
+By addressing these key areas, companies in the consumer goods sector like IKEA can significantly reduce the 'Order Received -> Order Rejected' inefficiencies and improve the overall efficiency of their procure-to-pay process.
+
+
+## References
+
+- [https://www.ikea.com/us/en/customer-service/knowledge/articles/ff17b1e1-g5b3-4b5f-8177-40b26d87cb54.html](https://www.ikea.com/us/en/customer-service/knowledge/articles/ff17b1e1-g5b3-4b5f-8177-40b26d87cb54.html)
+- [https://www.clearlypayments.com/blog/payment-trends-in-the-united-states-for-2024/](https://www.clearlypayments.com/blog/payment-trends-in-the-united-states-for-2024/)
+- [https://reports.retail-week.com/supply-chain-2024/index.html](https://reports.retail-week.com/supply-chain-2024/index.html)
+- [https://www.netsuite.com/portal/resource/articles/inventory-management/stock-availability.shtml](https://www.netsuite.com/portal/resource/articles/inventory-management/stock-availability.shtml)
+- [https://www.forbes.com/advisor/business/inventory-management-techniques/](https://www.forbes.com/advisor/business/inventory-management-techniques/)
+- [https://www.debitura.com/accounts-receivable/article/Slow-Paying-Customers](https://www.debitura.com/accounts-receivable/article/Slow-Paying-Customers)
+- [https://www.imensosoftware.com/16-inventory-management-trends-to-watch-out-for-in-2024/](https://www.imensosoftware.com/16-inventory-management-trends-to-watch-out-for-in-2024/)
+- [https://factwise.io/blog/post/managing-purchase-order-cancellations](https://factwise.io/blog/post/managing-purchase-order-cancellations)
+- [https://www.checkout.com/resources/payment-acceptance](https://www.checkout.com/resources/payment-acceptance)
+- [https://www.pipefy.com/blog/purchase-to-pay-process-improvement/](https://www.pipefy.com/blog/purchase-to-pay-process-improvement/)
+- [https://www.zycus.com/blog/procure-to-pay/p2p-transformation-procure-to-pay-trends](https://www.zycus.com/blog/procure-to-pay/p2p-transformation-procure-to-pay-trends)
+- [https://www.researchgate.net/publication/321195678_Sustainable_supply_chain_management_a_case_study_at_IKEA](https://www.researchgate.net/publication/321195678_Sustainable_supply_chain_management_a_case_study_at_IKEA)
+- [https://breadstack.com/insights/marketing/inventory-management-best-practices-for-managing-inventory-in-2024/](https://breadstack.com/insights/marketing/inventory-management-best-practices-for-managing-inventory-in-2024/)
+- [https://www.medius.com/blog/purchase-to-pay-process/](https://www.medius.com/blog/purchase-to-pay-process/)
+- [https://www.forbes.com/sites/claraludmir/2023/11/24/how-sustainability-and-affordability-can-go-hand-in-hand-the-case-of-ikea/](https://www.forbes.com/sites/claraludmir/2023/11/24/how-sustainability-and-affordability-can-go-hand-in-hand-the-case-of-ikea/)
+- [https://www.orderease.com/community/reducing-the-high-costs-of-order-errors](https://www.orderease.com/community/reducing-the-high-costs-of-order-errors)
+- [https://www.lido.app/inventory/inventory-availability](https://www.lido.app/inventory/inventory-availability)
+- [https://www.tradogram.com/blog/procure-to-pay-process-definitions-and-best-practices](https://www.tradogram.com/blog/procure-to-pay-process-definitions-and-best-practices)
+- [https://ziphq.com/blog/procure-to-pay-lifecycle](https://ziphq.com/blog/procure-to-pay-lifecycle)
+- [https://blog.nex.io/payments-101/6-reasons-for-payment-declines-and-what-to-do-about-them/](https://blog.nex.io/payments-101/6-reasons-for-payment-declines-and-what-to-do-about-them/)
+- [https://happay.com/blog/procure-to-pay-p2p-cycle-process/](https://happay.com/blog/procure-to-pay-p2p-cycle-process/)
+- [https://www.xometry.com/resources/procurement/9-procurement-process-inefficiencies-and-how-to-fix-them/](https://www.xometry.com/resources/procurement/9-procurement-process-inefficiencies-and-how-to-fix-them/)
+- [https://www.scottmadden.com/insight/pharmaceutical-rx-streamline-procuretopay/](https://www.scottmadden.com/insight/pharmaceutical-rx-streamline-procuretopay/)
+- [https://www.futuremarketinsights.com/reports/procure-to-pay-solutions-market](https://www.futuremarketinsights.com/reports/procure-to-pay-solutions-market)
+- [https://www.payshepherd.com/blog/procure-to-pay-process](https://www.payshepherd.com/blog/procure-to-pay-process)
+- [https://cin7.com/blog/retail-inventory-management/](https://cin7.com/blog/retail-inventory-management/)
+- [https://www.ucslogistics.com/post/real-time-inventory-tracking-benefits-challenges](https://www.ucslogistics.com/post/real-time-inventory-tracking-benefits-challenges)
+- [https://www.pipefy.com/blog/procure-to-pay/](https://www.pipefy.com/blog/procure-to-pay/)
+- [https://www.hashmicro.com/blog/procure-to-pay-p2p/](https://www.hashmicro.com/blog/procure-to-pay-p2p/)
+- [https://stripe.com/resources/more/payment-acceptance-101](https://stripe.com/resources/more/payment-acceptance-101)
+- [https://www.quantzig.com/case-studies/retail-demand-forecasting-optimized-supply-chain-operations/](https://www.quantzig.com/case-studies/retail-demand-forecasting-optimized-supply-chain-operations/)
+- [https://nrf.com/research/monthly-economic-review-april-2024](https://nrf.com/research/monthly-economic-review-april-2024)
+- [https://www.shipbob.com/inventory-kpis/stock-availability/](https://www.shipbob.com/inventory-kpis/stock-availability/)
+- [https://www.tradogram.com/blog/procure-to-pay-process-guide](https://www.tradogram.com/blog/procure-to-pay-process-guide)
+- [https://www.pymnts.com/fraud-prevention/2024/ecommerce-merchants-fail-to-connect-failed-payments-and-fraud/](https://www.pymnts.com/fraud-prevention/2024/ecommerce-merchants-fail-to-connect-failed-payments-and-fraud/)
+- [https://cashflowinventory.com/blog/real-time-inventory-tracking/](https://cashflowinventory.com/blog/real-time-inventory-tracking/)
+- [https://corefy.com/blog/payment-declines-reasons-and-what-can-be-done](https://corefy.com/blog/payment-declines-reasons-and-what-can-be-done)
+- [https://www.ikea.com/us/en/customer-service/knowledge/articles/5e9e2dc9-f12e-4c1b-g129-e65bee160dbe.html](https://www.ikea.com/us/en/customer-service/knowledge/articles/5e9e2dc9-f12e-4c1b-g129-e65bee160dbe.html)
+- [https://www.researchgate.net/publication/372353413_Sustainability_as_a_competitive_advantage_IKEA_as_a_case_study](https://www.researchgate.net/publication/372353413_Sustainability_as_a_competitive_advantage_IKEA_as_a_case_study)
+- [https://creately.com/guides/procure-to-pay-process-guide/](https://creately.com/guides/procure-to-pay-process-guide/)
+- [https://www.zoho.com/inventory/guides/common-problems-in-warehouse-management-and-their-solutions.html](https://www.zoho.com/inventory/guides/common-problems-in-warehouse-management-and-their-solutions.html)
+- [https://www.iienstitu.com/en/blog/exploring-the-impact-of-real-time-tracking-and-tracing-in-supply-chain-operations](https://www.iienstitu.com/en/blog/exploring-the-impact-of-real-time-tracking-and-tracing-in-supply-chain-operations)
+- [https://www.ikea.com/us/en/customer-service/knowledge/articles/2bb79998-eg15-43c9-ge80-917b8e3f6761.html](https://www.ikea.com/us/en/customer-service/knowledge/articles/2bb79998-eg15-43c9-ge80-917b8e3f6761.html)
+- [https://www.researchgate.net/publication/353356953_A_Case_Study_of_the_Factors_that_Affect_Consumer_Behavior_in_IKEA](https://www.researchgate.net/publication/353356953_A_Case_Study_of_the_Factors_that_Affect_Consumer_Behavior_in_IKEA)
+- [https://www.letskipp.com/blog_post/how-payment-declines-tops-list-of-ecommerce-challenges/](https://www.letskipp.com/blog_post/how-payment-declines-tops-list-of-ecommerce-challenges/)
+- [https://www.checkout.com/blog/five-reasons-why-card-payments-are-declined](https://www.checkout.com/blog/five-reasons-why-card-payments-are-declined)
+- [https://www.unlimit.com/blog/why-was-my-credit-card-declined-most-common-reasons-explained/](https://www.unlimit.com/blog/why-was-my-credit-card-declined-most-common-reasons-explained/)
+- [https://www.lightspeedhq.com.au/blog/retail-trends-2024/](https://www.lightspeedhq.com.au/blog/retail-trends-2024/)
+- [https://www.mckinsey.com/capabilities/operations/our-insights/a-new-era-for-procurement-value-creation-across-the-supply-chain](https://www.mckinsey.com/capabilities/operations/our-insights/a-new-era-for-procurement-value-creation-across-the-supply-chain)
+- [https://www.paypal.com/uk/money-hub/article/declined-payments-card-declines](https://www.paypal.com/uk/money-hub/article/declined-payments-card-declines)
+- [https://letstranzact.com/blogs/stock-availability](https://letstranzact.com/blogs/stock-availability)
+- [https://retail-insider.com/articles/2024/03/optimizing-your-inventory-management-a-retailers-guide/](https://retail-insider.com/articles/2024/03/optimizing-your-inventory-management-a-retailers-guide/)
+- [https://qxglobalgroup.com/fa/us/10-best-practices-to-optimize-the-procure-to-pay-process](https://qxglobalgroup.com/fa/us/10-best-practices-to-optimize-the-procure-to-pay-process)
+- [https://www.reddit.com/r/IKEA/comments/gcdlq9/payment_processing_failed_please_contact_your_bank/](https://www.reddit.com/r/IKEA/comments/gcdlq9/payment_processing_failed_please_contact_your_bank/)
+- [https://www.lucidchart.com/blog/fix-inefficient-processes](https://www.lucidchart.com/blog/fix-inefficient-processes)
+- [https://www.logiwa.com/blog/elevate-orders-and-eliminate-returns-with-real-time-inventory-management](https://www.logiwa.com/blog/elevate-orders-and-eliminate-returns-with-real-time-inventory-management)
+- [https://www.planettogether.com/blog/real-time-visibility-and-tracking-in-supply-chain-management-improving-efficiency-and-resilience](https://www.planettogether.com/blog/real-time-visibility-and-tracking-in-supply-chain-management-improving-efficiency-and-resilience)
+- [https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-management.shtml](https://www.netsuite.com/portal/resource/articles/inventory-management/inventory-management.shtml)
+- [https://www.gep.com/blog/technology/7-challenges-of-procure-to-pay-and-how-to-overcome-them](https://www.gep.com/blog/technology/7-challenges-of-procure-to-pay-and-how-to-overcome-them)
+- [https://ecommpay.com/blog/why-was-my-payment-declined-the-top-8-reasons-card-transactions-fail/](https://ecommpay.com/blog/why-was-my-payment-declined-the-top-8-reasons-card-transactions-fail/)
+- [https://www.reddit.com/r/IKEA/comments/glbiog/payment_failure_during_online_checkout/](https://www.reddit.com/r/IKEA/comments/glbiog/payment_failure_during_online_checkout/)
+- [https://www.supplychain247.com/article/how_does_ikeas_inventory_management_supply_chain_strategy_work](https://www.supplychain247.com/article/how_does_ikeas_inventory_management_supply_chain_strategy_work)
+- [https://www.vroozi.com/blog/an-overview-of-the-p2p-cycle-from-requisition-to-settlement/](https://www.vroozi.com/blog/an-overview-of-the-p2p-cycle-from-requisition-to-settlement/)
+- [https://www.hopstack.io/blog/order-fulfillment-process](https://www.hopstack.io/blog/order-fulfillment-process)
+- [https://www.controlhub.com/blog/p2p-best-practices](https://www.controlhub.com/blog/p2p-best-practices)
+- [https://www.documation.co.uk/guide-to-the-p2p-process/](https://www.documation.co.uk/guide-to-the-p2p-process/)
+- [https://www.checkout.com/blog/what-is-payment-acceptance-rate](https://www.checkout.com/blog/what-is-payment-acceptance-rate)
+- [https://kissflow.com/procurement/procure-to-pay-process-guide/](https://kissflow.com/procurement/procure-to-pay-process-guide/)
+- [https://www.thomasnet.com/insights/9-procurement-process-inefficiencies-and-how-to-fix-them/](https://www.thomasnet.com/insights/9-procurement-process-inefficiencies-and-how-to-fix-them/)
+- [https://www.datamatics.com/resources/case-studies/blue-stars-entire-accounts-payables-improves-by-33-with-procure-to-pay-process-reengineering](https://www.datamatics.com/resources/case-studies/blue-stars-entire-accounts-payables-improves-by-33-with-procure-to-pay-process-reengineering)
+- [https://appfrontier.com/blog/how-to-deal-with-failed-payments](https://appfrontier.com/blog/how-to-deal-with-failed-payments)
+- [https://www.mhcautomation.com/blog/procure-to-pay-process-guide/](https://www.mhcautomation.com/blog/procure-to-pay-process-guide/)
+- [https://www.netstock.com/blog/inventory-management-techniques-to-master-in-2024/](https://www.netstock.com/blog/inventory-management-techniques-to-master-in-2024/)

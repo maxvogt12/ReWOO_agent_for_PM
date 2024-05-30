@@ -1,0 +1,15 @@
+Based on the provided event log and using the variants approach for process discovery, the following regulatory risks were identified for specific steps in the loan application process at Wells Fargo bank:
+
+1. A_Create Application:
+   - Risks: Non-compliance with Know Your Customer (KYC) regulations, inaccurate or incomplete collection of applicant information, failure to perform necessary due diligence, and non-adherence to anti-discrimination laws.
+   - Mitigation Strategies: Establishing a robust risk management framework, implementing advanced technology solutions, training and employee awareness programs, regular audits and compliance testing, and proactive regulatory change management.
+
+2. W_Complete application:
+   - Risks: Errors or misinterpretations leading to improper assessment of customer's eligibility for the loan, violation of Fair Lending laws, and inaccurate disclosures.
+   - Mitigation Strategies: Strengthening operational processes, enhancing internal controls, improving oversight mechanisms, investing in compliance technology, and conducting regular training for employees.
+
+3. A_Accepted:
+   - Risks: Discrimination or violation of lending regulations, irregularities or biases in the acceptance process, and failure to provide accurate and transparent disclosures.
+   - Mitigation Strategies: Monitoring and analyzing loan approval data to ensure fair treatment of all applicants, maintaining robust systems for credit risk assessment, implementing cybersecurity measures, and engaging in ongoing monitoring and reporting.
+
+These regulatory risks must be carefully managed by Wells Fargo bank to ensure compliance with various laws and regulations, mitigate the risk of legal and financial consequences, and maintain the bank's reputation and operational integrity.

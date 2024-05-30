@@ -1,0 +1,180 @@
+# Audit Risks in the Order to Cash Process: Procter & Gamble Case Study
+
+The 'Send Purchase Order -> Receive Goods' step in the order to cash (O2C) process is a critical juncture in the supply chain of consumer goods companies like Procter & Gamble (P&G). This step involves the transmission of purchase orders to suppliers and the subsequent receipt of goods, which are foundational to maintaining inventory levels and ensuring product availability for end consumers. As a global leader in the consumer goods sector, P&G's operational efficiency and financial performance are heavily reliant on the effectiveness and reliability of this process. However, this step is not without its inherent risks, which can have significant financial, operational, and compliance implications.
+
+In the context of P&G, a company with a vast and complex supply network ([P&G Supply Chain](https://us.pg.com/ethics-and-corporate-responsibility/supply-chain/)), the audit risks associated with the 'Send Purchase Order -> Receive Goods' step can be multifaceted. These risks include potential disruptions due to supply chain vulnerabilities, legal and financial liabilities stemming from purchase order inaccuracies, and the challenges of maintaining compliance with ethical sourcing and sustainability standards ([P&G Guidelines for Suppliers](https://pgsupplier.com/guidelines/pg-guidelines-for-suppliers)). Additionally, the company must navigate the risks of incorrect or delayed invoicing, which can lead to disputes or delayed payments, and the risk of errors in applying payments received from customers to their outstanding balances ([LinkedIn Article on O2C Risks](https://www.linkedin.com/pulse/order-cash-o2c-process-overview-key-risks-audit-muhammad-saad)).
+
+Given the competitive nature of the consumer goods market, operational risks such as transportation failures and out-of-stock scenarios can have immediate repercussions on customer loyalty and market share ([Supply Chain Brain Article](https://www.supplychainbrain.com/blogs/1-think-tank/post/32970-retail-delivery-compliance-and-the-future-of-cpg-supply-chains)). Furthermore, the legal implications of purchase orders, such as potential breach of contract and misrepresentation, add a layer of complexity to the audit risk landscape ([Factwise Article on Purchase Orders](https://factwise.io/blog/post/legal-implications-purchase-orders)).
+
+This report aims to provide a comprehensive analysis of the audit risks associated with the 'Send Purchase Order -> Receive Goods' step in P&G's O2C process. By examining the financial, operational, and compliance dimensions of these risks, we will offer insights into the potential impact on P&G's business and suggest strategies for risk mitigation. Our analysis is informed by the latest industry practices, regulatory requirements, and P&G's own supply chain management initiatives as of April 19, 2024.
+
+## Table of Contents
+
+- Internal Control and Compliance Risks in the 'Send Purchase Order -&gt; Receive Goods' Step
+    - Segregation of Duties
+    - Authorization of Purchase Orders
+    - Verification of Goods Received
+    - Accurate Recording of Transactions
+    - Supplier Performance and Compliance
+- Supply Chain and Delivery Risks in the 'Send Purchase Order -&gt; Receive Goods' Step
+    - Supplier Reliability and Performance Risks
+    - Geopolitical and Economic Uncertainty
+    - Transportation and Logistics Challenges
+    - Inventory Management and Demand Forecasting
+    - Cybersecurity Threats
+- Legal and Financial Risks in the 'Send Purchase Order -&gt; Receive Goods' Step
+    - Legal Risks Associated with Purchase Orders and Goods Receipt
+        - Contractual Obligations and Compliance
+        - Intellectual Property Risks
+        - Regulatory Compliance
+    - Financial Risks Associated with Purchase Orders and Goods Receipt
+        - Foreign Currency Exchange Risk
+        - Credit Risk
+        - Price Fluctuation Risk
+        - Inventory Valuation Risk
+        - Legal and Regulatory Risk Management
+
+
+
+
+
+# Internal Control and Compliance Risks in the 'Send Purchase Order -> Receive Goods' Step
+
+## Segregation of Duties
+Segregation of duties is a key internal control that reduces the risk of errors and fraud. In the 'Send Purchase Order -> Receive Goods' step, the risk arises when the same individual is responsible for both ordering goods and receiving them. This lack of segregation can lead to unauthorized purchases or the acceptance of substandard goods. Procter & Gamble must ensure that different employees handle the procurement and receiving processes to mitigate this risk. ([Procter & Gamble Policies & Practices](https://us.pg.com/policies-and-practices/product-safety-and-compliance/))
+
+## Authorization of Purchase Orders
+Unauthorized purchase orders can lead to financial losses and non-compliance with company policies. It is crucial that all purchase orders at Procter & Gamble are reviewed and authorized by appropriate personnel before being sent to suppliers. The risk is that unauthorized or fraudulent orders may be processed, leading to unnecessary expenditures or receipt of non-required goods. ([Procter & Gamble Third-Party Risk Management](https://pgsupplier.com/news/new-third-party-risk-management-tprm-process-makes-its-debut))
+
+## Verification of Goods Received
+Upon receipt of goods, there is a risk that the items may not match the purchase order in terms of quantity, quality, or specifications. Procter & Gamble must have controls in place to verify that the goods received are as per the order. This includes checking the delivery against the purchase order and packing slip, and inspecting the goods for damage or defects. Failure to do so can result in inventory discrepancies, financial losses, and potential issues with product safety and compliance. ([Procter & Gamble Product Safety & Compliance](https://us.pg.com/policies-and-practices/product-safety-and-compliance/))
+
+## Accurate Recording of Transactions
+The accurate recording of purchase orders and the receipt of goods in the accounting system is essential to maintain reliable financial records. There is a risk of misstatement in financial reporting if the transactions are not recorded promptly and accurately. Procter & Gamble must ensure that internal controls are in place for the proper recording of these transactions to prevent financial inaccuracies and maintain compliance with financial reporting standards. ([Procter & Gamble Governance & Public Responsibility](https://www.pginvestor.com/esg/governance/risk-oversight/default.aspx))
+
+## Supplier Performance and Compliance
+Procter & Gamble faces risks related to supplier performance, including late deliveries, supply disruptions, and non-compliance with contractual terms. The company must monitor supplier performance to ensure timely and accurate delivery of goods. Additionally, suppliers must comply with Procter & Gamble's standards for product safety, quality, and ethical practices. Non-compliance can lead to operational disruptions and damage to the company's reputation. ([Procter & Gamble Responsible Sourcing Expectations](https://us.pg.com/policies-and-practices/product-safety-and-compliance/))
+
+In addressing these risks, Procter & Gamble can leverage its Third-Party Risk Management (TPRM) process and internal control frameworks to ensure that the 'Send Purchase Order -> Receive Goods' step is secure, compliant, and efficient. ([New TPRM Process at P&G](https://pgsupplier.com/news/new-third-party-risk-management-tprm-process-makes-its-debut))
+
+
+# Supply Chain and Delivery Risks in the 'Send Purchase Order -> Receive Goods' Step
+
+## Supplier Reliability and Performance Risks
+Procter & Gamble (P&G) relies on a global network of suppliers to maintain its supply chain. Supplier reliability is crucial in the 'Send Purchase Order -> Receive Goods' step. Risks include supplier insolvency, performance issues, and quality control failures. For instance, a supplier's inability to fulfill orders due to financial instability or production bottlenecks can lead to stockouts and impact P&G's operations. Monitoring supplier performance through key performance indicators (KPIs) and maintaining a diversified supplier base are essential strategies to mitigate these risks. ([Supply Chain Dive](https://www.supplychaindive.com/news/procter-gamble-alternate-suppliers-reformulate-products/608625/))
+
+## Geopolitical and Economic Uncertainty
+Geopolitical tensions and economic instability can disrupt supply chains by causing trade restrictions, tariffs, and currency fluctuations. P&G must navigate these complexities, especially since it operates in approximately 70 countries. The ongoing geopolitical tensions and economic implications, such as the war in the Middle East and the Houthi attacks on cargo ships, underscore the importance of geopolitical risk management. ([Sphera](https://sphera.com/spark/top-10-operational-risks-for-2024/))
+
+## Transportation and Logistics Challenges
+The 'Send Purchase Order -> Receive Goods' step is highly dependent on efficient transportation and logistics. Disruptions such as port congestion, carrier capacity shortages, and transportation network inefficiencies can delay the receipt of goods. P&G's investment in technology for supply chain resilience, including logistics support, is a proactive measure to address these risks. ([Forbes](https://www.forbes.com/sites/noahbarsky/2021/10/26/procter-gamble-tech-spending-boosts-supply-chain-resilience/))
+
+## Inventory Management and Demand Forecasting
+Accurate demand forecasting is critical to ensure that inventory levels are aligned with market needs. Overstocking can lead to increased holding costs, while understocking can result in lost sales and customer dissatisfaction. P&G's data-driven approach to supply chain management, consolidating billions of consumer data points, helps in anticipating demand and managing inventory effectively. ([Forbes](https://www.forbes.com/sites/noahbarsky/2021/10/26/procter-gamble-tech-spending-boosts-supply-chain-resilience/))
+
+## Cybersecurity Threats
+Cybersecurity risks pose a significant threat to the 'Send Purchase Order -> Receive Goods' step. A breach in P&G's ordering system could lead to order manipulation, theft of sensitive data, or disruptions in the supply chain. Ensuring robust cybersecurity measures and regular audits are vital to protect against these threats. ([Sphera](https://sphera.com/spark/top-10-operational-risks-for-2024/))
+
+In summary, P&G must continuously monitor and manage these supply chain and delivery risks to ensure the smooth execution of the 'Send Purchase Order -> Receive Goods' step in its order to cash process.
+
+
+# Legal and Financial Risks in the 'Send Purchase Order -> Receive Goods' Step
+
+## Legal Risks Associated with Purchase Orders and Goods Receipt
+
+### Contractual Obligations and Compliance
+When Procter & Gamble sends a purchase order to a supplier, it enters into a contractual agreement that binds both parties to specific terms and conditions. Failure to comply with these terms can lead to legal disputes, which may result in financial penalties or damage to business relationships. For instance, if goods received do not meet the contractual specifications, P&G may face legal challenges in enforcing the contract or seeking remedies.
+
+### Intellectual Property Risks
+In the consumer goods sector, intellectual property (IP) is a critical asset. P&G must ensure that the goods received do not infringe on any third-party IP rights. Unintentional IP violations can lead to costly litigation and reputational harm. ([Procter & Gamble Annual Report 2023](https://us.pg.com/annualreport2023/financial-highlights/))
+
+### Regulatory Compliance
+P&G operates in a highly regulated environment. The company must ensure that all goods received comply with local and international regulations, such as safety standards, labeling requirements, and environmental laws. Non-compliance can result in fines, legal action, and a tarnished brand image.
+
+## Financial Risks Associated with Purchase Orders and Goods Receipt
+
+### Foreign Currency Exchange Risk
+Given P&G's global operations, purchase orders often involve transactions in foreign currencies. Fluctuations in exchange rates can significantly impact the cost of goods received, leading to financial statement volatility. ([Decoding Procter & Gamble Co (PG)](https://finance.yahoo.com/news/decoding-procter-gamble-co-pg-050421313.html))
+
+### Credit Risk
+When P&G issues a purchase order, there is a risk that the supplier may default on delivery, especially in cases of prepayment. This credit risk can disrupt the supply chain and affect the company's operational efficiency and financial performance.
+
+### Price Fluctuation Risk
+The prices of raw materials and goods can be volatile, influenced by market conditions, geopolitical tensions, and economic uncertainties. P&G must manage the risk of price increases between the time of sending a purchase order and receiving goods, which can affect gross margins and profitability. ([Decoding Procter & Gamble Co (PG)](https://finance.yahoo.com/news/decoding-procter-gamble-co-pg-050421313.html))
+
+### Inventory Valuation Risk
+Upon receipt of goods, P&G must accurately record inventory at the correct valuation. Misstatements due to overvaluation or undervaluation of inventory can lead to financial reporting errors, impacting the company's financial health and investor confidence.
+
+### Legal and Regulatory Risk Management
+P&G must continuously monitor and manage legal and regulatory risks by implementing robust compliance programs and staying abreast of changes in laws and regulations. Failure to do so can lead to legal liabilities and financial losses. ([Legal and Regulatory Risk](https://www.financestrategists.com/wealth-management/investment-risk/legal-and-regulatory-risk/))
+
+By addressing these legal and financial risks proactively, Procter & Gamble can safeguard its operations and financial stability during the 'Send Purchase Order -> Receive Goods' step of the order to cash process.
+
+
+## References
+
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8437773/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8437773/)
+- [https://www.capgemini.com/wp-content/uploads/2017/07/streamlining-the-order-to-cash-process.pdf](https://www.capgemini.com/wp-content/uploads/2017/07/streamlining-the-order-to-cash-process.pdf)
+- [https://www.mckinsey.com/capabilities/operations/our-insights/a-practical-approach-to-supply-chain-risk-management](https://www.mckinsey.com/capabilities/operations/our-insights/a-practical-approach-to-supply-chain-risk-management)
+- [https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/cpg-operations-how-to-win-in-a-rapidly-changing-environment](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/cpg-operations-how-to-win-in-a-rapidly-changing-environment)
+- [https://www.ey.com/en_gl/insights/geostrategy/2024-geostrategic-outlook](https://www.ey.com/en_gl/insights/geostrategy/2024-geostrategic-outlook)
+- [https://www.integrify.com/internal-controls-better-compliance/](https://www.integrify.com/internal-controls-better-compliance/)
+- [https://bryter.com/blog/compliance-trends/](https://bryter.com/blog/compliance-trends/)
+- [https://www.reuters.com/breakingviews/pg-cleans-up-by-getting-its-hands-dirty-2024-01-23/](https://www.reuters.com/breakingviews/pg-cleans-up-by-getting-its-hands-dirty-2024-01-23/)
+- [https://www.diligent.com/resources/blog/internal-controls-evaluation](https://www.diligent.com/resources/blog/internal-controls-evaluation)
+- [https://us.pg.com/annualreport2023/pg-strategy/](https://us.pg.com/annualreport2023/pg-strategy/)
+- [https://www.supplychainbrain.com/blogs/1-think-tank/post/32970-retail-delivery-compliance-and-the-future-of-cpg-supply-chains](https://www.supplychainbrain.com/blogs/1-think-tank/post/32970-retail-delivery-compliance-and-the-future-of-cpg-supply-chains)
+- [https://www.protiviti.com/us-en/survey/top-risks-consumer-products-and-services-2024](https://www.protiviti.com/us-en/survey/top-risks-consumer-products-and-services-2024)
+- [https://www.moodysanalytics.com/articles/2022/the-top-10-supply-chain-risks-that-companies-face](https://www.moodysanalytics.com/articles/2022/the-top-10-supply-chain-risks-that-companies-face)
+- [https://us.pg.com/policies-and-practices/speaking-up/](https://us.pg.com/policies-and-practices/speaking-up/)
+- [https://panmore.com/procter-gamble-operations-management-10-decisions-productivity](https://panmore.com/procter-gamble-operations-management-10-decisions-productivity)
+- [https://www.forbes.com/sites/edwardsegal/2023/12/03/the-8-biggest-risks-and-threats-that-companies-will-face-in-2024/](https://www.forbes.com/sites/edwardsegal/2023/12/03/the-8-biggest-risks-and-threats-that-companies-will-face-in-2024/)
+- [https://thestrategystory.com/blog/proctor-gamble-pg-swot-analysis/](https://thestrategystory.com/blog/proctor-gamble-pg-swot-analysis/)
+- [https://us.pg.com/ethics-and-corporate-responsibility/supply-chain/](https://us.pg.com/ethics-and-corporate-responsibility/supply-chain/)
+- [https://finance.yahoo.com/news/decoding-procter-gamble-co-pg-050421313.html](https://finance.yahoo.com/news/decoding-procter-gamble-co-pg-050421313.html)
+- [https://en.wikipedia.org/wiki/Legal_risk](https://en.wikipedia.org/wiki/Legal_risk)
+- [https://www.investopedia.com/terms/f/financialrisk.asp](https://www.investopedia.com/terms/f/financialrisk.asp)
+- [https://www.financestrategists.com/wealth-management/investment-risk/legal-and-regulatory-risk/](https://www.financestrategists.com/wealth-management/investment-risk/legal-and-regulatory-risk/)
+- [https://www.ibm.com/topics/supply-chain-risk-management](https://www.ibm.com/topics/supply-chain-risk-management)
+- [https://www.linkedin.com/pulse/order-cash-o2c-process-overview-key-risks-audit-muhammad-saad](https://www.linkedin.com/pulse/order-cash-o2c-process-overview-key-risks-audit-muhammad-saad)
+- [https://csrc.nist.gov/CSRC/media/Projects/Supply-Chain-Risk-Management/documents/case_studies/USRP_NIST_PandG_072415.pdf](https://csrc.nist.gov/CSRC/media/Projects/Supply-Chain-Risk-Management/documents/case_studies/USRP_NIST_PandG_072415.pdf)
+- [https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/](https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/)
+- [https://www.resolver.com/blog/cpg-industry-risks/](https://www.resolver.com/blog/cpg-industry-risks/)
+- [https://us.pg.com/policies-and-practices/product-safety-and-compliance/](https://us.pg.com/policies-and-practices/product-safety-and-compliance/)
+- [https://www2.deloitte.com/content/dam/Deloitte/us/Documents/us_7727471_Enterprise_Risk_Management_Series_Article2_FINAL_version.pdf](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/us_7727471_Enterprise_Risk_Management_Series_Article2_FINAL_version.pdf)
+- [https://www.mckinsey.com/~/media/McKinsey/Industries/Consumer Packaged Goods /Our Insights/US food supply chain Disruptions and implications from COVID 19/US-food-supply-chain-Disruptions-and-implications-from-COVID-19-vF.pdf](https://www.mckinsey.com/~/media/McKinsey/Industries/Consumer Packaged Goods /Our Insights/US food supply chain Disruptions and implications from COVID 19/US-food-supply-chain-Disruptions-and-implications-from-COVID-19-vF.pdf)
+- [https://www.forbes.com/sites/noahbarsky/2021/10/26/procter-gamble-tech-spending-boosts-supply-chain-resilience/](https://www.forbes.com/sites/noahbarsky/2021/10/26/procter-gamble-tech-spending-boosts-supply-chain-resilience/)
+- [https://www.mckinsey.com/~/media/McKinsey/About Us/COVID Response Center/PDFs/Rethinking the consumer goods supply chain in response to COVID-19_v20201019.pdf](https://www.mckinsey.com/~/media/McKinsey/About Us/COVID Response Center/PDFs/Rethinking the consumer goods supply chain in response to COVID-19_v20201019.pdf)
+- [https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/a-new-model-for-the-consumer-goods-industry](https://www.mckinsey.com/industries/consumer-packaged-goods/our-insights/a-new-model-for-the-consumer-goods-industry)
+- [https://us.pg.com/policies-and-practices/](https://us.pg.com/policies-and-practices/)
+- [https://www.bcg.com/publications/2020/order-to-cash-platforms-are-the-future](https://www.bcg.com/publications/2020/order-to-cash-platforms-are-the-future)
+- [https://www.pginvestor.com/esg/governance/risk-oversight/default.aspx](https://www.pginvestor.com/esg/governance/risk-oversight/default.aspx)
+- [https://sphera.com/spark/top-10-operational-risks-for-2024/](https://sphera.com/spark/top-10-operational-risks-for-2024/)
+- [https://reciprocity.com/resource-center/internal-controls-the-definitive-guide-for-risk-and-compliance-professionals/](https://reciprocity.com/resource-center/internal-controls-the-definitive-guide-for-risk-and-compliance-professionals/)
+- [https://us.pg.com/annualreport2023/financial-highlights/](https://us.pg.com/annualreport2023/financial-highlights/)
+- [https://www.risk.net/risk-management/7959161/top-10-operational-risks-for-2024](https://www.risk.net/risk-management/7959161/top-10-operational-risks-for-2024)
+- [https://pgsupplier.com/news/new-third-party-risk-management-tprm-process-makes-its-debut](https://pgsupplier.com/news/new-third-party-risk-management-tprm-process-makes-its-debut)
+- [https://www.supplychaindive.com/news/procter-gamble-alternate-suppliers-reformulate-products/608625/](https://www.supplychaindive.com/news/procter-gamble-alternate-suppliers-reformulate-products/608625/)
+- [https://www.pginvestor.com/financial-reporting/press-releases/news-details/2024/PG-Announces-Fiscal-Year-2024-Second-Quarter-Results/default.aspx](https://www.pginvestor.com/financial-reporting/press-releases/news-details/2024/PG-Announces-Fiscal-Year-2024-Second-Quarter-Results/default.aspx)
+- [https://www.sap.com/insights/supply-chain-risks.html](https://www.sap.com/insights/supply-chain-risks.html)
+- [https://whatfix.com/blog/procurement-compliance/](https://whatfix.com/blog/procurement-compliance/)
+- [https://www.thomsonreuters.com/en-us/posts/corporates/global-compliance-report-2024/](https://www.thomsonreuters.com/en-us/posts/corporates/global-compliance-report-2024/)
+- [https://qvalia.com/what-are-the-most-common-order-to-cash-challenges/](https://qvalia.com/what-are-the-most-common-order-to-cash-challenges/)
+- [https://www.scmr.com/article/Insiders-view-of-Proctor-and-Gamble-supply-chain-success](https://www.scmr.com/article/Insiders-view-of-Proctor-and-Gamble-supply-chain-success)
+- [https://www.mckinsey.com/capabilities/operations/our-insights/finding-hidden-value-with-order-to-cash-optimization](https://www.mckinsey.com/capabilities/operations/our-insights/finding-hidden-value-with-order-to-cash-optimization)
+- [https://deloitte.wsj.com/riskandcompliance/a-5-step-guide-to-stronger-internal-controls-01656009217](https://deloitte.wsj.com/riskandcompliance/a-5-step-guide-to-stronger-internal-controls-01656009217)
+- [https://www.netsuite.com/portal/resource/articles/inventory-management/supply-chain-risks.shtml](https://www.netsuite.com/portal/resource/articles/inventory-management/supply-chain-risks.shtml)
+- [https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2023/ten-key-regulatory-challenges-of-2024.pdf](https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2023/ten-key-regulatory-challenges-of-2024.pdf)
+- [https://blog.grand.io/regulatory-risk-and-compliance-in-2024/](https://blog.grand.io/regulatory-risk-and-compliance-in-2024/)
+- [https://audithow.com/audit-procedures-for-purchasing/](https://audithow.com/audit-procedures-for-purchasing/)
+- [https://www.spglobal.com/en/enterprise/geopolitical-risk/index.html](https://www.spglobal.com/en/enterprise/geopolitical-risk/index.html)
+- [https://www.dummies.com/article/business-careers-money/business/accounting/audits/how-to-assess-control-risk-in-your-clients-purchasing-procedures-189599/](https://www.dummies.com/article/business-careers-money/business/accounting/audits/how-to-assess-control-risk-in-your-clients-purchasing-procedures-189599/)
+- [https://pgsupplier.com/guidelines/pg-guidelines-for-suppliers](https://pgsupplier.com/guidelines/pg-guidelines-for-suppliers)
+- [https://www.wallstreetmojo.com/legal-risk/](https://www.wallstreetmojo.com/legal-risk/)
+- [https://www.mbgcorp.com/in/insights/how-to-optimize-internal-audit-of-order-to-cash-o2c-process/](https://www.mbgcorp.com/in/insights/how-to-optimize-internal-audit-of-order-to-cash-o2c-process/)
+- [https://www.frontiersin.org/articles/10.3389/fsufs.2021.682263/full](https://www.frontiersin.org/articles/10.3389/fsufs.2021.682263/full)
+- [https://www.deloitte.com/global/en/services/legal/services/legal-risk-management.html](https://www.deloitte.com/global/en/services/legal/services/legal-risk-management.html)
+- [https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/alliances/ey-pg-supply-chain-excellence-000421-22gbl.pdf](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/alliances/ey-pg-supply-chain-excellence-000421-22gbl.pdf)
+- [https://audithow.com/auditing-cash-receipts/](https://audithow.com/auditing-cash-receipts/)
+- [https://news.pg.com/news-releases/news-details/2024/PG-Announces-Fiscal-Year-2024-Second-Quarter-Results/default.aspx](https://news.pg.com/news-releases/news-details/2024/PG-Announces-Fiscal-Year-2024-Second-Quarter-Results/default.aspx)
+- [https://factwise.io/blog/post/legal-implications-purchase-orders](https://factwise.io/blog/post/legal-implications-purchase-orders)

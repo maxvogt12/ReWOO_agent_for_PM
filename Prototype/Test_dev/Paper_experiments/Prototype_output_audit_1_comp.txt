@@ -1,0 +1,179 @@
+# Audit Risks in Customer Credit Check at Procter & Gamble
+
+In the fast-paced and competitive Consumer Goods sector, companies like Procter & Gamble ([P&G](https://www.pg.com)) face a myriad of challenges that can impact their financial stability and operational efficiency. As a global leader with a diverse portfolio of trusted brands, P&G's order-to-cash process is a critical component of its business operations, directly influencing cash flow and customer satisfaction. Within this process, the 'Customer Credit Check' step is particularly sensitive, as it involves assessing the creditworthiness of customers before product delivery and payment collection.
+
+Given the recent financial performance of P&G, with net sales increasing to $21.4 billion and a strong balance sheet, it is imperative to maintain rigorous credit management practices to safeguard against financial discrepancies. The company's [latest 10-Q report](https://finance.yahoo.com/news/decoding-procter-gamble-co-pg-050421313.html) filed on January 23, 2024, indicates resilience in navigating market challenges, such as the non-cash impairment charge of $1.3 billion for the Gillette brand and restructuring costs due to currency translation losses. These factors underscore the importance of a robust credit check system to mitigate risks associated with customer defaults and bad debt.
+
+Audit risks in the 'Customer Credit Check' step can arise from various sources, including economic uncertainties, geopolitical tensions like the Russia-Ukraine War, and systemic risks within the Consumer Goods sector. High inflation, supply chain disruptions, and labor shortages, as highlighted by [KPMG](https://kpmg.com/us/en/media/news/systemic-risk-consumer-goods-2023.html), can alter the credit profile of customers, necessitating a dynamic and data-driven credit risk assessment approach.
+
+Furthermore, the shift towards digital interaction post-COVID-19, as noted by [McKinsey & Company](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/managing-and-monitoring-credit-risk-after-the-covid-19-pandemic), has transformed traditional credit collection methods, calling for real-time analytics in credit decision-making. P&G's extensive operations across approximately 70 countries also introduce complexities in managing credit risk due to diverse regulatory environments and varying economic conditions.
+
+In this report, we will delve into the specific audit risks associated with the 'Customer Credit Check' step in P&G's order-to-cash process. We will examine potential financial discrepancies, compliance issues, and operational inefficiencies that could impact the company's ability to effectively manage credit risk. Our analysis will be informed by the latest financial data, industry trends, and best practices in credit management to provide a comprehensive risk assessment for P&G.
+
+## Table of Contents
+
+- Credit Risk Management and Economic Uncertainty
+    - Impact of Economic Uncertainty on Credit Risk in the Consumer Goods Sector
+    - Credit Risk Management Best Practices in Times of Economic Uncertainty
+    - Technological Advancements in Credit Risk Analysis
+    - Regulatory Compliance and Credit Risk
+    - Economic Indicators and Credit Risk Forecasting
+- Optimization of the Order-to-Cash (O2C) Process at Procter &amp; Gamble
+    - Audit Risks in Customer Credit Checks
+        - Financial Discrepancies in Credit Assessment
+        - Compliance Issues with Credit Policies
+        - Operational Inefficiencies in Credit Processing
+        - Technological Risks in Credit Decision Systems
+        - Data Management and Quality Control
+- Audit and Oversight in the Consumer Goods Sector
+    - Audit Risks in Customer Credit Checks at Procter &amp; Gamble
+        - Risk of Inaccurate Credit Scoring
+        - Integration of Credit Management with Sales and Distribution
+        - Compliance with Evolving Credit Regulations
+        - Reliance on Third-Party Credit Reporting Agencies
+        - Monitoring and Updating Credit Policies
+
+
+
+
+
+# Credit Risk Management and Economic Uncertainty
+
+## Impact of Economic Uncertainty on Credit Risk in the Consumer Goods Sector
+Economic uncertainty has a profound impact on credit risk, particularly in the consumer goods sector. Companies like Procter & Gamble must navigate the complexities of fluctuating consumer sentiment, geopolitical tensions, and supply chain disruptions ([S&P Global](https://www.spglobal.com/ratings/en/research-insights/special-reports/global-credit-outlook-2024)). These factors can lead to increased credit risk as customers may face financial instability, affecting their ability to fulfill payment obligations. The potential for higher default rates necessitates a more rigorous customer credit check process to mitigate financial discrepancies and operational inefficiencies.
+
+## Credit Risk Management Best Practices in Times of Economic Uncertainty
+In response to economic uncertainty, best practices in credit risk management involve real-time monitoring and analysis of customer creditworthiness ([HighRadius](https://www.highradius.com/resources/Blog/credit-risk-management-best-practices/)). Procter & Gamble should leverage technology to automate credit checks and continuously update credit scores based on current data. This proactive approach allows for timely identification of customers who may become high-risk due to changing economic conditions, enabling the company to adjust credit terms or take preventive measures to secure payments.
+
+## Technological Advancements in Credit Risk Analysis
+The integration of AI and automation in credit risk analysis has become essential for improving efficiency and accuracy ([HighRadius](https://www.highradius.com/resources/Blog/credit-risk-analysis-in-accounts-receivable/)). Procter & Gamble can benefit from these advancements by implementing systems that predict payment defaults and recommend credit limits based on historical data and payment patterns. This not only streamlines the customer credit check process but also enhances the customer experience by reducing onboarding times and providing more personalized credit terms.
+
+## Regulatory Compliance and Credit Risk
+Compliance issues are a significant audit risk in the customer credit check step. Procter & Gamble must ensure adherence to financial regulations, such as the Fair Credit Reporting Act, which governs the collection and use of credit information. Non-compliance can lead to legal penalties and reputational damage. Therefore, maintaining up-to-date knowledge of regulatory changes and integrating them into the credit check process is crucial for risk management.
+
+## Economic Indicators and Credit Risk Forecasting
+Economic indicators such as inflation rates, interest rates, and GDP growth are critical for forecasting credit risk ([S&P Global](https://www.spglobal.com/marketintelligence/en/news-insights/blog/industry-credit-risk-trends-during-economic-uncertainty-comparing-historical-vs-forecasted-trends)). Procter & Gamble should incorporate these macroeconomic factors into their credit risk models to anticipate potential changes in customer creditworthiness. By doing so, the company can adjust its credit policies in advance to minimize the impact of economic downturns on its receivables.
+
+
+# Optimization of the Order-to-Cash (O2C) Process at Procter & Gamble
+
+## Audit Risks in Customer Credit Checks
+
+### Financial Discrepancies in Credit Assessment
+
+The customer credit check step is crucial in mitigating the risk of bad debt and ensuring the financial stability of the company. For Procter & Gamble, inaccuracies in credit scoring can lead to financial discrepancies where credit is extended to customers with poor repayment histories or inadequate creditworthiness. This can result in increased accounts receivable and bad debt provisions, impacting cash flow and profitability. Auditors must scrutinize the credit assessment algorithms and the data inputs to ensure they accurately reflect the customer's financial stability.
+
+### Compliance Issues with Credit Policies
+
+Procter & Gamble must adhere to various regulations, such as the Fair Credit Reporting Act (FCRA) and Equal Credit Opportunity Act (ECOA), which govern the use of consumer credit information. Non-compliance with these regulations can lead to legal penalties and reputational damage. Auditors should evaluate the company's credit policies and procedures to ensure they are in line with regulatory requirements and that all credit decisions are made fairly and without discrimination.
+
+### Operational Inefficiencies in Credit Processing
+
+Operational inefficiencies in the credit check process can lead to delays in order processing and customer dissatisfaction. Procter & Gamble must ensure that credit checks are performed efficiently without compromising accuracy. Auditors should assess the integration of credit check systems with the O2C process, the automation level of credit assessments, and the training of staff involved in credit decisions to identify any inefficiencies that could be streamlined.
+
+### Technological Risks in Credit Decision Systems
+
+Procter & Gamble likely uses advanced technologies, including AI and machine learning, for credit assessments. While these technologies can improve efficiency and accuracy, they also introduce risks such as algorithmic bias and data security vulnerabilities. Auditors must evaluate the design and implementation of these systems, including the data sets used for training algorithms, to ensure they are robust, unbiased, and secure.
+
+### Data Management and Quality Control
+
+Accurate and timely data is essential for effective credit checks. Procter & Gamble must manage a vast amount of customer data, and any errors or outdated information can lead to incorrect credit decisions. Auditors should assess the company's data management practices, including data collection, storage, and quality control measures, to ensure the integrity of the data used in the credit check process.
+
+By addressing these audit risks, Procter & Gamble can optimize its O2C process, reduce the likelihood of financial losses due to credit defaults, and maintain compliance with regulatory standards.
+
+
+# Audit and Oversight in the Consumer Goods Sector
+
+## Audit Risks in Customer Credit Checks at Procter & Gamble
+
+### Risk of Inaccurate Credit Scoring
+
+Procter & Gamble (P&G) extends credit to its customers, which necessitates a robust credit scoring system. The risk of inaccurate credit scoring can lead to extending credit to customers with poor creditworthiness, potentially increasing the risk of bad debts. This can be due to outdated credit scoring models, errors in customer data, or failure to incorporate market changes into credit risk assessments. 
+
+### Integration of Credit Management with Sales and Distribution
+
+The integration of credit management systems with sales and distribution channels is crucial for P&G. A lack of integration can lead to delays in order processing and inconsistencies in credit limit enforcement. This can result in operational inefficiencies and financial losses if orders are fulfilled for customers who exceed their credit limits or have a history of late payments.
+
+### Compliance with Evolving Credit Regulations
+
+P&G must comply with various credit regulations, including those related to consumer protection and data privacy ([New State Data Privacy Laws in 2024](https://www.jdsupra.com/legalnews/top-10-legal-issues-for-2024-for-the-7120081/)). Non-compliance can lead to legal penalties and reputational damage. The company must ensure that its credit check processes are in line with the latest regulations, such as the Consumer Duty regulation by the UK’s Financial Conduct Authority and the new data privacy laws in the United States.
+
+### Reliance on Third-Party Credit Reporting Agencies
+
+P&G may rely on third-party credit reporting agencies like Experian and TransUnion for customer credit information. There is a risk associated with the accuracy and timeliness of the credit information received from these agencies. Any discrepancies or delays in credit reporting can affect the credit decision process, leading to potential credit losses.
+
+### Monitoring and Updating Credit Policies
+
+Continuous monitoring and updating of credit policies are essential to mitigate credit risks. P&G must ensure that its credit policies are up-to-date with industry best practices and economic conditions. Failure to do so can result in inadequate credit controls and increased exposure to credit defaults. The company's internal audit function should regularly review and assess the effectiveness of credit policies and procedures to ensure they align with the company's risk appetite and market dynamics. 
+
+By addressing these audit risks, P&G can enhance its customer credit check process within the order to cash cycle, thereby reducing the likelihood of financial discrepancies, compliance issues, and operational inefficiencies.
+
+
+## References
+
+- [https://finance.yahoo.com/news/p-g-announces-fiscal-2024-115500126.html](https://finance.yahoo.com/news/p-g-announces-fiscal-2024-115500126.html)
+- [https://www.pginvestor.com/financial-reporting/press-releases/news-details/2024/PG-Announces-Fiscal-Year-2024-Third-Quarter-Results/default.aspx](https://www.pginvestor.com/financial-reporting/press-releases/news-details/2024/PG-Announces-Fiscal-Year-2024-Third-Quarter-Results/default.aspx)
+- [https://www.consumercomplianceoutlook.org/2023/second-third-issue/compliance-risk-assessment/](https://www.consumercomplianceoutlook.org/2023/second-third-issue/compliance-risk-assessment/)
+- [https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/alliances/ey-pg-supply-chain-excellence-000421-22gbl.pdf](https://assets.ey.com/content/dam/ey-sites/ey-com/en_gl/topics/alliances/ey-pg-supply-chain-excellence-000421-22gbl.pdf)
+- [https://www.highradius.com/resources/Blog/strategies-involved-in-credit-risk-management/](https://www.highradius.com/resources/Blog/strategies-involved-in-credit-risk-management/)
+- [https://www.pginvestor.com/financial-reporting/press-releases/news-details/2024/PG-Announces-Fiscal-Year-2024-Second-Quarter-Results/default.aspx](https://www.pginvestor.com/financial-reporting/press-releases/news-details/2024/PG-Announces-Fiscal-Year-2024-Second-Quarter-Results/default.aspx)
+- [https://kpmg.com/us/en/media/news/systemic-risk-consumer-goods-2023.html](https://kpmg.com/us/en/media/news/systemic-risk-consumer-goods-2023.html)
+- [https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2600](https://onlinelibrary.wiley.com/doi/10.1002/ijfe.2600)
+- [https://finance.yahoo.com/news/decoding-procter-gamble-co-pg-050421313.html](https://finance.yahoo.com/news/decoding-procter-gamble-co-pg-050421313.html)
+- [https://www.paddle.com/resources/order-to-cash](https://www.paddle.com/resources/order-to-cash)
+- [https://www.highradius.com/resources/Blog/credit-risk-analysis-in-accounts-receivable/](https://www.highradius.com/resources/Blog/credit-risk-analysis-in-accounts-receivable/)
+- [https://www.mbgcorp.com/in/insights/how-to-optimize-internal-audit-of-order-to-cash-o2c-process/](https://www.mbgcorp.com/in/insights/how-to-optimize-internal-audit-of-order-to-cash-o2c-process/)
+- [https://home.treasury.gov/system/files/136/2024-National-Money-Laundering-Risk-Assessment.pdf](https://home.treasury.gov/system/files/136/2024-National-Money-Laundering-Risk-Assessment.pdf)
+- [https://www.spglobal.com/marketintelligence/en/news-insights/blog/managing-credit-risk-automation-during-economic-uncertainty](https://www.spglobal.com/marketintelligence/en/news-insights/blog/managing-credit-risk-automation-during-economic-uncertainty)
+- [https://www.sec.gov/news/statement/munter-audit-2021-10-26](https://www.sec.gov/news/statement/munter-audit-2021-10-26)
+- [https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/navigating-economic-uncertainty-new-guidance-for-credit-risk-management](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/navigating-economic-uncertainty-new-guidance-for-credit-risk-management)
+- [https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/](https://www.salesforce.com/products/cpq/resources/what-to-know-about-order-to-cash-process/)
+- [https://seekingalpha.com/article/4530093-procter-and-gamble-stock-stability-uncertain-economic-environment](https://seekingalpha.com/article/4530093-procter-and-gamble-stock-stability-uncertain-economic-environment)
+- [https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/managing-and-monitoring-credit-risk-after-the-covid-19-pandemic](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/managing-and-monitoring-credit-risk-after-the-covid-19-pandemic)
+- [https://www.goldmansachs.com/intelligence/pages/gs-research/2024-global-credit-outlook-back-in-the-saddle/report.pdf](https://www.goldmansachs.com/intelligence/pages/gs-research/2024-global-credit-outlook-back-in-the-saddle/report.pdf)
+- [https://panmore.com/procter-gamble-operations-management-10-decisions-productivity](https://panmore.com/procter-gamble-operations-management-10-decisions-productivity)
+- [https://kpmg.com/us/en/articles/2024/january-2024-consumer-credit-outstanding.html](https://kpmg.com/us/en/articles/2024/january-2024-consumer-credit-outstanding.html)
+- [https://blog.bonafidee.com/resources/a-guide-to-customer-verification-compliance-in-financial-services](https://blog.bonafidee.com/resources/a-guide-to-customer-verification-compliance-in-financial-services)
+- [https://csrc.nist.gov/CSRC/media/Projects/Supply-Chain-Risk-Management/documents/case_studies/USRP_NIST_PandG_072415.pdf](https://csrc.nist.gov/CSRC/media/Projects/Supply-Chain-Risk-Management/documents/case_studies/USRP_NIST_PandG_072415.pdf)
+- [https://www.brightpearl.com/blog/the-ultimate-guide-to-order-to-cash-o2c-process](https://www.brightpearl.com/blog/the-ultimate-guide-to-order-to-cash-o2c-process)
+- [https://www.linkedin.com/pulse/role-internal-audit-p2p-o2c-efficiency-productivity-kashif](https://www.linkedin.com/pulse/role-internal-audit-p2p-o2c-efficiency-productivity-kashif)
+- [https://www.spglobal.com/ratings/en/research-insights/special-reports/global-credit-outlook-2024](https://www.spglobal.com/ratings/en/research-insights/special-reports/global-credit-outlook-2024)
+- [https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/pg-20210630.htm](https://www.sec.gov/Archives/edgar/data/80424/000008042421000100/pg-20210630.htm)
+- [https://www.cgap.org/sites/default/files/publications/2019_10_Technical_Note_Risk_Based_Customer_DD.pdf](https://www.cgap.org/sites/default/files/publications/2019_10_Technical_Note_Risk_Based_Customer_DD.pdf)
+- [https://www.sciencedirect.com/science/article/pii/S0165176524001496](https://www.sciencedirect.com/science/article/pii/S0165176524001496)
+- [https://www.jdsupra.com/legalnews/top-10-legal-issues-for-2024-for-the-7120081/](https://www.jdsupra.com/legalnews/top-10-legal-issues-for-2024-for-the-7120081/)
+- [https://www.infosysbpm.com/offerings/functions/sales-fulfillment/white-papers/Documents/SOX-controls.pdf](https://www.infosysbpm.com/offerings/functions/sales-fulfillment/white-papers/Documents/SOX-controls.pdf)
+- [https://www.apqc.org/blog/11-success-factors-better-order-cash-performance](https://www.apqc.org/blog/11-success-factors-better-order-cash-performance)
+- [https://www.bcg.com/publications/2020/order-to-cash-platforms-are-the-future](https://www.bcg.com/publications/2020/order-to-cash-platforms-are-the-future)
+- [https://us.pg.com/annualreport2023/financial-highlights/](https://us.pg.com/annualreport2023/financial-highlights/)
+- [https://www.protiviti.com/us-en/whitepaper/top-of-mind-compliance-issues-financial-institutions-2024](https://www.protiviti.com/us-en/whitepaper/top-of-mind-compliance-issues-financial-institutions-2024)
+- [https://www2.deloitte.com/us/en/pages/consumer-business/articles/consumer-products-industry-outlook.html](https://www2.deloitte.com/us/en/pages/consumer-business/articles/consumer-products-industry-outlook.html)
+- [https://www.pginvestor.com/esg/governance/risk-oversight/default.aspx](https://www.pginvestor.com/esg/governance/risk-oversight/default.aspx)
+- [https://www.resolver.com/blog/cpg-industry-risks/](https://www.resolver.com/blog/cpg-industry-risks/)
+- [https://www.spglobal.com/_assets/documents/ratings/research/101590414.pdf](https://www.spglobal.com/_assets/documents/ratings/research/101590414.pdf)
+- [https://manufacturingdigital.com/company-reports/procter-and-gamble-how-iws-driving-operational-excellence](https://manufacturingdigital.com/company-reports/procter-and-gamble-how-iws-driving-operational-excellence)
+- [https://www.theiia.org/globalassets/documents/content/articles/guidance/practice-guides/auditing-credit-risk-management/pg_auditing_credit_risk_mgmt_final_03112020.pdf](https://www.theiia.org/globalassets/documents/content/articles/guidance/practice-guides/auditing-credit-risk-management/pg_auditing_credit_risk_mgmt_final_03112020.pdf)
+- [https://us.pg.com/blogs/pg-earnings-second-quarter-2024/](https://us.pg.com/blogs/pg-earnings-second-quarter-2024/)
+- [https://www.pginvestor.com/company-strategy/default.aspx](https://www.pginvestor.com/company-strategy/default.aspx)
+- [https://www.highradius.com/resources/Blog/credit-risk-management-best-practices/](https://www.highradius.com/resources/Blog/credit-risk-management-best-practices/)
+- [https://assets.ctfassets.net/oggad6svuzkv/3PPplwsbj2TG5mhWiLOyJN/40c14734ff4e77cf3a890713f9045019/PG__Audit_Committee_Policies_February_2022.pdf](https://assets.ctfassets.net/oggad6svuzkv/3PPplwsbj2TG5mhWiLOyJN/40c14734ff4e77cf3a890713f9045019/PG__Audit_Committee_Policies_February_2022.pdf)
+- [https://rsmus.com/insights/services/audit/audit-oversight-in-2024.html](https://rsmus.com/insights/services/audit/audit-oversight-in-2024.html)
+- [https://kpmg.com/us/en/articles/2024/audit-committee-agenda-consumer-retail.html](https://kpmg.com/us/en/articles/2024/audit-committee-agenda-consumer-retail.html)
+- [https://www.brookings.edu/articles/the-economic-power-of-uncertainty-the-role-of-consumer-credit-bureaus/](https://www.brookings.edu/articles/the-economic-power-of-uncertainty-the-role-of-consumer-credit-bureaus/)
+- [https://www2.deloitte.com/us/en/pages/audit/solutions/consumer-industry-audit-assurance-services.html](https://www2.deloitte.com/us/en/pages/audit/solutions/consumer-industry-audit-assurance-services.html)
+- [https://seekingalpha.com/article/4684748-procter-and-gamble-company-pg-q3-2024-earnings-call-transcript](https://seekingalpha.com/article/4684748-procter-and-gamble-company-pg-q3-2024-earnings-call-transcript)
+- [https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13143?af=R](https://onlinelibrary.wiley.com/doi/10.1111/jmcb.13143?af=R)
+- [https://qxglobalgroup.com/fa/uk/blog/optimise-your-o2c-process-using-these-7-best-practices/](https://qxglobalgroup.com/fa/uk/blog/optimise-your-o2c-process-using-these-7-best-practices/)
+- [https://www.businesswire.com/news/home/20231017412338/en/PG-Announces-Fiscal-Year-2024-First-Quarter-Results](https://www.businesswire.com/news/home/20231017412338/en/PG-Announces-Fiscal-Year-2024-First-Quarter-Results)
+- [https://www.mastercardservices.com/en/advisors/data-strategy-management/insights/consumer-goods-industry-trends-2024](https://www.mastercardservices.com/en/advisors/data-strategy-management/insights/consumer-goods-industry-trends-2024)
+- [https://mitsloan.mit.edu/ideas-made-to-matter/procter-gambles-ceo-navigating-rapid-change](https://mitsloan.mit.edu/ideas-made-to-matter/procter-gambles-ceo-navigating-rapid-change)
+- [https://www.afslaw.com/perspectives/consumer-products-watch/top-10-legal-issues-2024-the-consumer-products-industry](https://www.afslaw.com/perspectives/consumer-products-watch/top-10-legal-issues-2024-the-consumer-products-industry)
+- [https://s1.q4cdn.com/695946674/files/doc_news/2024/04/Q3-FY24-RELEASE-Final.pdf](https://s1.q4cdn.com/695946674/files/doc_news/2024/04/Q3-FY24-RELEASE-Final.pdf)
+- [https://www.mckinsey.com/capabilities/operations/our-insights/finding-hidden-value-with-order-to-cash-optimization](https://www.mckinsey.com/capabilities/operations/our-insights/finding-hidden-value-with-order-to-cash-optimization)
+- [https://www.spglobal.com/marketintelligence/en/news-insights/blog/industry-credit-risk-trends-during-economic-uncertainty-comparing-historical-vs-forecasted-trends](https://www.spglobal.com/marketintelligence/en/news-insights/blog/industry-credit-risk-trends-during-economic-uncertainty-comparing-historical-vs-forecasted-trends)
+- [https://blog.hubspot.com/sales/order-to-cash-cycle](https://blog.hubspot.com/sales/order-to-cash-cycle)
+- [https://www.highradius.com/resources/Blog/order-to-cash-process/](https://www.highradius.com/resources/Blog/order-to-cash-process/)
+- [https://www.linkedin.com/pulse/order-cash-o2c-process-overview-key-risks-audit-muhammad-saad](https://www.linkedin.com/pulse/order-cash-o2c-process-overview-key-risks-audit-muhammad-saad)
+- [https://www.shipbob.com/blog/order-to-cash/](https://www.shipbob.com/blog/order-to-cash/)
+- [https://dscinstitute.org/wp-content/uploads/2022/10/O2C-Executive-Summary-from-DSCI-and-APQC-report-March-2022.pdf](https://dscinstitute.org/wp-content/uploads/2022/10/O2C-Executive-Summary-from-DSCI-and-APQC-report-March-2022.pdf)
+- [https://www.sciencedirect.com/science/article/pii/S0957417423019863](https://www.sciencedirect.com/science/article/pii/S0957417423019863)

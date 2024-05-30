@@ -1,0 +1,8 @@
+// State Graph
+digraph {
+	plan
+	tool
+	solve
+	plan -> tool
+	solve -> __end__
+}

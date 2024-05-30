@@ -1,0 +1,8 @@
+This file contains a list of types of analyses (e.g. inefficiencies, audit risk, regulatory compliance, etc.) and which process mining approach (DFG, temporal profile, or variants) is the best option for each analysis.
+
+1. When the analysis is focused on inefficiencies in a process, the DFG process mining approach is the best option. Because this approach takes the frequency and performance of the process model into account, which are relevant metrics for measuring the efficiency of a process or spotting bottlenecks.
+
+2. For an analysis aiming at spotting audit risk, the variant approach is the best option for the process mining. Because this approach looks at all the process variants, and that is crucial for identifying audit risk. Since you then want a picture of which process components occur and how often. 
+
+3. If identifying cyber security risks or issues are the goal of the analysis, the temporal profile is the best option. Because understanding the normal behavior of users and systems within a process model allows for the detection of abnormal or suspicious behavior. Temporal profile analysis can help in establishing baseline behavior and detecting deviations that may signal security risks, such as unauthorized access or insider threats
+

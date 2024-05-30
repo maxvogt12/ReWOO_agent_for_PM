@@ -1,0 +1,361 @@
+
+   Organization and process: Purchase to pay process at Walmart
+
+   Found inefficiencies and risks: 
+ 1. Reject Goods -> Receive Goods
+   - Explanation: This step indicates a potential issue with the quality of goods being received, which could lead to environmental risks if rejected goods are not handled properly. It could also result in sustainability risks if there are frequent returns or replacements required, increasing waste and resource consumption.
+
+2. Reject Purchase Requisition -> Create Purchase Requisition
+   - Explanation: This step highlights a potential inefficiency in the procurement process, where purchase requisitions are being rejected and recreated. This can lead to unnecessary resource utilization and delays in procurement, increasing the environmental impact of the process and reducing sustainability.
+
+3. Reject Invoice -> Receive Invoice
+   - Explanation: This step suggests a possible discrepancy or error in the invoicing process, leading to invoices being rejected and resent. This can result in delays in payment processing and extra resources being used to rectify the issue, impacting the efficiency and sustainability of the accounts payable process. 
+
+   #################### First inefficiency and environmental/sustainability risk report: #################### 
+
+ 
+   #################### Second inefficiency and environmental/sustainability risk report: #################### 
+ Process component: (Reject Invoice -> Receive Invoice) 
+ 
+ 
+ # Environmental and Sustainability Risks in the Purchase to Pay Process at Walmart
+
+The retail industry is undergoing a significant transformation, driven by the need to integrate sustainability into every aspect of business operations. As one of the largest retail giants, Walmart is at the forefront of this shift, particularly in its purchase to pay (P2P) process. The P2P process encompasses various stages, including requisition, approval, purchasing, receiving, and payment, each carrying potential environmental and sustainability risks. This report focuses on the 'Reject Invoice -> Receive Invoice' step, a critical juncture where environmental considerations are paramount.
+
+At this stage, the environmental and sustainability risks are multifaceted. The use of paper-based invoicing, for instance, has been identified as a significant contributor to deforestation, water consumption, and greenhouse gas emissions ([Springer](https://link.springer.com/article/10.1007/s11356-023-28689-1)). Walmart's commitment to reducing its carbon footprint is evident in its initiatives such as Project Gigaton, which targets the reduction of emissions across its supply chain ([Retail Dive](https://www.retaildive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/711243/)). However, the transition from paper-based to electronic invoicing is not without challenges. It requires robust technology infrastructure, changes in supplier behavior, and alignment with global sustainability standards.
+
+Moreover, the rejection of invoices can lead to additional processing, which may increase the carbon footprint due to the use of ICT resources and the potential for increased transportation if physical documents are involved. Walmart's P2P system aims to mitigate these risks by automating and integrating payment activities, thus enhancing efficiency and reducing manual errors ([Robots.net](https://robots.net/fintech/how-does-walmarts-p2p-work/)).
+
+The environmental impact of the 'Reject Invoice -> Receive Invoice' step is also influenced by Walmart's ability to manage its supply chain's energy use, waste, packaging, and product lifecycle ([The Guardian](https://www.theguardian.com/environment/2021/sep/13/walmart-climate-change-plan-can-it-work)). As Walmart continues to advance its sustainability agenda, it is imperative to assess and address the risks associated with this critical step in the P2P process. This report will provide a systematic analysis of these risks, offering insights into how Walmart can further reduce its environmental impact while maintaining operational efficiency.
+
+## Table of Contents
+
+- Environmental Impact of Invoice Processing at Walmart
+    - Deforestation and Paper Manufacturing
+    - Energy Consumption and Carbon Emissions
+    - Waste Generation and Methane Emissions
+    - The Impact of Ink and Other Materials
+    - Transitioning to Digital Invoicing
+- Sustainability Initiatives in Retail Payment Operations at Walmart
+    - Electronic Invoicing and Payment Systems
+    - Supplier Engagement and Sustainability Scorecards
+    - Data Analytics for Environmental Impact Reduction
+    - Renewable Energy-Powered Payment Processing
+    - Circular Economy and Closed-Loop Systems
+- Digital Invoicing and Carbon Footprint Reduction
+    - Adoption of Electronic Invoicing Systems
+    - Impact of Digitalization on Carbon Emissions
+    - Efficiency Gains from E-Invoicing
+    - Global E-Invoicing Mandates and Compliance
+    - Digital Carbon Footprint Considerations
+
+
+
+
+
+# Environmental Impact of Invoice Processing at Walmart
+
+## Deforestation and Paper Manufacturing
+The traditional paper invoicing process at large retailers like Walmart can contribute to deforestation, as the paper industry relies heavily on trees as the primary raw material. Deforestation not only leads to the loss of biodiversity and wildlife habitats but also exacerbates climate change by reducing the number of trees available to absorb carbon dioxide ([Genio](https://www.genio.ac/guides/exploring-the-environmental-impacts-of-paper-invoicing/)).
+
+## Energy Consumption and Carbon Emissions
+The production of paper invoices is energy-intensive, involving the consumption of water and energy, which results in carbon emissions and other pollutants. Additionally, the transportation and delivery of physical invoices contribute to air pollution through vehicle emissions. This aspect of the invoice processing step has a significant carbon footprint that affects Walmart's sustainability goals ([Genio](https://www.genio.ac/guides/exploring-the-environmental-impacts-of-paper-invoicing/)).
+
+## Waste Generation and Methane Emissions
+When paper invoices are discarded and end up in landfills, they can release methane, a potent greenhouse gas. Methane contributes significantly to global warming, and proper waste management practices such as recycling or composting can help mitigate these emissions. However, not all paper invoices are recycled, and many still end up in landfills, posing a challenge for Walmart's waste management efforts ([Genio](https://www.genio.ac/guides/exploring-the-environmental-impacts-of-paper-invoicing/)).
+
+## The Impact of Ink and Other Materials
+The ink used for printing invoices often contains harmful chemicals and solvents that can contaminate water sources and harm ecosystems. Additionally, adhesive labels and plastic envelopes used in the paper invoicing process contribute to waste generation and increase the environmental footprint of Walmart's invoice processing ([Genio](https://www.genio.ac/guides/exploring-the-environmental-impacts-of-paper-invoicing/)).
+
+## Transitioning to Digital Invoicing
+Walmart's move towards digital invoicing can significantly reduce the environmental impact associated with paper invoicing. Electronic invoicing eliminates the need for paper, reducing deforestation, energy consumption, and waste. It also offers the potential for improved efficiency and accuracy in the invoice processing step, aligning with Walmart's sustainability initiatives and Project Gigaton goals ([Supply Chain Dive](https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/710733/); [Genio](https://www.genio.ac/guides/uncovering-the-invoicing-trends-that-will-dominate-2024/)).
+
+
+# Sustainability Initiatives in Retail Payment Operations at Walmart
+
+## Electronic Invoicing and Payment Systems
+
+Walmart has been implementing electronic invoicing and payment systems to reduce the environmental impact associated with traditional paper-based processes. By transitioning to electronic systems, Walmart significantly cuts down on paper usage, which in turn reduces the demand for wood pulp and the deforestation associated with it. Electronic systems also minimize the need for physical storage and the associated energy consumption. The adoption of these systems aligns with Walmart's broader sustainability goals, including efforts to reduce waste and improve efficiency in operations.
+
+## Supplier Engagement and Sustainability Scorecards
+
+Walmart engages with its suppliers through sustainability scorecards that evaluate their environmental performance, including their invoicing and payment practices. Suppliers are encouraged to adopt electronic invoicing and payments to align with Walmart's sustainability initiatives. This engagement not only promotes more sustainable practices across the supply chain but also helps in tracking and reducing the carbon footprint associated with the 'Reject Invoice -> Receive Invoice' step in the purchase to pay process.
+
+## Data Analytics for Environmental Impact Reduction
+
+Through the use of advanced data analytics, Walmart can optimize its invoicing and payment operations to minimize environmental impact. By analyzing transaction data, Walmart can identify patterns and areas for improvement, such as reducing the frequency of invoice rejections which lead to additional processing and associated environmental costs. This data-driven approach enables Walmart to make informed decisions that support sustainability objectives.
+
+## Renewable Energy-Powered Payment Processing
+
+Walmart's commitment to renewable energy extends to its payment processing infrastructure. By ensuring that the data centers and servers handling electronic invoicing and payments are powered by renewable energy sources, Walmart reduces the carbon emissions associated with these operations. This initiative is part of Walmart's broader goal to power its facilities with 100% renewable energy and contributes to the reduction of greenhouse gas emissions in the retail payment process.
+
+## Circular Economy and Closed-Loop Systems
+
+In line with the principles of a circular economy, Walmart is exploring closed-loop systems for its payment operations. This involves creating a system where resources, including the technology and equipment used for processing payments, are reused, refurbished, or recycled at the end of their lifecycle. By adopting a closed-loop approach, Walmart aims to minimize waste and promote resource efficiency in its payment operations, contributing to a more sustainable retail environment.
+
+These initiatives demonstrate Walmart's commitment to integrating sustainability into every aspect of its operations, including the 'Reject Invoice -> Receive Invoice' step in the purchase to pay process. Through electronic invoicing, supplier engagement, data analytics, renewable energy usage, and closed-loop systems, Walmart is addressing the environmental and sustainability risks associated with retail payment operations.
+
+
+# Digital Invoicing and Carbon Footprint Reduction
+
+## Adoption of Electronic Invoicing Systems
+The transition from paper-based to electronic invoicing (e-invoicing) systems is a significant step in reducing the carbon footprint associated with the 'Reject Invoice -> Receive Invoice' step in the purchase to pay process. E-invoicing eliminates the need for paper, thus reducing deforestation and the carbon emissions from paper production and transportation. For a retail giant like Walmart, which processes a vast number of invoices, the shift to e-invoicing can lead to substantial environmental benefits ([UNCTAD, 2021](https://unctad.org/news/quantifying-environmental-benefits-paperless-trade-facilitation)).
+
+## Impact of Digitalization on Carbon Emissions
+Digitalization of invoices not only reduces paper use but also cuts down on emissions related to physical delivery and storage. A study found a 63% reduction in greenhouse gas emissions per invoice when switching from paper to digital e-invoices ([UNCTAD, 2021](https://unctad.org/news/quantifying-environmental-benefits-paperless-trade-facilitation)). However, it is essential to consider the increased demand for electricity to power servers and computers, which can partially offset these gains. Despite this, the net effect of going paperless is generally a reduction in emissions.
+
+## Efficiency Gains from E-Invoicing
+Efficiency gains from e-invoicing are a major contributor to emission reductions. By streamlining the invoice process, less work is required to complete transactions, leading to a decrease in office space usage, commuting, and other resource consumption. For Walmart, this means optimizing the supply chain and reducing the environmental impact of their operations ([OpenText, 2024](https://www.opentext.com/assets/documents/en-US/pdf/opentext-pp-2024-guide-to-global-e-Invoicing-mandates-en.pdf)).
+
+## Global E-Invoicing Mandates and Compliance
+Walmart must also navigate the evolving landscape of global e-invoicing mandates. Countries are increasingly requiring businesses to adopt e-invoicing for tax reporting and VAT compliance, which can have implications for Walmart's international operations. Adhering to these mandates can further promote sustainability by ensuring better systems and processes that contribute to carbon footprint reduction ([UnifiedPost Group, 2024](https://www.unifiedpostgroup.com/news/2024s-electronic-invoicing-changes)).
+
+## Digital Carbon Footprint Considerations
+While e-invoicing reduces the carbon footprint associated with paper invoices, it is important to manage the digital carbon footprint. This includes the energy consumption of data centers and digital devices. Walmart can mitigate this by using energy-efficient hardware, virtualization, cloud computing, and investing in renewable energy sources to power their digital infrastructure ([Nutanix, n.d.](https://www.nutanix.com/info/digital-carbon-footprint)).
+
+In summary, the adoption of e-invoicing in the 'Reject Invoice -> Receive Invoice' step is a key sustainability initiative that can significantly reduce Walmart's environmental impact. By focusing on efficiency gains, complying with global mandates, and managing the digital carbon footprint, Walmart can contribute to a more sustainable retail sector.
+
+
+## References
+
+- [https://www.prnewswire.com/news-releases/baswares-e-invoicing-platform-and-carbon-footprint-tracker-helps-customers-slash-paper-invoices-by-80-302129001.html](https://www.prnewswire.com/news-releases/baswares-e-invoicing-platform-and-carbon-footprint-tracker-helps-customers-slash-paper-invoices-by-80-302129001.html)
+- [https://www.bcg.com/publications/2022/sustainability-in-retail](https://www.bcg.com/publications/2022/sustainability-in-retail)
+- [https://www.jpmorgan.com/insights/esg/sustainability/earth-day-2022-sustainable-payments](https://www.jpmorgan.com/insights/esg/sustainability/earth-day-2022-sustainable-payments)
+- [https://corporate.walmart.com/content/dam/corporate/documents/esgreport/fy2023-walmart-esg-highlights.pdf](https://corporate.walmart.com/content/dam/corporate/documents/esgreport/fy2023-walmart-esg-highlights.pdf)
+- [https://www.grocerydive.com/news/walmarts-chief-sustainability-officer-talks-esg-priorities-challenges/694944/](https://www.grocerydive.com/news/walmarts-chief-sustainability-officer-talks-esg-priorities-challenges/694944/)
+- [https://www.linkedin.com/advice/3/how-can-you-measure-environmental-impact-your](https://www.linkedin.com/advice/3/how-can-you-measure-environmental-impact-your)
+- [https://kpmg.com/us/en/home/insights/2024/04/tnf-kpmg-report-global-e-invoicing-digital-reporting-mandates.html](https://kpmg.com/us/en/home/insights/2024/04/tnf-kpmg-report-global-e-invoicing-digital-reporting-mandates.html)
+- [https://theconversation.com/walmart-tried-to-make-sustainability-affordable-heres-what-happened-76771](https://theconversation.com/walmart-tried-to-make-sustainability-affordable-heres-what-happened-76771)
+- [https://www.unifiedpostgroup.com/news/2024s-electronic-invoicing-changes](https://www.unifiedpostgroup.com/news/2024s-electronic-invoicing-changes)
+- [https://greencitizen.com/blog/digital-carbon-footprint/](https://greencitizen.com/blog/digital-carbon-footprint/)
+- [https://corporate.walmart.com/news/2024/04/22/every-day-sustainability-how-walmart-and-sams-club-are-making-more-sustainable-choices-easy-accessible-and-affordable](https://corporate.walmart.com/news/2024/04/22/every-day-sustainability-how-walmart-and-sams-club-are-making-more-sustainable-choices-easy-accessible-and-affordable)
+- [https://www.simpleaccounts.io/blogs/sustainable-e-invoicing-reducing-paper-waste-and-going-green/](https://www.simpleaccounts.io/blogs/sustainable-e-invoicing-reducing-paper-waste-and-going-green/)
+- [https://www.gep.com/blog/technology/7-challenges-of-procure-to-pay-and-how-to-overcome-them](https://www.gep.com/blog/technology/7-challenges-of-procure-to-pay-and-how-to-overcome-them)
+- [https://www.opentext.com/assets/documents/en-US/pdf/opentext-pp-2024-guide-to-global-e-Invoicing-mandates-en.pdf](https://www.opentext.com/assets/documents/en-US/pdf/opentext-pp-2024-guide-to-global-e-Invoicing-mandates-en.pdf)
+- [https://ssir.org/articles/entry/the_greening_of_wal_mart](https://ssir.org/articles/entry/the_greening_of_wal_mart)
+- [https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/nef-spotlight-the-path-forward-for-retails-sustainable-future](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/nef-spotlight-the-path-forward-for-retails-sustainable-future)
+- [https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-6-years-early/708192/](https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-6-years-early/708192/)
+- [https://unctad.org/news/quantifying-environmental-benefits-paperless-trade-facilitation](https://unctad.org/news/quantifying-environmental-benefits-paperless-trade-facilitation)
+- [https://www.ebill.ch/dam/downloads/document/study-sustainability-in-invoicing-2023-m-summary-en.pdf](https://www.ebill.ch/dam/downloads/document/study-sustainability-in-invoicing-2023-m-summary-en.pdf)
+- [https://legacyretail.com/2024/01/17/navigating-walmarts-sustainability-requirements-for-suppliers/](https://legacyretail.com/2024/01/17/navigating-walmarts-sustainability-requirements-for-suppliers/)
+- [https://www.mckinsey.com/industries/retail/our-insights/climate-sustainability-in-retail-who-will-pay](https://www.mckinsey.com/industries/retail/our-insights/climate-sustainability-in-retail-who-will-pay)
+- [https://www.retaildive.com/news/retail-is-fundamentally-bad-for-the-environment-and-doing-better-isnt-eas/624555/](https://www.retaildive.com/news/retail-is-fundamentally-bad-for-the-environment-and-doing-better-isnt-eas/624555/)
+- [https://corporate.walmart.com/purpose/esgreport/resources-archives/esg-issue-briefs](https://corporate.walmart.com/purpose/esgreport/resources-archives/esg-issue-briefs)
+- [https://www.wellybox.com/learn/paper-receipts-the-environmental-impact-and-why-you-should-go-digital/](https://www.wellybox.com/learn/paper-receipts-the-environmental-impact-and-why-you-should-go-digital/)
+- [https://www.zintego.com/blog/the-impact-of-paperless-invoices-on-the-environment-and-your-bottom-line/](https://www.zintego.com/blog/the-impact-of-paperless-invoices-on-the-environment-and-your-bottom-line/)
+- [https://www.nutanix.com/info/digital-carbon-footprint](https://www.nutanix.com/info/digital-carbon-footprint)
+- [https://harbert.auburn.edu/binaries/documents/center-for-ethical-organizational-cultures/cases/walmart.pdf](https://harbert.auburn.edu/binaries/documents/center-for-ethical-organizational-cultures/cases/walmart.pdf)
+- [https://www.technologyreview.com/2023/03/08/1069473/digital-technology-the-backbone-of-a-net-zero-emissions-future/](https://www.technologyreview.com/2023/03/08/1069473/digital-technology-the-backbone-of-a-net-zero-emissions-future/)
+- [https://cdn.corporate.walmart.com/00/5a/3c20743a4f0db2d00c452aebea95/omni-channel-emissions-modeling-whitepaperfinal04182017.pdf](https://cdn.corporate.walmart.com/00/5a/3c20743a4f0db2d00c452aebea95/omni-channel-emissions-modeling-whitepaperfinal04182017.pdf)
+- [https://www.retaildive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/711243/](https://www.retaildive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/711243/)
+- [https://www.tandfonline.com/doi/full/10.1080/23311975.2021.1938377](https://www.tandfonline.com/doi/full/10.1080/23311975.2021.1938377)
+- [https://purestrategies.com/case-study/walmart-embedding-sustainability-in-a-vast-supply-chain](https://purestrategies.com/case-study/walmart-embedding-sustainability-in-a-vast-supply-chain)
+- [https://www.retaildive.com/spons/navigating-change-a-retailers-guide-to-preparing-for-e-invoicing-requirem/702497/](https://www.retaildive.com/spons/navigating-change-a-retailers-guide-to-preparing-for-e-invoicing-requirem/702497/)
+- [https://oboloo.com/blog/go-green-electronic-invoicing-benefits-your-organization-and-the-environment/](https://oboloo.com/blog/go-green-electronic-invoicing-benefits-your-organization-and-the-environment/)
+- [https://aisel.aisnet.org/acis2010/95/](https://aisel.aisnet.org/acis2010/95/)
+- [https://www.semanticscholar.org/paper/Assessing-the-carbon-footprint-of-paper-vs.-Tenhunen-Penttinen/241ae505730b6f5690a6a457f858f6042914317a](https://www.semanticscholar.org/paper/Assessing-the-carbon-footprint-of-paper-vs.-Tenhunen-Penttinen/241ae505730b6f5690a6a457f858f6042914317a)
+- [https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/710733/](https://www.supplychaindive.com/news/walmart-project-gigaton-scope-3-supplier-emissions-ron-voglewede/710733/)
+- [https://www.genio.ac/guides/how-invoices-play-an-essential-role-in-sustainable-business/](https://www.genio.ac/guides/how-invoices-play-an-essential-role-in-sustainable-business/)
+- [https://www.invoicera.com/blog/invoicing/top-5-e-invoicing-software-solutions-for-2024/](https://www.invoicera.com/blog/invoicing/top-5-e-invoicing-software-solutions-for-2024/)
+- [https://www.walmartsustainabilityhub.com/climate/zero-emissions](https://www.walmartsustainabilityhub.com/climate/zero-emissions)
+- [https://www.weforum.org/agenda/2022/09/retail-stores-into-ecommerce-centres-avoid-carbon-emissions/](https://www.weforum.org/agenda/2022/09/retail-stores-into-ecommerce-centres-avoid-carbon-emissions/)
+- [https://www.deloitte.com/global/en/Industries/consumer/analysis/sustainability-in-retail.html](https://www.deloitte.com/global/en/Industries/consumer/analysis/sustainability-in-retail.html)
+- [https://www.genio.ac/guides/exploring-the-environmental-impacts-of-paper-invoicing/](https://www.genio.ac/guides/exploring-the-environmental-impacts-of-paper-invoicing/)
+- [https://corporate.walmart.com/purpose/esgreport](https://corporate.walmart.com/purpose/esgreport)
+- [https://www.analyticsinsight.net/digital-carbon-footprint-reducing-environmental-impact-in-the-tech-industry/](https://www.analyticsinsight.net/digital-carbon-footprint-reducing-environmental-impact-in-the-tech-industry/)
+- [https://www.pymnts.com/news/b2b-payments/2024/unlocking-efficiency-how-digital-invoicing-can-transform-operations/](https://www.pymnts.com/news/b2b-payments/2024/unlocking-efficiency-how-digital-invoicing-can-transform-operations/)
+- [https://www.esgreportinghub.org/article/identifying-sustainability-related-risks-and-opportunities](https://www.esgreportinghub.org/article/identifying-sustainability-related-risks-and-opportunities)
+- [https://corporate.walmart.com/purpose/sustainability](https://corporate.walmart.com/purpose/sustainability)
+- [https://grist.org/business-technology/top-10-ways-walmart-is-failing-on-sustainability/](https://grist.org/business-technology/top-10-ways-walmart-is-failing-on-sustainability/)
+- [https://www.nature.com/articles/s41598-024-55848-2](https://www.nature.com/articles/s41598-024-55848-2)
+- [https://link.springer.com/article/10.1007/s11356-023-28689-1](https://link.springer.com/article/10.1007/s11356-023-28689-1)
+- [https://www.genio.ac/guides/uncovering-the-invoicing-trends-that-will-dominate-2024/](https://www.genio.ac/guides/uncovering-the-invoicing-trends-that-will-dominate-2024/)
+- [https://flevy.com/topic/enterprise-architecture/question/enhancing-sustainability-invoice-management-systems-paperless-operations](https://flevy.com/topic/enterprise-architecture/question/enhancing-sustainability-invoice-management-systems-paperless-operations)
+- [https://www.sciencedirect.com/science/article/pii/S0959652618326040](https://www.sciencedirect.com/science/article/pii/S0959652618326040)
+- [https://changemanagementinsight.com/walmart-change-management-case-study/](https://changemanagementinsight.com/walmart-change-management-case-study/)
+- [https://news.basware.com/en/baswares-e-invoicing-platform-and-carbon-footprint-tracker-helps-customers-slash-paper-invoices-by-80](https://news.basware.com/en/baswares-e-invoicing-platform-and-carbon-footprint-tracker-helps-customers-slash-paper-invoices-by-80)
+- [https://www.theguardian.com/environment/2021/sep/13/walmart-climate-change-plan-can-it-work](https://www.theguardian.com/environment/2021/sep/13/walmart-climate-change-plan-can-it-work)
+- [https://www.genio.ac/guides/discovering-the-environmental-benefits-of-paperless-invoicing/](https://www.genio.ac/guides/discovering-the-environmental-benefits-of-paperless-invoicing/)
+- [https://www.continia.com/blog/e-invoicing-a-complete-guide/](https://www.continia.com/blog/e-invoicing-a-complete-guide/)
+- [https://www.bain.com/insights/how-to-cut-carbon-emissions-as-ecommerce-soars/](https://www.bain.com/insights/how-to-cut-carbon-emissions-as-ecommerce-soars/)
+- [https://www.weforum.org/agenda/2021/12/digital-carbon-footprint-how-to-lower-electronics/](https://www.weforum.org/agenda/2021/12/digital-carbon-footprint-how-to-lower-electronics/)
+- [https://www.retaildive.com/news/why-wal-mart-is-a-retail-sustainability-leader-but-doesnt-really-want-to/423713/](https://www.retaildive.com/news/why-wal-mart-is-a-retail-sustainability-leader-but-doesnt-really-want-to/423713/)
+- [https://www.retailtouchpoints.com/topics/sustainability/how-retailers-can-overcome-the-challenges-faced-on-the-path-to-sustainability](https://www.retailtouchpoints.com/topics/sustainability/how-retailers-can-overcome-the-challenges-faced-on-the-path-to-sustainability)
+- [https://robots.net/fintech/how-does-walmarts-p2p-work/](https://robots.net/fintech/how-does-walmarts-p2p-work/)
+- [https://www.medius.com/blog/how-e-invoicing-improves-sustainability/](https://www.medius.com/blog/how-e-invoicing-improves-sustainability/)
+- [https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1012&context=acis2010](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1012&context=acis2010)
+- [https://www.bain.com/insights/sustainability-in-retail/](https://www.bain.com/insights/sustainability-in-retail/)
+ 
+ 
+   #################### Third inefficiency and environmental/sustainability risk report: #################### 
+ Process component: (Reject Invoice -> Receive Invoice) 
+ 
+ 
+ # Environmental and Sustainability Risks in Retail Invoice Processing: A Case Study of Walmart
+
+The retail industry, exemplified by giants like Walmart, is undergoing a transformative shift towards sustainability, driven by both consumer demand and the imperative to mitigate environmental impacts. At the core of retail operations lies the purchase to pay process, a critical component of which is the 'Reject Invoice -> Receive Invoice' step. This stage, traditionally reliant on paper-based systems, presents significant environmental and sustainability risks that cannot be overlooked.
+
+Paper invoicing, a prevalent practice within this process, has been identified as a contributor to deforestation, energy consumption, and waste generation, leading to a substantial carbon footprint ([Genio](https://www.genio.ac/guides/exploring-the-environmental-impacts-of-paper-invoicing/)). The production of paper invoices necessitates the use of timber, water, and energy, resulting in carbon emissions and habitat destruction. Moreover, the transportation of these invoices adds to greenhouse gas emissions, exacerbating climate change.
+
+Walmart, as a leader in the retail sector, has recognized the importance of addressing these risks and has taken steps to enhance its environmental and social governance (ESG) strategies ([Walmart ESG Highlights](https://corporate.walmart.com/content/dam/corporate/documents/esgreport/fy2023-walmart-esg-highlights.pdf)). The company's commitment to sustainability is evident in its efforts to achieve operational emissions reduction and to encourage suppliers to adopt more sustainable practices.
+
+The transition to digital invoicing presents a viable solution to mitigate the environmental impacts associated with paper invoicing. Studies have shown that electronic invoicing can significantly reduce the carbon footprint of the invoicing process, with potential national savings in carbon emissions being substantial ([Springer](https://link.springer.com/article/10.1007/s11356-023-28689-1)). By adopting digital systems, businesses can streamline their processes, reduce waste, and contribute to a greener future.
+
+In this report, we will delve into the specific environmental and sustainability risks associated with the 'Reject Invoice -> Receive Invoice' step in the purchase to pay process, particularly in the context of Walmart. We will examine the implications of these risks and explore the measures that Walmart has implemented, as well as potential strategies for further improvement. The insights provided will serve as a guide for the retail industry at large, as it navigates the path towards a more sustainable future.
+
+## Table of Contents
+
+- Environmental Impact of Paper Invoicing in Retail Industry: The Case of Walmart
+    - Deforestation and Biodiversity Loss
+    - Water and Energy Consumption
+    - Waste Generation and Landfill Impact
+    - Carbon Footprint of Transportation
+    - Sustainable Business Practices and Customer Perception
+- Digital Invoicing and Sustainability Benefits in the Retail Industry: Walmart's Approach
+    - Adoption of Digital Invoicing at Walmart
+    - Reduction in Paper Consumption
+    - Energy and Resource Efficiency
+    - Lower Carbon Footprint
+    - Waste Reduction and Circular Economy
+    - Enhancing Supplier Engagement in Sustainability
+- Walmart's Sustainability Initiatives and Paperless Goals
+    - Walmart's Commitment to Decarbonization and Clean Energy
+    - Project Gigaton and Supply Chain Emissions Reduction
+    - Paperless Accounts Payable Systems
+    - Environmental Compliance and Waste Management
+    - Climate-Related Scenario Analysis and Risk Management
+
+
+
+
+
+# Environmental Impact of Paper Invoicing in Retail Industry: The Case of Walmart
+
+## Deforestation and Biodiversity Loss
+
+The production of paper invoices necessitates the use of trees as the primary raw material, leading to deforestation and the subsequent loss of biodiversity. For retailers like Walmart, which process a vast number of transactions daily, the cumulative effect on forests can be substantial. Deforestation not only reduces carbon sequestration capacity but also destroys natural habitats, pushing numerous species towards extinction. Walmart's efforts to reduce paper usage in their operations, including the adoption of electronic invoicing, can significantly mitigate these impacts. ([Walmart's Pulp and Paper Policy](https://corporate.walmart.com/purpose/esgreport/environmental/product-supply-chain-sustainability))
+
+## Water and Energy Consumption
+
+The lifecycle of a paper invoice involves significant water and energy consumption, from the manufacturing process to the eventual disposal. The paper industry is water-intensive, contributing to water scarcity in some regions. Energy usage is also a concern, with the production and transportation of paper invoices contributing to greenhouse gas emissions. By transitioning to electronic invoicing, retailers like Walmart can reduce their water and energy consumption, aligning with their sustainability goals and reducing their environmental footprint. ([Genio](https://www.genio.ac/guides/discovering-the-environmental-benefits-of-paperless-invoicing/))
+
+## Waste Generation and Landfill Impact
+
+After their use, paper invoices often end up in landfills, contributing to waste accumulation. The decomposition of paper waste produces methane, a potent greenhouse gas. Walmart's move towards electronic invoicing can significantly decrease the amount of paper waste generated, alleviating the burden on waste management systems and reducing the company's contribution to landfill growth. ([Oboloo](https://oboloo.com/blog/go-green-electronic-invoicing-benefits-your-organization-and-the-environment/))
+
+## Carbon Footprint of Transportation
+
+The delivery of paper invoices involves transportation, which emits carbon dioxide and other pollutants. For a global retailer like Walmart, the scale of invoice distribution can result in a considerable carbon footprint. Electronic invoicing eliminates the need for physical delivery, thereby reducing the carbon emissions associated with the transportation of paper invoices. ([Genio](https://www.genio.ac/guides/discovering-the-environmental-benefits-of-paperless-invoicing/))
+
+## Sustainable Business Practices and Customer Perception
+
+Adopting sustainable practices such as electronic invoicing can enhance a retailer's brand reputation and attract environmentally conscious customers. Walmart's commitment to sustainability, as evidenced by its supplier scorecards and sustainability programs, positions it as an industry leader in environmental responsibility. By reducing paper invoicing, Walmart not only streamlines its operations but also appeals to a growing market segment that prioritizes eco-friendly businesses. ([The Conversation](https://theconversation.com/walmart-tried-to-make-sustainability-affordable-heres-what-happened-76771))
+
+In summary, the environmental and sustainability risks associated with the 'Reject Invoice -> Receive Invoice' step in the purchase to pay process are significant for the retail industry. By addressing these risks through the adoption of electronic invoicing, retailers like Walmart can make substantial progress towards their sustainability goals and reduce their environmental impact.
+
+
+# Digital Invoicing and Sustainability Benefits in the Retail Industry: Walmart's Approach
+
+## Adoption of Digital Invoicing at Walmart
+Walmart, as a leader in the retail industry, has been adopting digital invoicing as part of its broader sustainability and efficiency initiatives. Digital invoicing, or e-invoicing, involves the exchange of the invoice document between the supplier and the buyer in an integrated electronic format. This process allows Walmart to streamline its 'Reject Invoice -> Receive Invoice' step in the purchase to pay process, reducing the need for paper-based systems and the environmental impact associated with them.
+
+## Reduction in Paper Consumption
+By implementing digital invoicing, Walmart significantly reduces its paper consumption. Traditional paper invoicing is a resource-intensive process, involving the use of paper, printing supplies, and additional resources for handling and storage. E-invoicing eliminates the need for these materials, thereby conserving natural resources and reducing the company's impact on deforestation and habitat destruction.
+
+## Energy and Resource Efficiency
+Digital invoicing contributes to energy and resource efficiency in several ways. It reduces the energy required for printing, processing, and transporting paper invoices. Additionally, digital storage of invoices decreases the need for physical storage solutions, which further conserves energy used for climate control and physical space. Walmart's adoption of e-invoicing aligns with its broader goals of reducing energy consumption across its operations.
+
+## Lower Carbon Footprint
+The transition to digital invoicing at Walmart has a direct impact on the company's carbon footprint. The elimination of physical transport for invoice delivery means a reduction in greenhouse gas emissions from postal and delivery vehicles. This change is particularly significant given the scale of Walmart's operations and its extensive supplier network. The reduction in emissions contributes to Walmart's commitment to the Project Gigaton initiative, which aims to reduce greenhouse gas emissions in its supply chain.
+
+## Waste Reduction and Circular Economy
+E-invoicing aligns with the principles of a circular economy by reducing waste generation. Digital invoices do not contribute to paper waste, which is a significant component of landfill waste. By minimizing waste, Walmart supports recycling efforts and the conservation of resources, which is a key aspect of its sustainability agenda. This waste reduction also translates into cost savings for the company, as it reduces the expenses associated with waste management.
+
+## Enhancing Supplier Engagement in Sustainability
+Walmart's move towards digital invoicing serves as a model for its suppliers, encouraging them to adopt similar sustainable practices. By requiring digital invoicing, Walmart indirectly promotes the use of digital tools and processes among its suppliers, which can lead to broader sustainability gains across the supply chain. This engagement is crucial for achieving industry-wide sustainability improvements and for meeting the ambitious goals set by Walmart's Project Gigaton.
+
+In summary, Walmart's adoption of digital invoicing as part of its purchase to pay process presents multiple sustainability benefits, including reduced paper consumption, energy and resource efficiency, a lower carbon footprint, waste reduction, and the promotion of a circular economy. These benefits are in line with Walmart's sustainability commitments and contribute to the company's reputation as a leader in corporate environmental responsibility.
+
+
+# Walmart's Sustainability Initiatives and Paperless Goals
+
+## Walmart's Commitment to Decarbonization and Clean Energy
+Walmart has set ambitious goals to decarbonize its operations and expand access to clean energy for customers and suppliers by 2040 ([Walmart Sustainability Hub](https://www.walmartsustainabilityhub.com/climate/zero-emissions)). This includes deploying electric vehicle charging stations and adding more onsite renewable energy sources, such as solar panels. These initiatives directly impact the 'Reject Invoice -> Receive Invoice' step by encouraging the adoption of electronic invoicing systems that reduce the need for transportation and paper-based processes, thereby contributing to lower carbon emissions.
+
+## Project Gigaton and Supply Chain Emissions Reduction
+Under Project Gigaton, Walmart has successfully engaged over 5,900 suppliers to reduce greenhouse gas emissions by 1 billion metric tons, achieving this target six years ahead of its 2030 goal ([ESG Today](https://www.esgtoday.com/walmart-hits-goal-to-reduce-1-billion-tons-of-supply-chain-emissions-6-years-ahead-of-2030-target/)). This initiative encompasses areas such as energy use and packaging, which are relevant to the invoice processing step. By working with suppliers to reduce emissions, Walmart indirectly promotes the adoption of sustainable practices like paperless invoicing within its supply chain.
+
+## Paperless Accounts Payable Systems
+Walmart's move towards a paperless accounts payable system aligns with its sustainability goals by reducing paper use and the associated environmental impacts ([Card Integrity](https://cardintegrity.com/paperless-accounts-payable-system/)). Implementing digital invoicing systems not only decreases the carbon footprint but also enhances efficiency and transparency in the invoice processing step. This shift is crucial for a major retailer like Walmart, where the volume of transactions is immense.
+
+## Environmental Compliance and Waste Management
+Walmart's environmental compliance initiatives include analyzing waste generation trends and managing the disposition of products that are not sold ([Walmart Environmental Compliance Fact Sheet](http://cdn.corporate.walmart.com/3b/06/e5adfc234ff09097b9b7d0ba30eb/walmart-environmental-compliance-fact-sheet-5-28-13_130139018374195846.pdf)). By digitizing the invoice process, Walmart can better track and manage the end-of-life of products, significantly reducing the number of items that become hazardous waste.
+
+## Climate-Related Scenario Analysis and Risk Management
+Walmart conducts in-depth climate risk assessments to understand the potential impacts of climate change on its operations, including the 'Reject Invoice -> Receive Invoice' step ([CDP Climate Change Submission](https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/CDP-2022-Climate-Change-Submission.pdf)). These assessments help Walmart to anticipate and mitigate risks associated with physical assets, supply chain, and communities, ensuring the resilience of its business processes against climate-related disruptions.
+
+
+## References
+
+- [https://www.genio.ac/guides/how-to-go-green-and-sustainable-with-e-invoicing/](https://www.genio.ac/guides/how-to-go-green-and-sustainable-with-e-invoicing/)
+- [https://themalaysianreserve.com/2024/04/29/baswares-e-invoicing-platform-and-carbon-footprint-tracker-helps-customers-slash-paper-invoices-by-80/](https://themalaysianreserve.com/2024/04/29/baswares-e-invoicing-platform-and-carbon-footprint-tracker-helps-customers-slash-paper-invoices-by-80/)
+- [https://corporate.walmart.com/content/dam/corporate/documents/esgreport/fy2023-walmart-esg-highlights.pdf](https://corporate.walmart.com/content/dam/corporate/documents/esgreport/fy2023-walmart-esg-highlights.pdf)
+- [https://www.highradius.com/resources/Blog/difference-btw-paper-and-electronic-invoice/](https://www.highradius.com/resources/Blog/difference-btw-paper-and-electronic-invoice/)
+- [https://www2.deloitte.com/uk/en/blog/risk-powers-performance/2023/integrating-sustainability-into-your-risk-management-framework.html](https://www2.deloitte.com/uk/en/blog/risk-powers-performance/2023/integrating-sustainability-into-your-risk-management-framework.html)
+- [https://www.medius.com/blog/how-e-invoicing-improves-sustainability/](https://www.medius.com/blog/how-e-invoicing-improves-sustainability/)
+- [https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2019-esg-report.pdf](https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/walmart-2019-esg-report.pdf)
+- [https://theconversation.com/walmart-tried-to-make-sustainability-affordable-heres-what-happened-76771](https://theconversation.com/walmart-tried-to-make-sustainability-affordable-heres-what-happened-76771)
+- [https://cardintegrity.com/paperless-accounts-payable-system/](https://cardintegrity.com/paperless-accounts-payable-system/)
+- [https://www.highradius.com/resources/Blog/electronic-invoicing-benefits/](https://www.highradius.com/resources/Blog/electronic-invoicing-benefits/)
+- [https://www.linkedin.com/pulse/strategies-managing-sustainable-digitally-enhanced-supply-shenavar-ylkce/](https://www.linkedin.com/pulse/strategies-managing-sustainable-digitally-enhanced-supply-shenavar-ylkce/)
+- [https://www.esgtoday.com/walmart-hits-goal-to-reduce-1-billion-tons-of-supply-chain-emissions-6-years-ahead-of-2030-target/](https://www.esgtoday.com/walmart-hits-goal-to-reduce-1-billion-tons-of-supply-chain-emissions-6-years-ahead-of-2030-target/)
+- [https://rebuilt-project.eu/wp-content/uploads/2024/03/Assessing-the-Carbon-Footprint-of-Paper-vs.-Electronic-Invoicing.pdf](https://rebuilt-project.eu/wp-content/uploads/2024/03/Assessing-the-Carbon-Footprint-of-Paper-vs.-Electronic-Invoicing.pdf)
+- [https://oboloo.com/blog/go-green-electronic-invoicing-benefits-your-organization-and-the-environment/](https://oboloo.com/blog/go-green-electronic-invoicing-benefits-your-organization-and-the-environment/)
+- [https://s201.q4cdn.com/262069030/files/doc_downloads/ESG/WMT-Green-Financing-Framework-FINAL.pdf](https://s201.q4cdn.com/262069030/files/doc_downloads/ESG/WMT-Green-Financing-Framework-FINAL.pdf)
+- [https://corporate.walmart.com/news/2024/04/22/every-day-sustainability-how-walmart-and-sams-club-are-making-more-sustainable-choices-easy-accessible-and-affordable](https://corporate.walmart.com/news/2024/04/22/every-day-sustainability-how-walmart-and-sams-club-are-making-more-sustainable-choices-easy-accessible-and-affordable)
+- [https://incontextsolutions.com/blog/digital-transformation-in-retail-fueling-sustainability/](https://incontextsolutions.com/blog/digital-transformation-in-retail-fueling-sustainability/)
+- [https://www.technologyreview.com/2023/03/08/1069473/digital-technology-the-backbone-of-a-net-zero-emissions-future/](https://www.technologyreview.com/2023/03/08/1069473/digital-technology-the-backbone-of-a-net-zero-emissions-future/)
+- [https://www.genio.ac/guides/uncovering-the-invoicing-trends-that-will-dominate-2024/](https://www.genio.ac/guides/uncovering-the-invoicing-trends-that-will-dominate-2024/)
+- [https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9667173/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9667173/)
+- [https://www.proactis.com/us/resources/expert-articles/the-touchless-accounts-payable-process/](https://www.proactis.com/us/resources/expert-articles/the-touchless-accounts-payable-process/)
+- [https://www.genio.ac/guides/exploring-the-environmental-impacts-of-paper-invoicing/](https://www.genio.ac/guides/exploring-the-environmental-impacts-of-paper-invoicing/)
+- [https://www.supplychainbrain.com/articles/31763-basware-enables-companies-to-monitor-carbon-footprint-of-invoices](https://www.supplychainbrain.com/articles/31763-basware-enables-companies-to-monitor-carbon-footprint-of-invoices)
+- [https://corporate.walmart.com/purpose/esgreport](https://corporate.walmart.com/purpose/esgreport)
+- [https://www.walmartsustainabilityhub.com/waste/sustainable-packaging/goals](https://www.walmartsustainabilityhub.com/waste/sustainable-packaging/goals)
+- [https://ssir.org/articles/entry/the_greening_of_wal_mart](https://ssir.org/articles/entry/the_greening_of_wal_mart)
+- [https://flevy.com/topic/enterprise-architecture/question/enhancing-sustainability-invoice-management-systems-paperless-operations](https://flevy.com/topic/enterprise-architecture/question/enhancing-sustainability-invoice-management-systems-paperless-operations)
+- [https://www.nature.com/articles/s41598-024-53760-3](https://www.nature.com/articles/s41598-024-53760-3)
+- [https://www.walmartsustainabilityhub.com/climate/zero-emissions](https://www.walmartsustainabilityhub.com/climate/zero-emissions)
+- [https://www.complianceweek.com/esg/social-responsibility/walmart-shares-successes-behind-supplier-emissions-reduction-initiative/34402.article](https://www.complianceweek.com/esg/social-responsibility/walmart-shares-successes-behind-supplier-emissions-reduction-initiative/34402.article)
+- [https://www.simpleaccounts.io/blogs/sustainable-e-invoicing-reducing-paper-waste-and-going-green/](https://www.simpleaccounts.io/blogs/sustainable-e-invoicing-reducing-paper-waste-and-going-green/)
+- [https://www.ebill.ch/dam/downloads/document/study-sustainability-in-invoicing-2023-m-summary-en.pdf](https://www.ebill.ch/dam/downloads/document/study-sustainability-in-invoicing-2023-m-summary-en.pdf)
+- [https://www.nextprocess.com/ap-software/implementing-paperless-accounts-payable/](https://www.nextprocess.com/ap-software/implementing-paperless-accounts-payable/)
+- [https://saldoinvoice.com/blog/e-invoicing-vs-paper-invoicing-pros-and-cons/](https://saldoinvoice.com/blog/e-invoicing-vs-paper-invoicing-pros-and-cons/)
+- [https://www.techtarget.com/Sustainability/news/366554658/Walmart-works-on-carbon-emissions-prepares-for-new-rules](https://www.techtarget.com/Sustainability/news/366554658/Walmart-works-on-carbon-emissions-prepares-for-new-rules)
+- [https://www.nature.com/articles/s41599-023-02126-7](https://www.nature.com/articles/s41599-023-02126-7)
+- [https://www.parcelpending.com/en-us/blog/sustainable-retail/](https://www.parcelpending.com/en-us/blog/sustainable-retail/)
+- [https://sustainabilitymag.com/supply-chain-sustainability/how-walmart-is-successfully-driving-scope-3-decarbonisation](https://sustainabilitymag.com/supply-chain-sustainability/how-walmart-is-successfully-driving-scope-3-decarbonisation)
+- [https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement/walmart-inc-2024-proxy-statement.pdf](https://corporate.walmart.com/content/dam/corporate/documents/newsroom/2024/04/25/walmart-releases-2024-annual-report-and-proxy-statement/walmart-inc-2024-proxy-statement.pdf)
+- [https://www.nature.com/articles/s41598-024-55848-2](https://www.nature.com/articles/s41598-024-55848-2)
+- [https://link.springer.com/article/10.1007/s11356-023-28689-1](https://link.springer.com/article/10.1007/s11356-023-28689-1)
+- [https://www.continia.com/blog/e-invoicing-a-complete-guide/](https://www.continia.com/blog/e-invoicing-a-complete-guide/)
+- [https://www.mckinsey.com/industries/retail/our-insights/climate-sustainability-in-retail-who-will-pay](https://www.mckinsey.com/industries/retail/our-insights/climate-sustainability-in-retail-who-will-pay)
+- [https://www.youtube.com/watch?v=4wFWrTh892U](https://www.youtube.com/watch?v=4wFWrTh892U)
+- [https://www.greenbiz.com/article/inside-walmarts-2025-sustainability-goals](https://www.greenbiz.com/article/inside-walmarts-2025-sustainability-goals)
+- [https://www.retailitinsights.com/doc/ways-retailers-can-use-digital-tech-to-deliver-sustainability-gains-0001](https://www.retailitinsights.com/doc/ways-retailers-can-use-digital-tech-to-deliver-sustainability-gains-0001)
+- [https://www.theguardian.com/environment/2021/sep/13/walmart-climate-change-plan-can-it-work](https://www.theguardian.com/environment/2021/sep/13/walmart-climate-change-plan-can-it-work)
+- [https://www.forbes.com/sites/forbestechcouncil/2023/08/31/e-invoicing-ap-automation-and-the-path-to-environmental-responsibility/](https://www.forbes.com/sites/forbestechcouncil/2023/08/31/e-invoicing-ap-automation-and-the-path-to-environmental-responsibility/)
+- [https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/nef-spotlight-the-path-forward-for-retails-sustainable-future](https://www.mckinsey.com/capabilities/strategy-and-corporate-finance/our-insights/nef-spotlight-the-path-forward-for-retails-sustainable-future)
+- [https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1012&context=acis2010](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1012&context=acis2010)
+- [https://www.indeed.com/career-advice/pay-salary/paperless-pay](https://www.indeed.com/career-advice/pay-salary/paperless-pay)
+- [https://www.morningstar.com/news/pr-newswire/20240429ln98820/baswares-e-invoicing-platform-and-carbon-footprint-tracker-helps-customers-slash-paper-invoices-by-80](https://www.morningstar.com/news/pr-newswire/20240429ln98820/baswares-e-invoicing-platform-and-carbon-footprint-tracker-helps-customers-slash-paper-invoices-by-80)
+- [http://cdn.corporate.walmart.com/3b/06/e5adfc234ff09097b9b7d0ba30eb/walmart-environmental-compliance-fact-sheet-5-28-13_130139018374195846.pdf](http://cdn.corporate.walmart.com/3b/06/e5adfc234ff09097b9b7d0ba30eb/walmart-environmental-compliance-fact-sheet-5-28-13_130139018374195846.pdf)
+- [https://www.zintego.com/blog/the-environmental-advantages-of-digital-invoicing/](https://www.zintego.com/blog/the-environmental-advantages-of-digital-invoicing/)
+- [https://corporate.walmart.com/purpose/sustainability](https://corporate.walmart.com/purpose/sustainability)
+- [https://corporate.walmart.com/news/2020/08/26/walmarts-2020-esg-efforts-making-important-progress-toward-positive-societal-environmental-change](https://corporate.walmart.com/news/2020/08/26/walmarts-2020-esg-efforts-making-important-progress-toward-positive-societal-environmental-change)
+- [https://www.genio.ac/guides/discovering-the-environmental-benefits-of-paperless-invoicing/](https://www.genio.ac/guides/discovering-the-environmental-benefits-of-paperless-invoicing/)
+- [https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/CDP-2022-Climate-Change-Submission.pdf](https://corporate.walmart.com/content/dam/corporate/documents/purpose/environmental-social-and-governance-report-archive/CDP-2022-Climate-Change-Submission.pdf)
+- [https://corporate.walmart.com/purpose/esgreport/reporting-data/unsdg](https://corporate.walmart.com/purpose/esgreport/reporting-data/unsdg)
+- [https://blog.basware.com/en/introducing-the-invoice-carbon-footprint-index-dashboard](https://blog.basware.com/en/introducing-the-invoice-carbon-footprint-index-dashboard)
+- [https://corporate.walmart.com/purpose/esgreport/environmental/product-supply-chain-sustainability](https://corporate.walmart.com/purpose/esgreport/environmental/product-supply-chain-sustainability)
+ 

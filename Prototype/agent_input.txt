@@ -1,0 +1,1 @@
+Find the bottlenecks and inefficiencies in process based on the folowing event log, filepath/Users/maxvogt/Documents/GitHub/Thesis/Event Logs/BPI_Challenge_2013_incidents.xes? This is the process of handling IT incidents at Volvo. provide common causes and remediations for the inefficiencies in this process.
