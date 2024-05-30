@@ -1,5 +1,5 @@
-# Master-Thesis
-Repo for development of a prototype for implementing LLMs into PM4PY. As the practical side of my master thesis for the MSc 'ICT in Business' at Leiden University in 2024. This repo is in active development and contains both working and archived files. So this is not just a working prototype but also a process tracker. This is a private repository, due to the fact that it contains API keys which can be coupled to payment information. 
+# Paper repository
+Repo for development of a prototype for implementing LLMs into PM4PY. As the practical side of my master thesis for the MSc 'ICT in Business' at Leiden University in 2024. This repo was made as a copy of the active repo, to allow readers of the paper that we wrote about my thesis project to see the prototype and the results of the experiments
 
 ## Concept
 Researching if LLMs can supplement domain knowledge (about the sector, organization, process, etc.) into process mining tools and whether this offers additional value compared to the current status of these tools. The system is a multi-level agent, based on GPT-4 Turbo and GPT-3.5 Turbo.
@@ -28,12 +28,6 @@ Main language is Python.
 ## Example of input and output
 ### Example of input
 "Can you find the bottlenecks and inefficiencies in process based on the following event log, filepath='file_path' This is an order to cash process at Procter & Gamble (P&G). What are potential causes for the inefficiencies that you identified? Please use the variants approach for process discovery."
-
-### Generated Heuristic net
-<img src="https://github.com/maxvogt12/Master-Thesis/blob/42cb89d7c34dcac16fd19d3e5d2acc715cffe010/Prototype/Images/Heuristic_net.png" width= "300">
-
-### Inefficiencies + explanations
-<img src="https://github.com/maxvogt12/Master-Thesis/blob/d325bfa2844a5c602e2c60f40a5c8ca63a223f59/Prototype/Images/Example_output.png" width= "1400">
 
 ### Agent graph
 <img src="https://github.com/maxvogt12/Master-Thesis/blob/818955110b54d87f12afd9d612a6f607db06c4fc/Prototype/Images/state_graph.png" width= "300">
