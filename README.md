@@ -27,7 +27,22 @@ Main language is Python.
 
 ## Example of input and output
 ### Example of input
-"Can you find the bottlenecks and inefficiencies in process based on the following event log, filepath='file_path' This is an order to cash process at Procter & Gamble (P&G). What are potential causes for the inefficiencies that you identified? Please use the variants approach for process discovery."
+"Can you find the audit risks in the process based on the following event log, filepath='local_file_path'? This is an order to cash process at Procter & Gamble (P&G). What are the audit risks for specific steps that you identified? Please use the DFG approach for process discovery."
+
+### Sample of output
+The reports that the agent generates are often around 10 pages, an example of what a report contains:
+Segregation of Duties
+Segregation of duties is a key internal control that reduces the risk of errors and fraud. In the 'Send Purchase Order -> Receive Goods' step, the risk arises when the same individual is responsible for both ordering goods and receiving them. This lack of segregation can lead to unauthorized purchases or the acceptance of substandard goods. Procter & Gamble must ensure that different employees handle the procurement and receiving processes to mitigate this risk. ([Procter & Gamble Policies & Practices](https://us.pg.com/policies-and-practices/product-safety-and-compliance/))
+
+Authorization of Purchase Orders
+Unauthorized purchase orders can lead to financial losses and non-compliance with company policies. It is crucial that all purchase orders at Procter & Gamble are reviewed and authorized by appropriate personnel before being sent to suppliers. The risk is that unauthorized or fraudulent orders may be processed, leading to unnecessary expenditures or receipt of non-required goods. ([Procter & Gamble Third-Party Risk Management](https://pgsupplier.com/news/new-third-party-risk-management-tprm-process-makes-its-debut))
+
+Verification of Goods Received
+Upon receipt of goods, there is a risk that the items may not match the purchase order in terms of quantity, quality, or specifications. Procter & Gamble must have controls in place to verify that the goods received are as per the order. This includes checking the delivery against the purchase order and packing slip, and inspecting the goods for damage or defects. Failure to do so can result in inventory discrepancies, financial losses, and potential issues with product safety and compliance. ([Procter & Gamble Product Safety & Compliance](https://us.pg.com/policies-and-practices/product-safety-and-compliance/))
+
+The process model and statistics about the process model can also be visualized by the agent, e.g.:
+<img src="Prototype/Images/Heuristic_net.png" width= "300">
+
 
 ### Agent graph
 <img src="https://github.com/maxvogt12/Master-Thesis/blob/818955110b54d87f12afd9d612a6f607db06c4fc/Prototype/Images/state_graph.png" width= "300">
