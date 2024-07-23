@@ -41,6 +41,8 @@ Verification of Goods Received
 Upon receipt of goods, there is a risk that the items may not match the purchase order in terms of quantity, quality, or specifications. Procter & Gamble must have controls in place to verify that the goods received are as per the order. This includes checking the delivery against the purchase order and packing slip, and inspecting the goods for damage or defects. Failure to do so can result in inventory discrepancies, financial losses, and potential issues with product safety and compliance. ([Procter & Gamble Product Safety & Compliance](https://us.pg.com/policies-and-practices/product-safety-and-compliance/))
 
 The process model and statistics about the process model can also be visualized by the agent, e.g.:
+
+
 <img src="Prototype/Images/Heuristic_net.png" width= "300">
 
 
