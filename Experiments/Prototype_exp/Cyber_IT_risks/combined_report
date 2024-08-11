@@ -1,0 +1,607 @@
+
+   Organization and process: Process of handling IT incidents at Volvo 
+
+   Found IT and cyber risks: 
+ 1. Queued -> Completed: 
+   - Explanation: This step in the process has a high average time of 1612114.92 seconds and a high standard deviation of 3848491.50 seconds. This indicates that there is a significant variability in the time it takes for an IT incident to be completed after being queued. This variability could lead to delays in resolving incidents, potentially increasing the impact of IT and cyber risks.
+
+2. Accepted -> Queued:
+   - Explanation: This step has an average time of 649294.09 seconds and a standard deviation of 1734851.46 seconds. The relatively long average time indicates that there may be inefficiencies in the process of moving an incident from the accepted to queued status. These inefficiencies could create opportunities for IT and cyber risks to remain unresolved or unaddressed for extended periods of time.
+
+3. Completed -> Unmatched:
+   - Explanation: This step has an average time of 242690.00 seconds and a standard deviation of 239309.68 seconds. The relatively long average time and standard deviation suggest potential issues in the process of matching completed IT incidents. This could introduce risks related to inaccuracies in incident resolution or incomplete documentation, leaving room for IT and cyber risks to persist or resurface. 
+
+   #################### First risk report: #################### 
+ Process component: (Accepted -> Queued) 
+ 
+ 
+ # IT and Cyber Risks in the Automotive Industry: Incident Handling at Volvo
+
+The automotive industry is undergoing a significant transformation, driven by advancements in technology and the increasing integration of software-defined vehicles (SDVs). As a result, the IT incident handling process, particularly at companies like Volvo, has become a critical area of focus for cybersecurity. The 'Accepted -> Queued' step in the IT incidents handling process is a pivotal juncture where potential IT and cyber risks must be meticulously assessed and managed.
+
+Volvo IT, as part of its commitment to maintaining high levels of service quality and availability, utilizes the VINST system to support incident and problem handling across the corporation ([Volvo IT Incident and Problem Handling Processes](https://ceur-ws.org/Vol-1052/paper10.pdf)). At this stage, incidents that have been acknowledged are queued for further assignment and resolution. However, this step is not without its vulnerabilities and threats.
+
+The automotive industry's reliance on interconnected environments, including communication with other vehicles, road infrastructure, and cloud services, has expanded the attack surface for malicious actors ([VicOne Automotive Cybersecurity Predictions](https://vicone.com/blog/driving-into-the-future-vicone-automotive-cybersecurity-predictions-and-recommendations-for-2024)). This interconnectedness, while beneficial for efficiency and functionality, introduces risks such as unauthorized access, data breaches, and potential disruptions to service operations.
+
+Moreover, the presence of legacy software components in over 20% of the industry's software inventory presents a stark contrast in security standards between modern and outdated systems ([Cybellum CVEs and CWEs in Automotive Software](https://cybellum.com/blog/cves-and-cwes-in-automotive-software-navigating-the-terrain-of-cybersecurity-risks-in-2024/)). These antiquated components can be difficult to patch and secure, posing additional risks during the incident handling process.
+
+Volvo's IT incident handling process is also susceptible to internal inefficiencies, such as the misuse of the "wait-user" status in the VINST system, which can mask underlying process inefficiencies ([Volvo IT Incident and Problem Handling Analysis](https://ceur-ws.org/Vol-1052/paper10.pdf)). Furthermore, the automotive supply chain is a critical component that is vulnerable to disruptions and cyber threats, which can have cascading effects on incident handling and overall cybersecurity posture ([Automotive Supply Chain Disruption Risk Management](https://www.mdpi.com/2227-9717/11/3/710)).
+
+In light of these challenges, it is imperative for Volvo and other automotive industry stakeholders to implement robust cybersecurity measures and risk management strategies. These should include regular vulnerability assessments, adherence to cybersecurity frameworks such as UN R155 and ISO/SAE 21434, and the implementation of automated processes to efficiently manage and mitigate risks ([VicOne Automotive Cyberthreat Landscape Report 2023](https://documents.vicone.com/reports/automotive-cyberthreat-landscape-report-2023.pdf)).
+
+As we delve deeper into the specifics of IT and cyber risks associated with the 'Accepted -> Queued' step in the incident handling process at Volvo, it is crucial to understand the potential vulnerabilities, threat vectors, and the importance of strategic mitigation efforts to safeguard against the evolving landscape of cyber threats in the automotive industry.
+
+## Table of Contents
+
+- Assessment of Incident Handling Process Efficiency at Volvo
+    - Efficiency Metrics for Incident Handling
+    - Potential Vulnerabilities in the Queuing Process
+    - Threat Vectors Impacting Incident Queuing
+    - Mitigation Strategies for Queuing Inefficiencies
+    - Impact of Emerging Technologies on Incident Queuing
+- Analysis of Cybersecurity Vulnerabilities and Threats in the 'Accepted -&gt; Queued' Step of Incident Handling at Volvo
+    - Overview of the 'Accepted -&gt; Queued' Step in Incident Handling
+    - Vulnerabilities in the Queuing System
+        - Software Flaws and Misconfigurations
+        - Insecure APIs and Integration Points
+    - Threat Vectors Targeting the Queuing Process
+        - Insider Threats
+        - External Cyber Attacks
+        - Supply Chain Attacks
+    - Mitigation Strategies for Queuing System Vulnerabilities
+        - Regular Vulnerability Assessments and Patch Management
+        - Secure API Design and Testing
+        - Insider Threat Programs
+        - Supply Chain Security
+    - Impact of Regulatory Compliance on Threat Mitigation
+    - Evaluation of IT Systems and Cyber Incident Readiness at Volvo
+        - Cybersecurity Readiness and Incident Response Maturity
+        - Continuous Improvement and Adaptation to Evolving Threats
+        - Centralized Incident Response Team and Communication Protocols
+        - Documentation and Analysis of Incidents
+        - Cybersecurity Best Practices and Regulatory Compliance
+
+
+
+
+
+# Assessment of Incident Handling Process Efficiency at Volvo
+
+## Efficiency Metrics for Incident Handling
+
+The efficiency of the incident handling process, particularly at the 'Accepted -> Queed' step, can be measured using various metrics. Key Performance Indicators (KPIs) such as Mean Time to Acknowledge (MTTA), Mean Time to Queue (MTTQ), and the ratio of incidents accepted to incidents queued provide insight into the process's performance. For Volvo, these metrics can be benchmarked against industry standards to determine the relative efficiency of their incident handling process. Additionally, the volume of incidents that transition from 'Accepted' to 'Queued' without delay is indicative of the system's responsiveness and capacity to handle incoming IT issues.
+
+## Potential Vulnerabilities in the Queuing Process
+
+The transition from 'Accepted' to 'Queued' status in incident handling may expose vulnerabilities such as system overloads, where the queuing mechanism fails to prioritize incidents effectively, leading to delays in response times. In the context of Volvo, this could mean critical automotive IT incidents are not addressed promptly, potentially affecting vehicle functionality and safety. To mitigate this risk, Volvo could implement an automated prioritization system that categorizes incidents based on severity and impact, ensuring that high-priority cases are queued and addressed first.
+
+## Threat Vectors Impacting Incident Queuing
+
+Threat vectors that could impact the queuing process include targeted cyber-attacks designed to disrupt incident management systems. For Volvo, Distributed Denial of Service (DDoS) attacks could overwhelm the IT infrastructure, preventing incidents from being queued and processed. Additionally, insider threats could manipulate the queuing process, causing a misallocation of resources. To counteract these threats, Volvo should employ robust network security measures and access controls, alongside continuous monitoring for suspicious activities.
+
+## Mitigation Strategies for Queuing Inefficiencies
+
+To mitigate inefficiencies in the queuing process, Volvo can leverage advanced process mining techniques to analyze and optimize the incident handling workflow. By identifying bottlenecks and implementing automated triage systems, Volvo can streamline the transition from 'Accepted' to 'Queued' status. Furthermore, adopting incident management automation tools can help balance automation with human oversight, ensuring that the queuing process remains efficient and reliable ([With Coherence](https://www.withcoherence.com/articles/incident-management-automation-guide-and-best-practices)).
+
+## Impact of Emerging Technologies on Incident Queuing
+
+Emerging technologies such as Generative AI (GenAI) pose both risks and opportunities for the incident queuing process. While GenAI can be used by threat actors to craft sophisticated cyber-attacks, it can also enhance Volvo's threat detection and incident response capabilities. By integrating GenAI into their cybersecurity strategy, Volvo can improve the accuracy and speed of incident queuing, ensuring that IT support keeps pace with the evolving threat landscape ([Telematics Wire](https://www.telematicswire.net/upstream-releases-2024-automotive-cybersecurity-report/)).
+
+
+# Analysis of Cybersecurity Vulnerabilities and Threats in the 'Accepted -> Queued' Step of Incident Handling at Volvo
+
+## Overview of the 'Accepted -> Queued' Step in Incident Handling
+
+The 'Accepted -> Queued' step in the IT incident handling process is a critical phase where incidents that have been acknowledged are awaiting further action. During this stage, incidents are prioritized and queued for resolution based on their severity, impact, and other factors. It is essential to ensure that this step is secure to prevent any manipulation or escalation of incidents.
+
+## Vulnerabilities in the Queuing System
+
+### Software Flaws and Misconfigurations
+The queuing system may have inherent software flaws or misconfigurations that could be exploited by attackers. Common Vulnerabilities and Exposures (CVE) related to the queuing software could allow unauthorized access or denial of service attacks. For instance, SQL injection (CWE-89) vulnerabilities could enable attackers to manipulate the queue or access sensitive data ([Trend Micro](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/rising-security-weaknesses-in-the-automotive-industry-and-what-it-can-do-on-the-road-ahead)).
+
+### Insecure APIs and Integration Points
+The integration of the queuing system with other IT systems through APIs could introduce vulnerabilities if the APIs are not properly secured. Attackers could exploit these vulnerabilities to gain access to the queuing system or to intercept data in transit.
+
+## Threat Vectors Targeting the Queuing Process
+
+### Insider Threats
+Insiders with access to the queuing system could intentionally or unintentionally cause harm by altering the priority of incidents or deleting them altogether. This could delay the response to critical incidents and increase the risk of damage.
+
+### External Cyber Attacks
+Cybercriminals could target the queuing system to disrupt the incident handling process. Phishing campaigns, malware, or targeted attacks could be used to gain unauthorized access to the system ([Forbes](https://www.forbes.com/sites/forbestechcouncil/2021/12/10/cyberattacks-on-vehicles-pose-a-threat-to-drivers-and-manufacturers/)).
+
+### Supply Chain Attacks
+Given the complexity of the automotive supply chain, vulnerabilities in third-party components could be exploited to compromise the queuing system. Attackers could leverage weaknesses in software or hardware supplied by third parties to gain access to the queuing system ([Argus Cyber Security](https://argus-sec.com/blog/vehicle-vulnerability-management/shifting-left-in-automotive-cyber-security-an-roi-driven-approach-for-vehicle-vulnerability-management/)).
+
+## Mitigation Strategies for Queuing System Vulnerabilities
+
+### Regular Vulnerability Assessments and Patch Management
+Conducting regular vulnerability assessments and applying patches promptly can mitigate the risk of software flaws being exploited. This includes updating the queuing system and its components to the latest secure versions.
+
+### Secure API Design and Testing
+Implementing secure API design principles and conducting thorough testing can prevent vulnerabilities related to integration points. APIs should be designed with authentication, authorization, and encryption in mind.
+
+### Insider Threat Programs
+Establishing insider threat programs can help detect and prevent malicious or accidental actions by employees. Such programs should include user behavior monitoring, access controls, and regular security awareness training.
+
+### Supply Chain Security
+Ensuring the security of the supply chain is crucial. This can be achieved by requiring suppliers to adhere to cybersecurity standards and by conducting security audits of third-party components.
+
+## Impact of Regulatory Compliance on Threat Mitigation
+
+Adherence to standards such as ISO/SAE 21434 and UN Regulation No. 155 (UN R155) can significantly reduce cybersecurity risks in the automotive industry. Compliance with these regulations ensures that cybersecurity is integrated into the entire lifecycle of vehicles, including the IT incident handling process ([McKinsey & Company](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/cybersecurity-in-automotive-mastering-the-challenge)).
+
+By implementing these mitigation strategies, Volvo can enhance the security of the 'Accepted -> Queued' step in the IT incident handling process, reducing the risk of cyber threats and vulnerabilities that could impact the automotive industry.
+
+
+## Evaluation of IT Systems and Cyber Incident Readiness at Volvo
+
+### Cybersecurity Readiness and Incident Response Maturity
+Volvo's cybersecurity readiness is critical in the 'Accepted -> Queued' step of the IT incident handling process. Regular assessments against frameworks such as NIST's Incident Handling categories and ISO 27001:2013’s Annex A.16.1 are essential for understanding the maturity of Volvo's incident response ([NIST SP 800-61 Revision 2](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)). Cybersecurity readiness involves continuous monitoring and improvement, ensuring that the organization can promptly and effectively respond to incidents.
+
+### Continuous Improvement and Adaptation to Evolving Threats
+Volvo must continuously review and update its incident response plans and procedures to adapt to evolving threats. This includes staying informed about emerging trends and regulatory requirements to enhance incident management capabilities ([Cynergy Technology](https://www.cynergytech.com/stories/8-incident-management-best-practices-to-follow/)). Regular training and drills are also crucial to test the effectiveness of response procedures and improve preparedness.
+
+### Centralized Incident Response Team and Communication Protocols
+A centralized incident response team with expertise in IT, cybersecurity, legal, and communications is vital for coordinating response efforts at Volvo. Clear communication channels for reporting incidents internally and externally are necessary to maintain transparency and provide regular updates on incident status ([Cynergy Technology](https://www.cynergytech.com/stories/8-incident-management-best-practices-to-follow/)).
+
+### Documentation and Analysis of Incidents
+Thorough documentation of incident details, including the timeline of events, actions taken, findings, and lessons learned, is crucial in the 'Accepted -> Queued' step. Post-incident reviews and root cause analyses help identify gaps in security controls and areas for improvement to prevent future incidents ([Cynergy Technology](https://www.cynergytech.com/stories/8-incident-management-best-practices-to-follow/)).
+
+### Cybersecurity Best Practices and Regulatory Compliance
+Volvo should adhere to cybersecurity best practices and regulatory compliance as outlined by industry standards and guidelines, such as ISO/SAE 21434 and CISA's Binding Operational Directive 20-01. These practices include establishing rules and processes for vulnerability disclosure and developing a product cybersecurity incident response process ([NHTSA](https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-09/cybersecurity-best-practices-safety-modern-vehicles-2022-pre-final-tag_0_0.pdf)). Compliance with these standards ensures a structured approach to managing cyber risks and mitigating the impact of incidents.
+
+
+## References
+
+- [https://www.munichre.com/en/insights/cyber/cyber-insurance-risks-and-trends-2024.html](https://www.munichre.com/en/insights/cyber/cyber-insurance-risks-and-trends-2024.html)
+- [https://creately.com/guides/incident-management/](https://creately.com/guides/incident-management/)
+- [https://www.tandfonline.com/doi/full/10.1080/00207543.2021.1975058](https://www.tandfonline.com/doi/full/10.1080/00207543.2021.1975058)
+- [https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-09/cybersecurity-best-practices-safety-modern-vehicles-2022-pre-final-tag_0_0.pdf](https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-09/cybersecurity-best-practices-safety-modern-vehicles-2022-pre-final-tag_0_0.pdf)
+- [https://link.springer.com/article/10.1007/s42154-021-00140-6](https://link.springer.com/article/10.1007/s42154-021-00140-6)
+- [https://www.researchgate.net/publication/289716463_Process_mining-based_understanding_and_analysis_of_Volvo_IT's_incident_and_problem_management_processes_the_BPI_challenge_2013](https://www.researchgate.net/publication/289716463_Process_mining-based_understanding_and_analysis_of_Volvo_IT's_incident_and_problem_management_processes_the_BPI_challenge_2013)
+- [https://www.autonews.com/retail/cdk-cyberattack-shuts-down-most-systems-nationwide](https://www.autonews.com/retail/cdk-cyberattack-shuts-down-most-systems-nationwide)
+- [https://hsctf.com/incident-response/](https://hsctf.com/incident-response/)
+- [https://www.semanticscholar.org/paper/Analysis-of-the-Volvo-IT-Incident-and-Problem-using-Paszkiewicz-Picard/e8ccbe0d3cb59089e5c01142d93b14f033bd50b0](https://www.semanticscholar.org/paper/Analysis-of-the-Volvo-IT-Incident-and-Problem-using-Paszkiewicz-Picard/e8ccbe0d3cb59089e5c01142d93b14f033bd50b0)
+- [https://advisera.com/20000academy/blog/2015/09/08/how-to-measure-incident-management-efficiency-according-to-itil/](https://advisera.com/20000academy/blog/2015/09/08/how-to-measure-incident-management-efficiency-according-to-itil/)
+- [https://www.sciencedirect.com/science/article/pii/S0167404820304235](https://www.sciencedirect.com/science/article/pii/S0167404820304235)
+- [https://www.rmmagazine.com/articles/article/2024/02/15/2024-s-top-5-risks-and-how-to-mitigate-them](https://www.rmmagazine.com/articles/article/2024/02/15/2024-s-top-5-risks-and-how-to-mitigate-them)
+- [https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
+- [https://www.researchgate.net/publication/330394300_Supply_Chain_Risk_Mitigation_Strategies_in_Automotive_Industry_A_Review](https://www.researchgate.net/publication/330394300_Supply_Chain_Risk_Mitigation_Strategies_in_Automotive_Industry_A_Review)
+- [https://www.researchgate.net/publication/311775303_Analysis_of_Volvo_IT's_Closed_Problem_Management_Processes_By_Using_Process_Mining_Software_ProM_and_Disco](https://www.researchgate.net/publication/311775303_Analysis_of_Volvo_IT's_Closed_Problem_Management_Processes_By_Using_Process_Mining_Software_ProM_and_Disco)
+- [https://www.atlassian.com/incident-management/incident-response/best-practices](https://www.atlassian.com/incident-management/incident-response/best-practices)
+- [https://automotiveisac.com/community-calls/february-2024](https://automotiveisac.com/community-calls/february-2024)
+- [https://www.withcoherence.com/articles/incident-management-automation-guide-and-best-practices](https://www.withcoherence.com/articles/incident-management-automation-guide-and-best-practices)
+- [https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/cybersecurity-in-automotive-mastering-the-challenge](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/cybersecurity-in-automotive-mastering-the-challenge)
+- [https://www.autonews.com/automakers-suppliers/how-cyberattacks-disrupt-auto-supply-chain](https://www.autonews.com/automakers-suppliers/how-cyberattacks-disrupt-auto-supply-chain)
+- [http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-1052/paper8.pdf](http://star.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-1052/paper8.pdf)
+- [https://cybellum.com/blog/cves-and-cwes-in-automotive-software-navigating-the-terrain-of-cybersecurity-risks-in-2024/](https://cybellum.com/blog/cves-and-cwes-in-automotive-software-navigating-the-terrain-of-cybersecurity-risks-in-2024/)
+- [https://fieldeffect.com/blog/cybersecurity-readiness](https://fieldeffect.com/blog/cybersecurity-readiness)
+- [https://ceur-ws.org/Vol-1052/paper10.pdf](https://ceur-ws.org/Vol-1052/paper10.pdf)
+- [https://www.mckinsey.com/~/media/mckinsey/industries/automotive and assembly/our insights/cybersecurity in automotive mastering the challenge/cybersecurity-in-automotive-mastering-the-challenge.pdf](https://www.mckinsey.com/~/media/mckinsey/industries/automotive and assembly/our insights/cybersecurity in automotive mastering the challenge/cybersecurity-in-automotive-mastering-the-challenge.pdf)
+- [https://www.mdpi.com/2227-9717/8/5/579](https://www.mdpi.com/2227-9717/8/5/579)
+- [https://link.springer.com/article/10.1007/s13369-019-04319-2](https://link.springer.com/article/10.1007/s13369-019-04319-2)
+- [https://www.ibm.com/topics/cyber-risk-management](https://www.ibm.com/topics/cyber-risk-management)
+- [https://www.rezolve.ai/blog/automated-incident-response-everything-you-need-to-know](https://www.rezolve.ai/blog/automated-incident-response-everything-you-need-to-know)
+- [https://www.csoonline.com/article/572233/6-steps-to-getting-risk-acceptance-right.html](https://www.csoonline.com/article/572233/6-steps-to-getting-risk-acceptance-right.html)
+- [https://www.cynergytech.com/stories/8-incident-management-best-practices-to-follow/](https://www.cynergytech.com/stories/8-incident-management-best-practices-to-follow/)
+- [https://documents.vicone.com/reports/automotive-cyberthreat-landscape-report-2023.pdf](https://documents.vicone.com/reports/automotive-cyberthreat-landscape-report-2023.pdf)
+- [https://www.researchgate.net/publication/375062115_A_Comprehensive_Analysis_of_High-Impact_Cybersecurity_Incidents_Case_Studies_and_Implications](https://www.researchgate.net/publication/375062115_A_Comprehensive_Analysis_of_High-Impact_Cybersecurity_Incidents_Case_Studies_and_Implications)
+- [https://www.cyberriskinsight.com/cyber-incident/key-metrics-measure-effectiveness-incident/](https://www.cyberriskinsight.com/cyber-incident/key-metrics-measure-effectiveness-incident/)
+- [https://ieeexplore.ieee.org/document/10490855](https://ieeexplore.ieee.org/document/10490855)
+- [https://vicone.com/blog/driving-into-the-future-vicone-automotive-cybersecurity-predictions-and-recommendations-for-2024](https://vicone.com/blog/driving-into-the-future-vicone-automotive-cybersecurity-predictions-and-recommendations-for-2024)
+- [https://www.cisa.gov/topics/cyber-threats-and-advisories](https://www.cisa.gov/topics/cyber-threats-and-advisories)
+- [https://www.bitsight.com/blog/cybersecurity-readiness](https://www.bitsight.com/blog/cybersecurity-readiness)
+- [https://upstream.auto/reports/global-automotive-cybersecurity-report/](https://upstream.auto/reports/global-automotive-cybersecurity-report/)
+- [https://www.researchgate.net/publication/283274831_Identifying_Risks_and_Mitigating_Disruptions_in_the_Automotive_Supply_Chain](https://www.researchgate.net/publication/283274831_Identifying_Risks_and_Mitigating_Disruptions_in_the_Automotive_Supply_Chain)
+- [https://www.nist.gov/news-events/news/2024/04/incident-response-recommendations-and-considerations-cybersecurity-risk](https://www.nist.gov/news-events/news/2024/04/incident-response-recommendations-and-considerations-cybersecurity-risk)
+- [https://www.aspirets.com/blog/guide-to-incident-response/](https://www.aspirets.com/blog/guide-to-incident-response/)
+- [https://www.helpdesk.com/learn/incident-management/](https://www.helpdesk.com/learn/incident-management/)
+- [https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739cefc47ee5a2587d126/1648835022990/4_Auto-ISAC-BPs_Risk-Management_19August2019_TLP_White.pdf](https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739cefc47ee5a2587d126/1648835022990/4_Auto-ISAC-BPs_Risk-Management_19August2019_TLP_White.pdf)
+- [https://library.cyentia.com/report/report_019879.html](https://library.cyentia.com/report/report_019879.html)
+- [https://argus-sec.com/blog/vehicle-vulnerability-management/shifting-left-in-automotive-cyber-security-an-roi-driven-approach-for-vehicle-vulnerability-management/](https://argus-sec.com/blog/vehicle-vulnerability-management/shifting-left-in-automotive-cyber-security-an-roi-driven-approach-for-vehicle-vulnerability-management/)
+- [https://www.telematicswire.net/upstream-releases-2024-automotive-cybersecurity-report/](https://www.telematicswire.net/upstream-releases-2024-automotive-cybersecurity-report/)
+- [https://www.mdpi.com/2227-9717/11/3/710](https://www.mdpi.com/2227-9717/11/3/710)
+- [https://asana.com/resources/incident-management](https://asana.com/resources/incident-management)
+- [https://apmg-international.com/article/6-cybersecurity-assessments-their-benefits](https://apmg-international.com/article/6-cybersecurity-assessments-their-benefits)
+- [https://www.vivantio.com/blog/incident-management-best-practices-streamlined-operations-guide/](https://www.vivantio.com/blog/incident-management-best-practices-streamlined-operations-guide/)
+- [https://www.forbes.com/sites/forbestechcouncil/2021/12/10/cyberattacks-on-vehicles-pose-a-threat-to-drivers-and-manufacturers/](https://www.forbes.com/sites/forbestechcouncil/2021/12/10/cyberattacks-on-vehicles-pose-a-threat-to-drivers-and-manufacturers/)
+- [https://madsecurity.com/madsecurity-blog/8-best-practices-for-managing-cyber-risk](https://madsecurity.com/madsecurity-blog/8-best-practices-for-managing-cyber-risk)
+- [https://ceur-ws.org/Vol-1052/paper1.pdf](https://ceur-ws.org/Vol-1052/paper1.pdf)
+- [https://www.metricstream.com/blog/key-measures-mitigating-cyber-risks-2024.html](https://www.metricstream.com/blog/key-measures-mitigating-cyber-risks-2024.html)
+- [https://www.researchgate.net/publication/257307622_Analysis_of_the_Volvo_IT_Incident_and_Problem_Handling_Processes_using_Process_Mining_and_Social_Network_Analysis](https://www.researchgate.net/publication/257307622_Analysis_of_the_Volvo_IT_Incident_and_Problem_Handling_Processes_using_Process_Mining_and_Social_Network_Analysis)
+- [https://www2.deloitte.com/content/dam/Deloitte/de/Documents/risk/Deloitte-Automotive-Cyber-Security-EN.pdf](https://www2.deloitte.com/content/dam/Deloitte/de/Documents/risk/Deloitte-Automotive-Cyber-Security-EN.pdf)
+- [https://www.researchgate.net/publication/338419380_Cyber_Security_Threats_and_Vulnerabilities_A_Systematic_Mapping_Study](https://www.researchgate.net/publication/338419380_Cyber_Security_Threats_and_Vulnerabilities_A_Systematic_Mapping_Study)
+- [https://www.csoonline.com/article/569225/threat-modeling-explained-a-process-for-anticipating-cyber-attacks.html](https://www.csoonline.com/article/569225/threat-modeling-explained-a-process-for-anticipating-cyber-attacks.html)
+- [https://www.cisa.gov/sites/default/files/2024-01/22_1201_safecom_guide_to_cybersecurity_risk_assessment_508.pdf](https://www.cisa.gov/sites/default/files/2024-01/22_1201_safecom_guide_to_cybersecurity_risk_assessment_508.pdf)
+- [https://www.wiley.law/alert-Cybersecurity-in-2024-Ten-Top-Issues-to-Consider](https://www.wiley.law/alert-Cybersecurity-in-2024-Ten-Top-Issues-to-Consider)
+- [https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/rising-security-weaknesses-in-the-automotive-industry-and-what-it-can-do-on-the-road-ahead](https://www.trendmicro.com/vinfo/us/security/news/cybercrime-and-digital-threats/rising-security-weaknesses-in-the-automotive-industry-and-what-it-can-do-on-the-road-ahead)
+- [https://www.nist.gov/system/files/documents/2018/12/06/risk_management_for_automotive_cybersecurity.pdf](https://www.nist.gov/system/files/documents/2018/12/06/risk_management_for_automotive_cybersecurity.pdf)
+- [https://ieeexplore.ieee.org/document/9874288](https://ieeexplore.ieee.org/document/9874288)
+ 
+ 
+   #################### Second risk report: #################### 
+ Process component: (Accepted -> Queued) 
+ 
+ 
+ # IT and Cyber Risks in the Incident Handling Process: The 'Accepted -> Queued' Phase in the Automotive Industry
+
+The automotive industry, with its rapid digitalization and integration of advanced technologies, faces a myriad of IT and cyber risks that can jeopardize not only the safety and privacy of drivers but also the operational continuity and reputation of automotive companies like Volvo. As vehicles become increasingly connected, the attack surface for malicious actors expands, introducing new vulnerabilities and potential entry points for cyberattacks. This report focuses on the specific phase of 'Accepted -> Queued' within the IT incident handling process, a critical juncture where acknowledged incidents await prioritization and allocation of resources for further investigation and resolution.
+
+During the 'Accepted -> Queued' phase, incidents that have been recognized and recorded are pending action, which presents unique risks. Delays or mismanagement in this stage can lead to a backlog of unresolved issues, increasing the window of opportunity for attackers to exploit known vulnerabilities. Furthermore, the prioritization process itself is fraught with challenges, as it requires a nuanced understanding of the potential impact and urgency of each incident. A misstep in this phase could result in significant incidents being overlooked, leading to severe consequences for vehicle drivers, OEMs, and suppliers.
+
+The automotive industry's reliance on complex supply chains and the integration of third-party components further complicates the incident handling process. Incidents accepted for review may involve vulnerabilities stemming from supplier code or external platforms, as highlighted by the [ENISA reports](https://www2.deloitte.com/content/dam/Deloitte/de/Documents/risk/Deloitte-Automotive-Cyber-Security-EN.pdf) and [Auto-ISAC's best practices](https://argus-sec.com/blog/standards-and-compliance/auto-isac-series-of-automotive-cybersecurity-best-practices/). The interconnected nature of these systems necessitates a coordinated response that extends beyond the boundaries of a single organization.
+
+In light of these challenges, automotive companies must adopt a risk-based approach to manage and mitigate cybersecurity threats, as recommended by industry standards and best practices. This includes establishing robust incident response plans, conducting regular exercises to build resilience, and ensuring compliance with regulations such as UN-R 155. By doing so, companies like Volvo can better navigate the 'Accepted -> Queued' phase, minimizing risks and safeguarding their customers and vehicles against the evolving landscape of cyber threats.
+
+As of June 25, 2024, the automotive industry continues to grapple with these issues, striving to enhance its cybersecurity posture in the face of an ever-changing threat environment. This report aims to shed light on the specific IT and cyber risks associated with the 'Accepted -> Queued' phase of the incident handling process and to provide insights into the measures that can be taken to address these challenges effectively.
+
+## Table of Contents
+
+- Incident Handling and Response in the Automotive Industry: 'Accepted -&gt; Queued' Phase at Volvo
+    - Understanding the 'Accepted -&gt; Queued' Phase in Incident Handling
+    - IT and Cyber Risks Associated with the 'Accepted -&gt; Queued' Phase
+        - Risk of Delayed Response
+        - Prioritization Challenges
+        - Resource Allocation
+        - Communication Breakdowns
+        - Data Integrity and Tracking
+    - Mitigation Strategies for Volvo
+        - Implementing Advanced Ticketing Systems
+        - Enhancing Resource Management
+        - Strengthening Communication Protocols
+        - Ensuring Accurate Incident Logging
+        - Continuous Process Improvement
+    - Automotive Cybersecurity Threats and Vulnerability Management
+        - Emerging Threats During the 'Accepted -&gt; Queued' Phase
+        - Vulnerability Identification Delays
+        - API-Based Attack Vectors
+        - Impact of Queuing on Incident Response Time
+        - Resource Allocation and Prioritization
+- Regulatory Compliance and Best Practices for Automotive Cybersecurity
+    - Compliance with UNECE WP.29 and ISO/SAE 21434 Standards
+    - Supplier Collaboration and Compliance
+    - Risk Management and Incident Prioritization
+    - Documentation and Evidence Preservation
+    - Continuous Monitoring and Improvement
+
+
+
+
+
+# Incident Handling and Response in the Automotive Industry: 'Accepted -> Queued' Phase at Volvo
+
+## Understanding the 'Accepted -> Queued' Phase in Incident Handling
+
+The 'Accepted -> Queued' phase in the IT incident handling process is a critical juncture where an incident has been acknowledged and is awaiting assignment for further investigation and resolution. During this phase, the incident is typically prioritized based on its severity, impact, and urgency. For an automotive company like Volvo, which is renowned for its commitment to safety and security, managing this phase effectively is crucial to maintaining the integrity of its connected vehicle ecosystem and protecting against cyber threats.
+
+## IT and Cyber Risks Associated with the 'Accepted -> Queued' Phase
+
+### Risk of Delayed Response
+
+In the 'Accepted -> Queued' phase, there is an inherent risk of delayed response to incidents. This can occur due to a backlog of incidents, limited resources, or prioritization challenges. Delays in addressing incidents can lead to extended system downtime, potential escalation of the incident's impact, and a higher likelihood of exploitation by malicious actors.
+
+### Prioritization Challenges
+
+Correctly prioritizing incidents is essential to an effective response. However, there is a risk that incidents may not be accurately assessed, leading to critical issues being queued behind less urgent ones. This misprioritization can result in significant damage if high-severity incidents are not addressed promptly.
+
+### Resource Allocation
+
+Resource allocation is another risk factor during this phase. Volvo must ensure that it has sufficient and appropriately skilled personnel ready to handle the queued incidents. A shortage of cybersecurity professionals or a misalignment of skills can impede the incident handling process.
+
+### Communication Breakdowns
+
+Effective communication is vital during incident handling. There is a risk of communication breakdowns between the security team, IT department, and other stakeholders during the 'Accepted -> Queued' phase. Such breakdowns can lead to misunderstandings about the nature of the incident, its severity, and the required response.
+
+### Data Integrity and Tracking
+
+Maintaining the integrity of incident data and ensuring proper tracking through the handling process is crucial. There is a risk that incident details may be lost or incorrectly recorded during the transition from 'Accepted' to 'Queued,' which can hinder subsequent investigation and response efforts.
+
+## Mitigation Strategies for Volvo
+
+### Implementing Advanced Ticketing Systems
+
+To mitigate the risks associated with the 'Accepted -> Queued' phase, Volvo can implement advanced ticketing systems that automatically prioritize incidents based on predefined criteria. These systems can help streamline the queuing process and ensure that high-priority incidents are addressed first. ([Auto-ISAC Best Practices](https://automotiveisac.com/best-practices/))
+
+### Enhancing Resource Management
+
+Volvo should focus on enhancing resource management by employing a sufficient number of skilled cybersecurity professionals and providing ongoing training to ensure they are equipped to handle the latest cyber threats. Additionally, leveraging external cybersecurity expertise during peak times can help manage resource constraints. ([McKinsey & Company](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/cybersecurity-in-automotive-mastering-the-challenge))
+
+### Strengthening Communication Protocols
+
+Establishing robust communication protocols and ensuring that all stakeholders are informed about their roles and responsibilities can reduce the risk of communication breakdowns. Regular updates and briefings can keep all parties aligned on the status of incidents. ([Auto-ISAC Best Practices](https://automotiveisac.com/best-practices/))
+
+### Ensuring Accurate Incident Logging
+
+To maintain data integrity, Volvo should implement strict procedures for logging and tracking incidents throughout the handling process. This includes maintaining a detailed incident log and using incident management software that provides an audit trail. ([NIST SP 800-61](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-61r2.pdf))
+
+### Continuous Process Improvement
+
+Volvo should adopt a culture of continuous process improvement, regularly reviewing and updating its incident handling procedures based on lessons learned from past incidents. This proactive approach can help identify potential bottlenecks and improve the efficiency of the 'Accepted -> Queued' phase. ([ISO/IEC 27035:2011](https://www.iso.org/standard/44379.html))
+
+By addressing these risks and implementing effective mitigation strategies, Volvo can enhance its incident handling capabilities and maintain its reputation for safety and security in the automotive industry.
+
+
+## Automotive Cybersecurity Threats and Vulnerability Management
+
+### Emerging Threats During the 'Accepted -> Queued' Phase
+
+The 'Accepted -> Queued' phase in incident handling is a critical transition period where threats can evolve or go unnoticed if not managed properly. With the automotive industry facing sophisticated cyber threats, this phase can be particularly vulnerable to new forms of malware that may have been accepted but not yet assessed for risk severity. For instance, zero-day exploits targeting vehicle ECUs or infotainment systems could be queued for analysis while they remain active threats ([Automotive-ISAC](https://automotiveisac.com/community-calls/february-2024)).
+
+### Vulnerability Identification Delays
+
+During the 'Accepted -> Queued' phase, there is a risk that vulnerabilities may not be identified promptly, leading to a window of opportunity for attackers. The delay between accepting an incident report and queuing it for further action can result in a lack of timely vulnerability patching or mitigation, especially in complex automotive systems where software and hardware components are deeply intertwined ([Upstream Security](https://www.telematicswire.net/upstream-releases-2024-automotive-cybersecurity-report/)).
+
+### API-Based Attack Vectors
+
+APIs are increasingly used in automotive systems for various functionalities, including telematics and remote services. However, during the 'Accepted -> Queued' phase, API-based attacks can be particularly dangerous as they may exploit vulnerabilities in the interface between different vehicle systems or between vehicles and external services. These vulnerabilities could be overlooked if the incident is not promptly queued for a detailed security analysis ([Security Boulevard](https://securityboulevard.com/2024/06/key-takeaways-from-upstreams-2024-automotive-cybersecurity-report/)).
+
+### Impact of Queuing on Incident Response Time
+
+The time taken to move from 'Accepted' to 'Queued' can significantly impact the overall incident response time. For automotive companies like Volvo, this could mean the difference between a quick resolution and a prolonged vulnerability that could be exploited. The longer an incident remains in the queue, the greater the risk of a security breach that could affect vehicle safety and data security ([Automotive-IQ](https://www.automotive-iq.com/cybersecurity/articles/fact-file-2024-automotive-cyber-security-risks-challenges-in-2024)).
+
+### Resource Allocation and Prioritization
+
+Resource allocation and prioritization are crucial in the 'Accepted -> Queued' phase. There is a risk that critical incidents may not receive the necessary attention if resources are not allocated efficiently or if the prioritization process is not robust. This can lead to significant cybersecurity risks, as high-priority threats may remain unaddressed while less critical issues are queued for action. Effective prioritization mechanisms are essential to manage the queue and mitigate risks promptly ([Automotive-ISAC](https://automotiveisac.com/community-calls/february-2024)).
+
+By addressing these risks and implementing a structured vulnerability management process, automotive companies can enhance their cybersecurity posture and reduce the potential impact of cyber threats during the critical 'Accepted -> Queued' phase of incident handling.
+
+
+# Regulatory Compliance and Best Practices for Automotive Cybersecurity
+
+## Compliance with UNECE WP.29 and ISO/SAE 21434 Standards
+The 'Accepted -> Queued' phase in incident handling at Volvo must comply with the UNECE WP.29 regulation, which mandates a Cybersecurity Management System (CSMS) for vehicle manufacturers ([UNECE WP.29](https://unece.org/transport/documents/2021/09/press-releases/two-new-un-regulations-cybersecurity-and-software-updates-pave-way-mass)). Additionally, adherence to the ISO/SAE 21434 standard is crucial, as it outlines cybersecurity engineering requirements for road vehicles. Volvo must ensure that incident handling processes are in line with these standards, which include risk assessment, incident detection, and response mechanisms.
+
+## Supplier Collaboration and Compliance
+Volvo must ensure that Tier 1 and Tier 2 suppliers comply with cybersecurity best practices as outlined in the WP.29 regulation ([Cybellum](https://cybellum.com/blog/understanding-unece-wp29-automotive-cybersecurity-regulation/)). This includes secure design and development of components, which is critical during the 'Accepted -> Queued' phase, where vulnerabilities may be identified and need to be communicated to suppliers for remediation.
+
+## Risk Management and Incident Prioritization
+During the 'Accepted -> Queued' phase, Volvo must manage the risk of cybersecurity incidents effectively. This involves prioritizing incidents based on their potential impact on vehicle safety and data privacy. The company must have a clear policy for incident prioritization that aligns with regulatory requirements and best practices ([ACEA Principles](https://acea.auto/files/ACEA_Principles_of_Automobile_Cybersecurity.pdf)).
+
+## Documentation and Evidence Preservation
+Regulatory compliance requires meticulous documentation of cybersecurity incidents. Volvo must maintain records of all incidents from acceptance to resolution, including actions taken during the queuing phase. This documentation is essential for demonstrating compliance during audits and for post-incident analyses ([Thales Group](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/iot/magazine/single-automotive-cyber-security-standard-last)).
+
+## Continuous Monitoring and Improvement
+Volvo must implement continuous monitoring to detect and respond to cybersecurity incidents promptly. The 'Accepted -> Queued' phase should include mechanisms for ongoing assessment and improvement of the incident handling process. This aligns with the dynamic nature of cybersecurity threats and the need for automotive companies to adapt to new risks and regulatory changes ([McKinsey & Company](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-race-for-cybersecurity-protecting-the-connected-car-in-the-era-of-new-regulation)).
+
+
+## References
+
+- [https://www.cybersecuritydive.com/news/cyber-security-trends-outlook-2024/706189/](https://www.cybersecuritydive.com/news/cyber-security-trends-outlook-2024/706189/)
+- [https://ieeexplore.ieee.org/document/9874288](https://ieeexplore.ieee.org/document/9874288)
+- [https://www2.deloitte.com/content/dam/Deloitte/de/Documents/risk/Deloitte-Automotive-Cyber-Security-EN.pdf](https://www2.deloitte.com/content/dam/Deloitte/de/Documents/risk/Deloitte-Automotive-Cyber-Security-EN.pdf)
+- [https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739f5e16ecf784aa30d97/1648835062008/6_Auto-ISAC-BPs_Threat-Detection_19August2019_TLP_White.pdf](https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739f5e16ecf784aa30d97/1648835062008/6_Auto-ISAC-BPs_Threat-Detection_19August2019_TLP_White.pdf)
+- [https://www.esecurityplanet.com/networks/incident-response-process/](https://www.esecurityplanet.com/networks/incident-response-process/)
+- [https://cybellum.com/blog/cves-and-cwes-in-automotive-software-navigating-the-terrain-of-cybersecurity-risks-in-2024/](https://cybellum.com/blog/cves-and-cwes-in-automotive-software-navigating-the-terrain-of-cybersecurity-risks-in-2024/)
+- [https://link.springer.com/chapter/10.1007/978-3-658-42236-3_4](https://link.springer.com/chapter/10.1007/978-3-658-42236-3_4)
+- [https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-09/cybersecurity-best-practices-safety-modern-vehicles-2022-tag.pdf](https://www.nhtsa.gov/sites/nhtsa.gov/files/2022-09/cybersecurity-best-practices-safety-modern-vehicles-2022-tag.pdf)
+- [https://automotiveisac.com/community-calls/february-2024](https://automotiveisac.com/community-calls/february-2024)
+- [https://worldindustryinsights.com/32258/volvo-prepares-for-2024-challenges/](https://worldindustryinsights.com/32258/volvo-prepares-for-2024-challenges/)
+- [https://automotiveisac.com/best-practices/](https://automotiveisac.com/best-practices/)
+- [https://securityintelligence.com/posts/automotive-cybersecurity-new-regulations/](https://securityintelligence.com/posts/automotive-cybersecurity-new-regulations/)
+- [https://documents.vicone.com/reports/automotive-cyberthreat-landscape-report-2023.pdf](https://documents.vicone.com/reports/automotive-cyberthreat-landscape-report-2023.pdf)
+- [https://www.cybersecuritytribe.com/articles/the-biggest-cyber-security-concerns-for-2024](https://www.cybersecuritytribe.com/articles/the-biggest-cyber-security-concerns-for-2024)
+- [https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624738c9719c1e3de2d61608/1648834762155/0_Auto-ISAC-BPs_Executive-Summary_01July2019_TLP-White.pdf](https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624738c9719c1e3de2d61608/1648834762155/0_Auto-ISAC-BPs_Executive-Summary_01July2019_TLP-White.pdf)
+- [https://www.enisa.europa.eu/publications/smart-cars/@@download/fullReport](https://www.enisa.europa.eu/publications/smart-cars/@@download/fullReport)
+- [https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-race-for-cybersecurity-protecting-the-connected-car-in-the-era-of-new-regulation](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/the-race-for-cybersecurity-protecting-the-connected-car-in-the-era-of-new-regulation)
+- [https://upstream.auto/reports/global-automotive-cybersecurity-report/](https://upstream.auto/reports/global-automotive-cybersecurity-report/)
+- [https://acea.auto/files/ACEA_Principles_of_Automobile_Cybersecurity.pdf](https://acea.auto/files/ACEA_Principles_of_Automobile_Cybersecurity.pdf)
+- [https://unece.org/sustainable-development/press/un-regulations-cybersecurity-and-software-updates-pave-way-mass-roll](https://unece.org/sustainable-development/press/un-regulations-cybersecurity-and-software-updates-pave-way-mass-roll)
+- [https://ieeexplore.ieee.org/document/10490855](https://ieeexplore.ieee.org/document/10490855)
+- [https://www.telematicswire.net/upstream-releases-2024-automotive-cybersecurity-report/](https://www.telematicswire.net/upstream-releases-2024-automotive-cybersecurity-report/)
+- [https://argus-sec.com/blog/vehicle-vulnerability-management/shifting-left-in-automotive-cyber-security-an-roi-driven-approach-for-vehicle-vulnerability-management/](https://argus-sec.com/blog/vehicle-vulnerability-management/shifting-left-in-automotive-cyber-security-an-roi-driven-approach-for-vehicle-vulnerability-management/)
+- [https://www.mckinsey.com/~/media/mckinsey/industries/automotive and assembly/our insights/cybersecurity in automotive mastering the challenge/cybersecurity-in-automotive-mastering-the-challenge.pdf](https://www.mckinsey.com/~/media/mckinsey/industries/automotive and assembly/our insights/cybersecurity in automotive mastering the challenge/cybersecurity-in-automotive-mastering-the-challenge.pdf)
+- [https://cybellum.com/blog/intro-to-automotive-cybersecurity-regulations/](https://cybellum.com/blog/intro-to-automotive-cybersecurity-regulations/)
+- [https://www.linkedin.com/pulse/june-2024-end-road-cybersecurity-regulations-force-oems-agrim-k-s-4olof](https://www.linkedin.com/pulse/june-2024-end-road-cybersecurity-regulations-force-oems-agrim-k-s-4olof)
+- [https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739cefc47ee5a2587d126/1648835022990/4_Auto-ISAC-BPs_Risk-Management_19August2019_TLP_White.pdf](https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739cefc47ee5a2587d126/1648835022990/4_Auto-ISAC-BPs_Risk-Management_19August2019_TLP_White.pdf)
+- [https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/cybersecurity-in-automotive-mastering-the-challenge](https://www.mckinsey.com/industries/automotive-and-assembly/our-insights/cybersecurity-in-automotive-mastering-the-challenge)
+- [https://www.media.volvocars.com/global/en-gb/media/pressreleases/324696/volvo-cars-industry-first-connected-safety-technology-can-now-alert-drivers-of-accidents-ahead](https://www.media.volvocars.com/global/en-gb/media/pressreleases/324696/volvo-cars-industry-first-connected-safety-technology-can-now-alert-drivers-of-accidents-ahead)
+- [https://ieeexplore.ieee.org/document/10422100](https://ieeexplore.ieee.org/document/10422100)
+- [https://link.springer.com/article/10.1007/s42154-021-00140-6](https://link.springer.com/article/10.1007/s42154-021-00140-6)
+- [https://cybellum.com/blog/understanding-unece-wp29-automotive-cybersecurity-regulation/](https://cybellum.com/blog/understanding-unece-wp29-automotive-cybersecurity-regulation/)
+- [https://www.iatfglobaloversight.org/wp/wp-content/uploads/2024/06/CSR-Volvo-V1-20240105.pdf?trk=public_post_comment-text](https://www.iatfglobaloversight.org/wp/wp-content/uploads/2024/06/CSR-Volvo-V1-20240105.pdf?trk=public_post_comment-text)
+- [https://link.springer.com/article/10.1365/s40112-016-1180-1](https://link.springer.com/article/10.1365/s40112-016-1180-1)
+- [https://www.ttnews.com/articles/volvo-2024-vnl-changes](https://www.ttnews.com/articles/volvo-2024-vnl-changes)
+- [https://vicone.com/blog/driving-into-the-future-vicone-automotive-cybersecurity-predictions-and-recommendations-for-2024](https://vicone.com/blog/driving-into-the-future-vicone-automotive-cybersecurity-predictions-and-recommendations-for-2024)
+- [https://www.isaca.org/resources/news-and-trends/industry-news/2023/track-these-7-trends-for-proactive-cybersecurity-in-2024](https://www.isaca.org/resources/news-and-trends/industry-news/2023/track-these-7-trends-for-proactive-cybersecurity-in-2024)
+- [https://www.techrepublic.com/article/cybersecurity-incident-response-the-6-steps-to-success/](https://www.techrepublic.com/article/cybersecurity-incident-response-the-6-steps-to-success/)
+- [https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
+- [https://argus-sec.com/blog/standards-and-compliance/auto-isac-series-of-automotive-cybersecurity-best-practices/](https://argus-sec.com/blog/standards-and-compliance/auto-isac-series-of-automotive-cybersecurity-best-practices/)
+- [https://www.volvotechinfo.com/vehicle-emergency-response](https://www.volvotechinfo.com/vehicle-emergency-response)
+- [https://ics-cert.kaspersky.com/publications/reports/2024/02/07/cybersecurity-in-the-automotive-industry-ensuring-compliance-with-unece-regulations/](https://ics-cert.kaspersky.com/publications/reports/2024/02/07/cybersecurity-in-the-automotive-industry-ensuring-compliance-with-unece-regulations/)
+- [https://www.automotive-iq.com/cybersecurity/articles/fact-file-2024-automotive-cyber-security-risks-challenges-in-2024](https://www.automotive-iq.com/cybersecurity/articles/fact-file-2024-automotive-cyber-security-risks-challenges-in-2024)
+- [https://securityboulevard.com/2024/06/key-takeaways-from-upstreams-2024-automotive-cybersecurity-report/](https://securityboulevard.com/2024/06/key-takeaways-from-upstreams-2024-automotive-cybersecurity-report/)
+- [https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/iot/magazine/single-automotive-cyber-security-standard-last](https://www.thalesgroup.com/en/worldwide-digital-identity-and-security/iot/magazine/single-automotive-cyber-security-standard-last)
+- [https://www.orrick.com/en/Insights/2021/11/Cyber-Incident-Response-Dos-and-Donts-Tips-for-Surviving-the-First-24-to-48-Hours-After-an-Incident](https://www.orrick.com/en/Insights/2021/11/Cyber-Incident-Response-Dos-and-Donts-Tips-for-Surviving-the-First-24-to-48-Hours-After-an-Incident)
+- [https://www.microsoft.com/en-us/security/business/security-101/what-is-incident-response](https://www.microsoft.com/en-us/security/business/security-101/what-is-incident-response)
+ 
+ 
+   #################### Third risk report: #################### 
+ Process component: (Completed -> Unmatched) 
+ 
+ 
+ # IT and Cyber Risks in the Automotive Industry: Analyzing the 'Completed -> Unmatched' Step in Incident Handling at Volvo
+
+The automotive industry is undergoing a significant transformation, driven by advancements in technology and increasing connectivity of vehicles. As a part of this evolution, cybersecurity has emerged as a critical concern for automotive manufacturers like Volvo. The IT incident handling process is a structured approach to managing and resolving incidents that affect IT systems and operations. One of the critical stages in this process is the 'Completed -> Unmatched' step, which presents unique IT and cyber risks that must be addressed to safeguard the integrity of automotive systems and data.
+
+At Volvo, the 'Completed -> Unmatched' stage in the IT incident handling process involves the finalization of incident resolution without a direct match to an existing problem record. This stage is crucial as it may indicate gaps in the incident management framework or the presence of novel threats that have not been previously cataloged. The risks associated with this stage can range from overlooked vulnerabilities to the potential for recurring incidents that could disrupt operations and compromise customer safety.
+
+The automotive industry has witnessed a surge in cyber threats, with incidents such as the [ransomware attack on Gentex](https://securityboulevard.com/2024/06/key-takeaways-from-upstreams-2024-automotive-cybersecurity-report/) and vulnerabilities in [Ford’s Sync3 infotainment system](https://securityboulevard.com/2024/06/key-takeaways-from-upstreams-2024-automotive-cybersecurity-report/), highlighting the need for robust cybersecurity measures. Volvo's commitment to safety and security is evident in its [industry-first connected safety technology](https://www.media.volvocars.com/global/en-gb/media/pressreleases/324696/volvo-cars-industry-first-connected-safety-technology-can-now-alert-drivers-of-accidents-ahead), yet the 'Completed -> Unmatched' step remains a potential weak link that could be exploited by cyber adversaries.
+
+In this report, we will delve into the IT and cyber risks associated with the 'Completed -> Unmatched' step in Volvo's IT incident handling process. We will examine the implications of unresolved incidents, the challenges in threat detection and analysis, and the importance of continuous improvement in incident response protocols. Our analysis will draw upon insights from [process mining and social network analysis](https://ceur-ws.org/Vol-1052/paper10.pdf) techniques, as well as the latest trends in the [automotive cybersecurity landscape](https://documents.vicone.com/reports/automotive-cyberthreat-landscape-report-2023.pdf). By understanding these risks, Volvo can enhance its cybersecurity posture and maintain its reputation as a leader in automotive safety and innovation.
+
+## Table of Contents
+
+- Assessment of IT Incident and Problem Handling Processes
+    - Identification of IT and Cyber Risks at the 'Completed -&gt; Unmatched' Step
+    - Impact of Unmatched Incidents on Incident Response Time
+    - Challenges in Resource Allocation and Efficiency
+    - Implications for Continuous Improvement and Learning
+    - Strategies for Mitigating Risks Associated with 'Completed -&gt; Unmatched' Incidents
+- Analysis of Cybersecurity Threats and Incident Response at Volvo
+    - Evolving Cybersecurity Threat Landscape in the Automotive Industry
+    - Impact of Regulatory Changes on Incident Response
+    - Challenges in Addressing Unmatched Incidents
+    - Role of Incident Response Technologies and Best Practices
+    - Proactive Defense and Continuous Improvement
+    - Enhancing IT and Cyber Resilience at the 'Completed -&gt; Unmatched' Step in Incident Handling
+        - Streamlining Incident Matching and Closure Procedures
+        - Leveraging AI and Machine Learning for Predictive Analysis
+        - Integrating Cross-Departmental Collaboration
+        - Establishing Robust Post-Incident Review Processes
+        - Continuous Improvement through Metrics and KPIs
+
+
+
+
+
+# Assessment of IT Incident and Problem Handling Processes
+
+## Identification of IT and Cyber Risks at the 'Completed -> Unmatched' Step
+
+The 'Completed -> Unmatched' step in the IT incident handling process at Volvo represents a critical juncture where incidents that have been resolved do not match with any known issues or patterns. This stage can introduce several IT and cyber risks:
+
+- **Risk of Recurrence**: Without a matched pattern or known issue, there is a risk that the incident may recur because the underlying cause is not fully understood or addressed.
+- **Knowledge Gaps**: The lack of matching can indicate gaps in the knowledge base or incident management system, leading to insufficient preparedness for future incidents.
+- **Inadequate Incident Analysis**: This stage may reflect inadequate incident analysis, which could prevent the organization from learning from past incidents and improving its response strategies.
+
+## Impact of Unmatched Incidents on Incident Response Time
+
+Unmatched incidents can lead to increased incident response times in the future. Without a clear understanding of the incident, IT teams may take longer to diagnose and resolve similar issues, as they cannot rely on past resolutions or documented patterns. This can have a direct impact on operational efficiency and customer satisfaction.
+
+## Challenges in Resource Allocation and Efficiency
+
+The 'Completed -> Unmatched' step can lead to challenges in resource allocation. IT teams may find it difficult to prioritize incidents and allocate the appropriate resources without historical data or pattern recognition. This inefficiency can result in higher costs and lower productivity.
+
+## Implications for Continuous Improvement and Learning
+
+Continuous improvement in incident handling is crucial for maintaining robust cybersecurity defenses. The 'Completed -> Unmatched' step may hinder this process by not providing clear insights into incident trends and root causes, which are essential for refining incident response plans and training programs.
+
+## Strategies for Mitigating Risks Associated with 'Completed -> Unmatched' Incidents
+
+To mitigate the risks associated with the 'Completed -> Unmatched' stage, Volvo can implement several strategies:
+
+- **Enhanced Data Analytics**: Utilizing advanced data analytics and machine learning to identify subtle patterns and correlations that may not be immediately apparent to human analysts. ([Springer Link](https://link.springer.com/chapter/10.1007/978-3-030-58638-6_19))
+- **Comprehensive Post-Incident Reviews**: Conducting thorough post-incident reviews to extract as much learning as possible from unmatched incidents, including revisiting the incident categorization and analysis processes.
+- **Incident Management System Improvements**: Improving the incident management system to capture a wider range of data points that could lead to better matching in the future.
+- **Cross-Departmental Collaboration**: Encouraging collaboration between different departments to provide diverse perspectives on incidents, which may help in identifying patterns that were previously unrecognized.
+- **Regular Training and Simulations**: Regularly updating training programs and conducting simulation exercises to prepare IT staff for a variety of incident scenarios, including those that are unmatched.
+
+By addressing these areas, Volvo can strengthen its incident handling process and reduce the risks associated with the 'Completed -> Unmatched' step.
+
+
+# Analysis of Cybersecurity Threats and Incident Response at Volvo
+
+## Evolving Cybersecurity Threat Landscape in the Automotive Industry
+The automotive industry has witnessed a significant transformation in cybersecurity threats, with attacks becoming more sophisticated and impactful ([Automotive ISAC](https://automotiveisac.com/community-calls/february-2024)). For Volvo, this means that the 'Completed -> Unmatched' stage in the IT incident handling process is increasingly vulnerable to threats that may not have been fully resolved or identified. The use of generative AI by threat actors complicates the detection and remediation process, as these tools can create new and unforeseen attack vectors.
+
+## Impact of Regulatory Changes on Incident Response
+New security regulations have emerged, requiring automotive companies like Volvo to adapt their incident response strategies ([Automotive ISAC](https://automotiveisac.com/community-calls/february-2024)). These regulations often mandate stricter reporting and quicker response times, which can be challenging during the 'Completed -> Unmatched' stage where incidents may not be fully understood or documented. Compliance with these regulations is critical to avoid fines and maintain customer trust.
+
+## Challenges in Addressing Unmatched Incidents
+Unmatched incidents represent a unique challenge as they are incidents that have been completed but not matched with a known threat or vulnerability ([Cybellum](https://cybellum.com/blog/cves-and-cwes-in-automotive-software-navigating-the-terrain-of-cybersecurity-risks-in-2024/)). This can lead to gaps in Volvo's cybersecurity posture, as these incidents may resurface or be exploited by attackers if not properly addressed. It is essential for Volvo to develop strategies to manage these unmatched incidents, possibly through advanced analytics and AI-driven threat hunting.
+
+## Role of Incident Response Technologies and Best Practices
+To effectively manage the 'Completed -> Unmatched' stage, Volvo can leverage incident response technologies such as SIEM, EDR, and advanced AI systems ([IBM](https://www.ibm.com/topics/incident-response)). These technologies can help in real-time monitoring, analysis, and automated response to security events. Additionally, adhering to best practices such as regular incident response drills and maintaining an updated incident response plan is crucial ([UpGuard](https://www.upguard.com/blog/creating-a-cyber-security-incident-response-plan)).
+
+## Proactive Defense and Continuous Improvement
+Volvo must adopt a proactive defense strategy to stay ahead of threats, especially at the 'Completed -> Unmatched' stage. This involves continuous improvement cycles, leveraging insights from past incidents, and integrating threat intelligence into security operations ([Palo Alto Networks](https://live.paloaltonetworks.com/t5/community-blogs/unit-42-a-leader-in-the-forrester-wave-for-cybersecurity/ba-p/589486)). By doing so, Volvo can enhance its resilience against future attacks and reduce the likelihood of incidents remaining unmatched.
+
+In summary, the 'Completed -> Unmatched' stage in the IT incident handling process at Volvo presents several cybersecurity challenges that require a strategic approach, leveraging the latest technologies and best practices to ensure a robust defense against evolving threats.
+
+
+## Enhancing IT and Cyber Resilience at the 'Completed -> Unmatched' Step in Incident Handling
+
+### Streamlining Incident Matching and Closure Procedures
+
+At the 'Completed -> Unmatched' step, incidents that have been resolved but not matched with a known issue or threat can pose a risk of incomplete documentation and potential oversight. To enhance resilience, it is crucial to streamline the matching and closure procedures. This can be achieved by implementing advanced correlation algorithms that can analyze patterns and match incidents to known issues, even when the match is not immediately apparent. Additionally, maintaining a comprehensive database of resolved incidents, including those unmatched, ensures that any recurring patterns can be identified and addressed promptly. 
+
+### Leveraging AI and Machine Learning for Predictive Analysis
+
+The use of AI and machine learning can significantly improve the prediction and prevention of incidents at Volvo. By analyzing historical data and current trends, predictive models can forecast potential risks and vulnerabilities, allowing for preemptive action. This proactive approach can reduce the number of 'Completed -> Unmatched' incidents by identifying and resolving underlying issues before they result in repeated incidents. Furthermore, continuous learning algorithms can adapt to new threats, ensuring that the predictive models remain effective over time.
+
+### Integrating Cross-Departmental Collaboration
+
+Cross-departmental collaboration is essential for identifying the root causes of 'Completed -> Unmatched' incidents. By fostering communication between IT, cybersecurity, and other relevant departments, Volvo can ensure a holistic understanding of each incident. This collaboration can lead to more accurate matching of incidents to known issues and help in developing comprehensive strategies to prevent future occurrences. Regular cross-functional meetings and shared platforms for incident tracking can facilitate this collaboration.
+
+### Establishing Robust Post-Incident Review Processes
+
+Post-incident reviews are critical for learning from 'Completed -> Unmatched' incidents and enhancing cyber resilience. Volvo should establish robust review processes that involve a thorough analysis of each incident, including those that remain unmatched. These reviews should aim to identify any gaps in the incident handling process, assess the effectiveness of the response, and determine if additional training or resources are needed. Lessons learned should be documented and incorporated into training programs and incident response plans.
+
+### Continuous Improvement through Metrics and KPIs
+
+To ensure continuous improvement in handling 'Completed -> Unmatched' incidents, Volvo should define and monitor key performance indicators (KPIs) related to incident matching and closure. Metrics such as the percentage of unmatched incidents, time to match, and recurrence rates can provide valuable insights into the effectiveness of the incident handling process. Regular analysis of these metrics can help identify areas for improvement and measure the impact of implemented changes. By setting targets for these KPIs, Volvo can drive progress and enhance overall cyber resilience.
+
+By focusing on these recommendations, Volvo can mitigate the risks associated with the 'Completed -> Unmatched' stage in the IT incident handling process and strengthen its IT and cyber resilience in the automotive industry.
+
+
+## References
+
+- [https://www.researchgate.net/publication/257307622_Analysis_of_the_Volvo_IT_Incident_and_Problem_Handling_Processes_using_Process_Mining_and_Social_Network_Analysis](https://www.researchgate.net/publication/257307622_Analysis_of_the_Volvo_IT_Incident_and_Problem_Handling_Processes_using_Process_Mining_and_Social_Network_Analysis)
+- [https://blog.ifs.com/2022/09/it-incident-management/](https://blog.ifs.com/2022/09/it-incident-management/)
+- [https://asana.com/resources/incident-management](https://asana.com/resources/incident-management)
+- [https://www.volvogroup.com/en/news-and-media/news/2022/dec/iot-predict-failure-before-it-actually-happens.html](https://www.volvogroup.com/en/news-and-media/news/2022/dec/iot-predict-failure-before-it-actually-happens.html)
+- [https://www.crowdstrike.com/cybersecurity-101/incident-response/incident-response-steps/](https://www.crowdstrike.com/cybersecurity-101/incident-response/incident-response-steps/)
+- [https://www.splunk.com/en_us/blog/learn/incident-management.html](https://www.splunk.com/en_us/blog/learn/incident-management.html)
+- [https://www.auditboard.com/blog/nist-incident-response/](https://www.auditboard.com/blog/nist-incident-response/)
+- [https://imarticus.org/blog/effective-incident-handling-the-phases-key-elements-and-strategies/](https://imarticus.org/blog/effective-incident-handling-the-phases-key-elements-and-strategies/)
+- [https://automotiveisac.com/community-calls/february-2024](https://automotiveisac.com/community-calls/february-2024)
+- [https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2023/strengthening-collaboration-for-cyber-resilience-the-key-to-a-secure-and-resilient-organization](https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2023/strengthening-collaboration-for-cyber-resilience-the-key-to-a-secure-and-resilient-organization)
+- [https://www.researchgate.net/publication/375062115_A_Comprehensive_Analysis_of_High-Impact_Cybersecurity_Incidents_Case_Studies_and_Implications](https://www.researchgate.net/publication/375062115_A_Comprehensive_Analysis_of_High-Impact_Cybersecurity_Incidents_Case_Studies_and_Implications)
+- [https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2020/building-a-high-value-cyber-resilience-strategy-five-essential-tips](https://www.isaca.org/resources/news-and-trends/isaca-now-blog/2020/building-a-high-value-cyber-resilience-strategy-five-essential-tips)
+- [https://www.iatfglobaloversight.org/wp/wp-content/uploads/2024/06/CSR-Volvo-V1-20240105.pdf?trk=public_post_comment-text](https://www.iatfglobaloversight.org/wp/wp-content/uploads/2024/06/CSR-Volvo-V1-20240105.pdf?trk=public_post_comment-text)
+- [https://biztechmagazine.com/article/2024/06/what-cyber-resilience-and-how-do-organizations-achieve-it](https://biztechmagazine.com/article/2024/06/what-cyber-resilience-and-how-do-organizations-achieve-it)
+- [https://www.media.volvocars.com/global/en-gb/media/pressreleases/324696/volvo-cars-industry-first-connected-safety-technology-can-now-alert-drivers-of-accidents-ahead](https://www.media.volvocars.com/global/en-gb/media/pressreleases/324696/volvo-cars-industry-first-connected-safety-technology-can-now-alert-drivers-of-accidents-ahead)
+- [https://library.cyentia.com/report/report_019879.html](https://library.cyentia.com/report/report_019879.html)
+- [https://securityboulevard.com/2024/06/key-takeaways-from-upstreams-2024-automotive-cybersecurity-report/](https://securityboulevard.com/2024/06/key-takeaways-from-upstreams-2024-automotive-cybersecurity-report/)
+- [https://live.paloaltonetworks.com/t5/community-blogs/unit-42-a-leader-in-the-forrester-wave-for-cybersecurity/ba-p/589486](https://live.paloaltonetworks.com/t5/community-blogs/unit-42-a-leader-in-the-forrester-wave-for-cybersecurity/ba-p/589486)
+- [https://www.ibm.com/topics/incident-response](https://www.ibm.com/topics/incident-response)
+- [https://www.semanticscholar.org/paper/Analysis-of-the-Volvo-IT-Incident-and-Problem-using-Paszkiewicz-Picard/e8ccbe0d3cb59089e5c01142d93b14f033bd50b0](https://www.semanticscholar.org/paper/Analysis-of-the-Volvo-IT-Incident-and-Problem-using-Paszkiewicz-Picard/e8ccbe0d3cb59089e5c01142d93b14f033bd50b0)
+- [https://www.inoc.com/blog/itil-incident-management](https://www.inoc.com/blog/itil-incident-management)
+- [https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739cefc47ee5a2587d126/1648835022990/4_Auto-ISAC-BPs_Risk-Management_19August2019_TLP_White.pdf](https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/624739cefc47ee5a2587d126/1648835022990/4_Auto-ISAC-BPs_Risk-Management_19August2019_TLP_White.pdf)
+- [https://www.orrick.com/en/Insights/2021/11/Cyber-Incident-Response-Dos-and-Donts-Tips-for-Surviving-the-First-24-to-48-Hours-After-an-Incident](https://www.orrick.com/en/Insights/2021/11/Cyber-Incident-Response-Dos-and-Donts-Tips-for-Surviving-the-First-24-to-48-Hours-After-an-Incident)
+- [https://unit42.paloaltonetworks.com/unit42-incident-response-report-2024-threat-guide/](https://unit42.paloaltonetworks.com/unit42-incident-response-report-2024-threat-guide/)
+- [https://medium.com/@cyber_kid12/day-99-enhancing-resilience-through-lessons-learned-in-incident-response-18b927268061](https://medium.com/@cyber_kid12/day-99-enhancing-resilience-through-lessons-learned-in-incident-response-18b927268061)
+- [https://upstream.auto/reports/global-automotive-cybersecurity-report/](https://upstream.auto/reports/global-automotive-cybersecurity-report/)
+- [https://argus-sec.com/blog/standards-and-compliance/auto-isac-series-of-automotive-cybersecurity-best-practices/](https://argus-sec.com/blog/standards-and-compliance/auto-isac-series-of-automotive-cybersecurity-best-practices/)
+- [https://link.springer.com/chapter/10.1007/978-3-030-58638-6_19](https://link.springer.com/chapter/10.1007/978-3-030-58638-6_19)
+- [https://www.threatintelligence.com/blog/post-incident-analysis](https://www.threatintelligence.com/blog/post-incident-analysis)
+- [https://riskpublishing.com/understanding-the-incident-management-workflow/](https://riskpublishing.com/understanding-the-incident-management-workflow/)
+- [https://link.springer.com/article/10.1365/s40112-016-1180-1](https://link.springer.com/article/10.1365/s40112-016-1180-1)
+- [https://www.weforum.org/agenda/2024/06/manufacturers-face-cyber-threats-cyber-resilience-culture/](https://www.weforum.org/agenda/2024/06/manufacturers-face-cyber-threats-cyber-resilience-culture/)
+- [https://www.globenewswire.com/news-release/2024/06/18/2900640/0/en/Cybersecurity-in-the-Automotive-Industry-Shielding-the-Future-of-Mobility.html](https://www.globenewswire.com/news-release/2024/06/18/2900640/0/en/Cybersecurity-in-the-Automotive-Industry-Shielding-the-Future-of-Mobility.html)
+- [https://csrc.nist.gov/News/2021/revised-guidance-for-developing-cyber-resiliency](https://csrc.nist.gov/News/2021/revised-guidance-for-developing-cyber-resiliency)
+- [https://ceur-ws.org/Vol-1052/paper10.pdf](https://ceur-ws.org/Vol-1052/paper10.pdf)
+- [https://www.manageengine.com/products/service-desk/it-incident-management/what-is-it-incident-management.html](https://www.manageengine.com/products/service-desk/it-incident-management/what-is-it-incident-management.html)
+- [https://www.atlassian.com/incident-management](https://www.atlassian.com/incident-management)
+- [https://www.autonews.com/retail/these-cybersecurity-tips-can-help-dealerships-reduce-risk](https://www.autonews.com/retail/these-cybersecurity-tips-can-help-dealerships-reduce-risk)
+- [https://arcticwolf.com/resources/blog/cdk-global-cyber-incident/](https://arcticwolf.com/resources/blog/cdk-global-cyber-incident/)
+- [https://www.cisa.gov/news-events/news/cisa-releases-incident-and-vulnerability-response-playbooks-strengthen-cybersecurity-federal](https://www.cisa.gov/news-events/news/cisa-releases-incident-and-vulnerability-response-playbooks-strengthen-cybersecurity-federal)
+- [https://www.cisa.gov/sites/default/files/publications/Overcoming Perceived Obstacles White Paper_1.pdf](https://www.cisa.gov/sites/default/files/publications/Overcoming Perceived Obstacles White Paper_1.pdf)
+- [https://alternativestocollege.com/2024/06/24/cybersecurity-incident-shakes-the-automotive-industry-over-the-weekend/](https://alternativestocollege.com/2024/06/24/cybersecurity-incident-shakes-the-automotive-industry-over-the-weekend/)
+- [https://www.wtwco.com/en-us/insights/2024/03/global-automotive-risk-outlook-2024](https://www.wtwco.com/en-us/insights/2024/03/global-automotive-risk-outlook-2024)
+- [https://www.mitre.org/sites/default/files/2021-11/prs-18-2579-cyber-resiliency-metrics-measures-of-effectiveness-and-scoring.pdf](https://www.mitre.org/sites/default/files/2021-11/prs-18-2579-cyber-resiliency-metrics-measures-of-effectiveness-and-scoring.pdf)
+- [https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-61r2.pdf)
+- [https://www.autonews.com/retail/cdk-cyberattack-shuts-down-most-systems-nationwide](https://www.autonews.com/retail/cdk-cyberattack-shuts-down-most-systems-nationwide)
+- [https://www.atlassian.com/incident-management/incident-response/lifecycle](https://www.atlassian.com/incident-management/incident-response/lifecycle)
+- [https://www.morningstar.com/news/marketwatch/2024062427/group-1-automotive-says-cdk-cyberattack-has-disrupted-processes-at-us-operations-that-rely-on-its-systems](https://www.morningstar.com/news/marketwatch/2024062427/group-1-automotive-says-cdk-cyberattack-has-disrupted-processes-at-us-operations-that-rely-on-its-systems)
+- [https://www.gartner.com/en/documents/5181163](https://www.gartner.com/en/documents/5181163)
+- [https://www.darkreading.com/cybersecurity-operations/dynamic-computing-calls-for-cyber-resilience-not-just-security](https://www.darkreading.com/cybersecurity-operations/dynamic-computing-calls-for-cyber-resilience-not-just-security)
+- [https://dig8ital.com/post/post-incident-response-analysis/](https://dig8ital.com/post/post-incident-response-analysis/)
+- [https://www.fema.gov/sites/default/files/documents/fema_planning-considerations-cyber-incidents_2023.pdf](https://www.fema.gov/sites/default/files/documents/fema_planning-considerations-cyber-incidents_2023.pdf)
+- [https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/vehicle_cybersecurity_best_practices_01072021.pdf](https://www.nhtsa.gov/sites/nhtsa.gov/files/documents/vehicle_cybersecurity_best_practices_01072021.pdf)
+- [https://www.cm-alliance.com/cybersecurity-blog/nist-incident-response-framework-2024-updates-and-best-practices](https://www.cm-alliance.com/cybersecurity-blog/nist-incident-response-framework-2024-updates-and-best-practices)
+- [https://www.autonews.com/retail/after-cdk-cyberattacks-litigation-more-data-breaches](https://www.autonews.com/retail/after-cdk-cyberattacks-litigation-more-data-breaches)
+- [https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/62473a09c9eb8b4806c08071/1648835081607/7_auto-isac-bps_sdl_02february2020_tlp_white.pdf](https://static1.squarespace.com/static/618a9a805a5be466f28052a2/t/62473a09c9eb8b4806c08071/1648835081607/7_auto-isac-bps_sdl_02february2020_tlp_white.pdf)
+- [https://cybellum.com/blog/cves-and-cwes-in-automotive-software-navigating-the-terrain-of-cybersecurity-risks-in-2024/](https://cybellum.com/blog/cves-and-cwes-in-automotive-software-navigating-the-terrain-of-cybersecurity-risks-in-2024/)
+- [https://www.reuters.com/business/autos-transportation/sonic-automotive-says-cdks-cyber-outage-impacted-its-dealer-management-systems-2024-06-21/](https://www.reuters.com/business/autos-transportation/sonic-automotive-says-cdks-cyber-outage-impacted-its-dealer-management-systems-2024-06-21/)
+- [https://www.facebook.com/dictnv/posts/𝐅𝐫𝐨𝐦-𝐂𝐲𝐛𝐞𝐫-𝐀𝐭𝐭𝐚𝐜𝐤-𝐭𝐨-𝐂𝐲𝐛𝐞𝐫-𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞-𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠-𝐚-𝐒𝐞𝐜𝐮𝐫𝐞-𝐅𝐮𝐭𝐮𝐫𝐞-𝐓𝐨𝐠𝐞𝐭𝐡𝐞𝐫join-us-f/948303113762147/](https://www.facebook.com/dictnv/posts/𝐅𝐫𝐨𝐦-𝐂𝐲𝐛𝐞𝐫-𝐀𝐭𝐭𝐚𝐜𝐤-𝐭𝐨-𝐂𝐲𝐛𝐞𝐫-𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞-𝐁𝐮𝐢𝐥𝐝𝐢𝐧𝐠-𝐚-𝐒𝐞𝐜𝐮𝐫𝐞-𝐅𝐮𝐭𝐮𝐫𝐞-𝐓𝐨𝐠𝐞𝐭𝐡𝐞𝐫join-us-f/948303113762147/)
+- [https://csrc.nist.gov/projects/incident-response](https://csrc.nist.gov/projects/incident-response)
+- [https://www.upguard.com/blog/creating-a-cyber-security-incident-response-plan](https://www.upguard.com/blog/creating-a-cyber-security-incident-response-plan)
+- [https://wirexsystems.com/resource/incident-response-life-cycle/](https://wirexsystems.com/resource/incident-response-life-cycle/)
+- [https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response](https://www.isaca.org/resources/isaca-journal/issues/2021/volume-6/cyberthreat-intelligence-as-a-proactive-extension-to-incident-response)
+- [https://documents.vicone.com/reports/automotive-cyberthreat-landscape-report-2023.pdf](https://documents.vicone.com/reports/automotive-cyberthreat-landscape-report-2023.pdf)
+- [https://www.weforum.org/agenda/2024/04/cybersecurity-key-strategies-cyber-resilience-2024/](https://www.weforum.org/agenda/2024/04/cybersecurity-key-strategies-cyber-resilience-2024/)
+- [https://blog.octobits.io/digital-transformation/what-is-it-incident-management/](https://blog.octobits.io/digital-transformation/what-is-it-incident-management/)
+- [https://www.neumetric.com/incident-response-life-cycle/](https://www.neumetric.com/incident-response-life-cycle/)
+ 
