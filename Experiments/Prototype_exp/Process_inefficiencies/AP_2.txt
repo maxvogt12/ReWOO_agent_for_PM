@@ -1,0 +1,228 @@
+ # Process Inefficiencies in Accounts Payable: Prepare Payment Step at General Electric
+
+The accounts payable (AP) process is a critical component of financial operations within conglomerates like General Electric, particularly in the technology and energy sectors where the volume and complexity of transactions are substantial. The 'Prepare Payment' step in the AP process is prone to inefficiencies that can have a cascading effect on the company's cash flow, supplier relationships, and overall financial health. Common causes of these inefficiencies include manual and paper-based processes, disorganized internal workflows, and outdated systems that are not integrated. For instance, a [2022 survey](https://www.mhcautomation.com/blog/common-accounts-payable-issues-and-how-to-solve-them/) revealed that 43% of businesses had not implemented an easy-to-use e-invoicing system, highlighting the inertia of legacy systems.
+
+Inefficiencies at the 'Prepare Payment' step often manifest as delayed payments, incorrect payments, and the inability to capitalize on early payment discounts. These issues are exacerbated by manual data entry, which is prone to errors and slows down the payment process. Moreover, the lack of visibility into the AP process makes it difficult to track and resolve discrepancies efficiently. The [Ardent Partners](https://www.netsuite.com/portal/resource/articles/accounting/accounts-payable-challenges.shtml) report indicates that more than half of companies find it takes too long to approve invoices and payments, further contributing to delays.
+
+To address these challenges, companies like General Electric can implement several remediations. These include the adoption of AP automation tools like [ProcureDesk](https://www.procuredesk.com/accounts-payable-automation-case-study/) and [Tipalti](https://tipalti.com/accounts-payable-hub/accounts-payable-automation-case-studies/), which streamline invoice processing, reduce manual data entry, and improve payment accuracy. Additionally, creating a centralized digital invoicing system and employing continuous controls monitoring can significantly mitigate the risks associated with fraudulent or erroneous payments.
+
+As we delve deeper into the intricacies of the 'Prepare Payment' step within the AP process at General Electric, this report will explore the aforementioned inefficiencies in detail and propose strategic solutions to enhance the efficiency and reliability of the company's payment operations.
+
+## Table of Contents
+
+- Identifying and Addressing Inefficiencies in 'Prepare Payment' Processes
+    - Common Causes of Inefficiencies in 'Prepare Payment' Processes
+        - Manual Data Entry and Processing
+        - Lack of Integration with Procurement Systems
+        - Inadequate Approval Workflows
+        - Insufficient Visibility into Cash Flow
+        - Inconsistent Payment Policies
+    - Potential Remediations for Inefficiencies
+        - Automation of Invoice Processing
+        - System Integration
+        - Streamlining Approval Workflows
+        - Enhancing Cash Flow Visibility
+        - Standardizing Payment Policies
+    - Monitoring and Continuous Improvement
+        - Implementing KPIs and Performance Tracking
+        - Training and Development of Accounts Payable Staff
+    - Leveraging Technology and Innovation
+        - Adoption of Procurement Orchestration Platforms
+        - Fraud Prevention and Detection Measures
+    - Vendor Relationship Management
+        - Prioritizing Timely Payments
+- Implementing Technological Solutions and Automation
+    - Adoption of Accounts Payable Automation Software
+    - Utilization of Cloud-Based Platforms
+    - Integration with Enterprise Resource Planning (ERP) Systems
+    - Leveraging Machine Learning for Invoice Processing
+    - Implementing Self-Service Portals for Suppliers
+- Strengthening Fraud Prevention and Payment Accuracy
+    - Enhancing Fraud Detection Capabilities
+    - Implementing Proactive Fraud Prevention Measures
+    - Utilizing Predictive Analytics
+    - Secure Payment Technologies
+    - Continuous Monitoring and Adaptation
+
+
+
+
+
+# Identifying and Addressing Inefficiencies in 'Prepare Payment' Processes
+
+## Common Causes of Inefficiencies in 'Prepare Payment' Processes
+
+### Manual Data Entry and Processing
+The 'Prepare Payment' step often involves manual data entry, which can lead to errors such as duplicate payments or incorrect amounts being processed. Manual handling of invoices and payment details increases the risk of data inaccuracies, which can result in financial discrepancies and require additional time for correction.
+
+### Lack of Integration with Procurement Systems
+In some instances, the accounts payable systems may not be fully integrated with procurement and other financial systems. This lack of integration can cause delays in accessing the necessary information to prepare payments, leading to inefficiencies and potential late payments to vendors.
+
+### Inadequate Approval Workflows
+A well-defined approval workflow is crucial for efficient payment processing. However, if the workflow is not optimized or if there are too many unnecessary steps, it can slow down the payment preparation. Additionally, if approvers are not promptly reviewing and approving payments, it can lead to bottlenecks.
+
+### Insufficient Visibility into Cash Flow
+Without clear visibility into the company's cash flow, the accounts payable team may struggle to manage payment timings effectively. This can result in either early or late payments, both of which can have negative financial implications for the company.
+
+### Inconsistent Payment Policies
+Inconsistencies in payment policies, such as varying payment terms with different vendors, can complicate the 'Prepare Payment' process. This can lead to confusion and inefficiencies as the accounts payable team must navigate through a myriad of terms and conditions.
+
+## Potential Remediations for Inefficiencies
+
+### Automation of Invoice Processing
+Implementing automation tools can significantly reduce manual data entry and processing errors. Automated invoice processing can also help in matching invoices with purchase orders and receipts, streamlining the 'Prepare Payment' step. ([Bill.com](https://www.bill.com/learning/accounts-payable-process))
+
+### System Integration
+Integrating the accounts payable system with procurement and financial systems ensures that all necessary data is readily available. This integration facilitates a smoother payment preparation process and helps maintain data consistency across systems.
+
+### Streamlining Approval Workflows
+Optimizing approval workflows by removing unnecessary steps and ensuring that approvers are notified promptly can enhance the efficiency of the payment preparation process. Utilizing digital platforms can also facilitate quicker approvals through mobile access and notifications.
+
+### Enhancing Cash Flow Visibility
+Improving tools and methods for cash flow forecasting and management can provide the accounts payable team with better insights into when payments should be prepared. Regular reviews of accounts payable aging reports can assist in prioritizing payments and managing cash flow effectively. ([ZipHQ](https://ziphq.com/blog/accounts-payable-process))
+
+### Standardizing Payment Policies
+Creating standardized payment policies and terms across all vendors can simplify the 'Prepare Payment' process. This standardization helps the accounts payable team to manage payments more efficiently and reduces the risk of errors.
+
+## Monitoring and Continuous Improvement
+
+### Implementing KPIs and Performance Tracking
+Using key performance indicators (KPIs) to track the efficiency of the 'Prepare Payment' process can help identify bottlenecks and areas for improvement. Regular performance reviews and benchmarking against industry standards can drive continuous improvement in the process. ([Stampli](https://www.stampli.com/blog/payments/improving-the-vendor-payment-process/))
+
+### Training and Development of Accounts Payable Staff
+Ensuring that the accounts payable team is well-trained and up-to-date with best practices can improve the efficiency of the 'Prepare Payment' step. Ongoing training and development can help staff adapt to new technologies and processes, reducing the likelihood of errors.
+
+## Leveraging Technology and Innovation
+
+### Adoption of Procurement Orchestration Platforms
+Modern procurement orchestration platforms, such as Zip, can streamline operations and strengthen supplier relationships. These platforms offer features like automated invoice matching, electronic payments, and real-time financial reporting, which can enhance the 'Prepare Payment' process. ([ZipHQ](https://ziphq.com/blog/accounts-payable-process))
+
+### Fraud Prevention and Detection Measures
+Implementing strict internal controls and fraud detection programs can mitigate the risk of unauthorized or fraudulent payments. Full visibility into payment activities across multiple channels can help organizations identify irregularities early and prevent financial losses.
+
+## Vendor Relationship Management
+
+### Prioritizing Timely Payments
+Ensuring that payments are made within the negotiated terms is crucial for maintaining strong vendor relationships. Timely payments can lead to potential early payment discounts and better negotiation leverage, ultimately benefiting the company's financial health. ([Bill.com](https://www.bill.com/learning/accounts-payable-process))
+
+
+# Implementing Technological Solutions and Automation
+
+## Adoption of Accounts Payable Automation Software
+
+The implementation of accounts payable automation software is a critical step in addressing inefficiencies in the 'Prepare Payment' process. Automation software can handle tasks such as invoice matching, payment scheduling, and transaction recording with minimal human intervention. For instance, HighRadius introduced a GenAI native solution to automate the entire payer-supplier payment process, which can significantly reduce costs and improve supplier relationships ([HighRadius](https://www.highradius.com/about/news/highradius-announces-first-ever-finance-team-centric-accounts-payable-solution/)).
+
+## Utilization of Cloud-Based Platforms
+
+Cloud-based platforms offer centralized data storage and enhanced security, which are essential for efficient payment preparation. These platforms facilitate real-time data access and collaboration, which can streamline the payment process. The trend towards paperless accounting and cloud storage is becoming the norm, as indicated by the increasing adoption of AP automation solutions that include cloud storage options ([MHC Automation](https://www.mhcautomation.com/blog/accounts-payable-trends/)).
+
+## Integration with Enterprise Resource Planning (ERP) Systems
+
+Integrating accounts payable automation with ERP systems ensures that data flows seamlessly between procurement, accounting, and payment systems. This integration can eliminate manual data entry errors and provide a unified view of financial data, which is crucial for preparing accurate and timely payments. The integration of AP platforms with existing systems is a trend that is gaining traction ([MHC Automation](https://www.mhcautomation.com/blog/accounts-payable-trends/)).
+
+## Leveraging Machine Learning for Invoice Processing
+
+Machine learning algorithms can be employed to validate invoices and extract payment details, reducing the need for manual data entry and minimizing errors. Companies like Xcel Energy have used predictive analytics and AI to increase the efficiency of generation, which can be applied to the 'Prepare Payment' process to predict and manage cash flows more effectively ([Capgemini](https://www.capgemini.com/in-en/wp-content/uploads/sites/18/2022/05/Digital-Report-–-Automation-in-Utilities-2.pdf)).
+
+## Implementing Self-Service Portals for Suppliers
+
+Self-service portals can empower suppliers by giving them the ability to submit and track invoices, which can expedite the payment preparation process. These portals can also reduce the administrative burden on the accounts payable team by allowing suppliers to manage their own information and inquiries, leading to a more efficient payment process ([MHC Automation](https://www.mhcautomation.com/blog/accounts-payable-trends/)).
+
+By focusing on these technological solutions and automation strategies, conglomerates in the technology energy sector, such as General Electric, can address the common causes of inefficiencies in the 'Prepare Payment' step of the accounts payable process. Implementing these solutions can lead to significant improvements in accuracy, speed, and overall financial health.
+
+
+# Strengthening Fraud Prevention and Payment Accuracy
+
+## Enhancing Fraud Detection Capabilities
+To mitigate the risk of fraud during the 'Prepare Payment' step, companies like General Electric can implement advanced fraud detection solutions. These solutions should be capable of predicting future risks and identifying common fraud scenarios. Utilizing dynamic thresholds that adapt to criminal behavior can significantly reduce false positives and increase team efficiency. For example, tools like ComplyAdvantage ([ComplyAdvantage](https://complyadvantage.com/insights/top-fraud-trends/)) can provide analysts with reasons for each alert, improving the quality of alert rates.
+
+## Implementing Proactive Fraud Prevention Measures
+Proactive measures are essential in preventing fraud before it occurs. This includes the adoption of sophisticated tools that do not negatively impact the customer experience. For instance, integrating AI-based attack vector detection can help in identifying and preventing synthetic identity fraud, which remains a prevalent threat ([ComplyAdvantage](https://complyadvantage.com/insights/top-fraud-trends/)).
+
+## Utilizing Predictive Analytics
+Predictive analytics can play a crucial role in strengthening fraud prevention. By analyzing patterns and trends in payment data, predictive models can identify anomalies that may indicate fraudulent activity. This approach allows companies to take preemptive action against potential fraud. A European utility's use of an analytics-driven early-warning model, as mentioned by McKinsey ([McKinsey & Company](https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/getting-a-grip-on-bad-debt-practical-steps-to-help-utilities-boost-their-resilience)), exemplifies the effectiveness of predictive analytics in mitigating risks.
+
+## Secure Payment Technologies
+Adopting secure payment methods and technologies is vital for the integrity of the 'Prepare Payment' process. Technologies such as tokenization, biometric authentication, and AI-driven fraud detection can enhance the security of digital transactions. The integration of these technologies ensures the protection of financial data and fosters trust in the digital economy ([Edhat](https://www.edhat.com/business_news/secure-payment-methods-for-2024-an-in-depth-analysis/)).
+
+## Continuous Monitoring and Adaptation
+Continuous monitoring of the effectiveness of fraud prevention measures is crucial. Key performance indicators (KPIs) and metrics should be used to track progress and conduct regular audits to identify areas for improvement. Based on the results, companies should refine their strategies to address emerging threats or changing business needs, maintaining a proactive approach to payment fraud prevention ([Stripe](https://stripe.com/resources/more/payment-fraud-detection-and-prevention)).
+
+By focusing on these areas, conglomerate technology energy companies like General Electric can enhance their 'Prepare Payment' processes, reducing the risk of fraud and ensuring payment accuracy.
+
+
+## References
+
+- [https://research.aimultiple.com/intelligent-automation-case-studies/](https://research.aimultiple.com/intelligent-automation-case-studies/)
+- [https://research.aimultiple.com/rpa-case-studies/](https://research.aimultiple.com/rpa-case-studies/)
+- [https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/getting-a-grip-on-bad-debt-practical-steps-to-help-utilities-boost-their-resilience](https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/getting-a-grip-on-bad-debt-practical-steps-to-help-utilities-boost-their-resilience)
+- [https://ziphq.com/blog/accounts-payable-process](https://ziphq.com/blog/accounts-payable-process)
+- [https://tipalti.com/accounts-payable-hub/accounts-payable-automation-case-studies/](https://tipalti.com/accounts-payable-hub/accounts-payable-automation-case-studies/)
+- [https://aimultiple.com/intelligent-automation-case-studies](https://aimultiple.com/intelligent-automation-case-studies)
+- [https://fasterpaymentscouncil.org/userfiles/2080/files/FPC Fraud Bulletin_01_01-24-2024_Final.pdf](https://fasterpaymentscouncil.org/userfiles/2080/files/FPC Fraud Bulletin_01_01-24-2024_Final.pdf)
+- [https://www.cfo.gov/payment-accuracy/](https://www.cfo.gov/payment-accuracy/)
+- [https://www.cfo.gov/assets/files/Final_JFMIP PI 3-YR Plan_01052024.pdf](https://www.cfo.gov/assets/files/Final_JFMIP PI 3-YR Plan_01052024.pdf)
+- [https://adevait.com/leadership/implementing-technology-solutions](https://adevait.com/leadership/implementing-technology-solutions)
+- [https://www.bill.com/learning/accounts-payable-process](https://www.bill.com/learning/accounts-payable-process)
+- [https://www.mdpi.com/2071-1050/14/23/15826](https://www.mdpi.com/2071-1050/14/23/15826)
+- [https://softwareconnect.com/roundups/best-accounts-payable-automation-software/](https://softwareconnect.com/roundups/best-accounts-payable-automation-software/)
+- [https://2977821.fs1.hubspotusercontent-na1.net/hubfs/2977821/Accounts Payable Process Guide.pdf](https://2977821.fs1.hubspotusercontent-na1.net/hubfs/2977821/Accounts Payable Process Guide.pdf)
+- [https://www.mhcautomation.com/blog/accounts-payable-trends/](https://www.mhcautomation.com/blog/accounts-payable-trends/)
+- [https://www.seforall.org/sites/default/files/Highlights_-_Energy_case_study.pdf](https://www.seforall.org/sites/default/files/Highlights_-_Energy_case_study.pdf)
+- [https://www.highradius.com/about/news/highradius-announces-first-ever-finance-team-centric-accounts-payable-solution/](https://www.highradius.com/about/news/highradius-announces-first-ever-finance-team-centric-accounts-payable-solution/)
+- [https://www.ibm.com/topics/digital-transformation](https://www.ibm.com/topics/digital-transformation)
+- [https://fintechmagazine.com/articles/gen-ai-innovating-the-future-of-payments-technology](https://fintechmagazine.com/articles/gen-ai-innovating-the-future-of-payments-technology)
+- [https://www.clarify.io/learn/industrial-automation](https://www.clarify.io/learn/industrial-automation)
+- [https://flextecs.com/resources/7-real-use-cases-of-how-flextrap-solved-real-problems](https://flextecs.com/resources/7-real-use-cases-of-how-flextrap-solved-real-problems)
+- [https://expertiseaccelerated.com/ap-automation-revolutionizing-accounts-payable/](https://expertiseaccelerated.com/ap-automation-revolutionizing-accounts-payable/)
+- [https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/Organization/PDFs/Getting_ruthless_with_your_processes.ashx](https://www.mckinsey.com/~/media/mckinsey/dotcom/client_service/Organization/PDFs/Getting_ruthless_with_your_processes.ashx)
+- [https://www.finextra.com/blogposting/25795/the-future-of-mobile-payments-technologies-and-trends-to-watch-in-2024](https://www.finextra.com/blogposting/25795/the-future-of-mobile-payments-technologies-and-trends-to-watch-in-2024)
+- [https://sdk.finance/what-are-digital-payments/](https://sdk.finance/what-are-digital-payments/)
+- [https://www.ibm.com/topics/automation](https://www.ibm.com/topics/automation)
+- [https://www.jpmorgan.com/insights/payments/payment-trends/five-payment-trends-in-2024](https://www.jpmorgan.com/insights/payments/payment-trends/five-payment-trends-in-2024)
+- [https://tipalti.com/accounts-payable-hub/key-best-practices-for-improving-accounts-payable/](https://tipalti.com/accounts-payable-hub/key-best-practices-for-improving-accounts-payable/)
+- [https://razorpay.com/blog/payment-security-types-explained/](https://razorpay.com/blog/payment-security-types-explained/)
+- [https://financial-cents.com/resources/articles/accounts-payable-process-flowchart-guide-diagrams-templates/](https://financial-cents.com/resources/articles/accounts-payable-process-flowchart-guide-diagrams-templates/)
+- [https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/15-tips-for-identifying-and-addressing-operational-inefficiencies/](https://www.forbes.com/sites/forbesbusinesscouncil/2023/04/14/15-tips-for-identifying-and-addressing-operational-inefficiencies/)
+- [https://www.lucidchart.com/blog/fix-inefficient-processes](https://www.lucidchart.com/blog/fix-inefficient-processes)
+- [https://www.chargeflow.io/blog/the-future-of-payment-security-trends-and-predictions-for-2024](https://www.chargeflow.io/blog/the-future-of-payment-security-trends-and-predictions-for-2024)
+- [https://www.gepays.com/invoice-or-payment-inquiry/](https://www.gepays.com/invoice-or-payment-inquiry/)
+- [https://www.edhat.com/business_news/secure-payment-methods-for-2024-an-in-depth-analysis/](https://www.edhat.com/business_news/secure-payment-methods-for-2024-an-in-depth-analysis/)
+- [https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/four-key-capabilities-to-strengthen-a-fraud-management-system](https://www.mckinsey.com/capabilities/risk-and-resilience/our-insights/four-key-capabilities-to-strengthen-a-fraud-management-system)
+- [https://www.mckinsey.com/~/media/mckinsey/industries/oil and gas/our insights/the state of energy organizations 2024/the-state-of-energy-organizations-2024.pdf](https://www.mckinsey.com/~/media/mckinsey/industries/oil and gas/our insights/the state of energy organizations 2024/the-state-of-energy-organizations-2024.pdf)
+- [https://www.primebpm.com/unlocking-efficiency-leveraging-root-cause-analysis-for-process-optimisation/](https://www.primebpm.com/unlocking-efficiency-leveraging-root-cause-analysis-for-process-optimisation/)
+- [https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2023/top-10-trends-for-the-payments-industry-in-2024.pdf](https://kpmg.com/kpmg-us/content/dam/kpmg/pdf/2023/top-10-trends-for-the-payments-industry-in-2024.pdf)
+- [https://www.netsuite.com/portal/resource/articles/accounting/accounts-payable-challenges.shtml](https://www.netsuite.com/portal/resource/articles/accounting/accounts-payable-challenges.shtml)
+- [http://seforall.org/sites/default/files/Full_-_Energy_Case_Study.pdf](http://seforall.org/sites/default/files/Full_-_Energy_Case_Study.pdf)
+- [https://www.procuredesk.com/accounts-payable-automation-case-study/](https://www.procuredesk.com/accounts-payable-automation-case-study/)
+- [https://www.stampli.com/blog/payments/improving-the-vendor-payment-process/](https://www.stampli.com/blog/payments/improving-the-vendor-payment-process/)
+- [https://www.paymentsdive.com/news/payments-trends-digital-wallet-b2b-realtime-FedNow-fraud/703994/](https://www.paymentsdive.com/news/payments-trends-digital-wallet-b2b-realtime-FedNow-fraud/703994/)
+- [https://research.aimultiple.com/ap-automation/](https://research.aimultiple.com/ap-automation/)
+- [https://www.mdpi.com/2076-3417/14/1/253](https://www.mdpi.com/2076-3417/14/1/253)
+- [https://www.mckinsey.com/featured-insights/future-of-work/ai-automation-and-the-future-of-work-ten-things-to-solve-for](https://www.mckinsey.com/featured-insights/future-of-work/ai-automation-and-the-future-of-work-ten-things-to-solve-for)
+- [https://www.gao.gov/assets/gao-15-593sp.pdf](https://www.gao.gov/assets/gao-15-593sp.pdf)
+- [https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-ai-enabled-utility-rewiring-to-win-in-the-energy-transition](https://www.mckinsey.com/industries/electric-power-and-natural-gas/our-insights/the-ai-enabled-utility-rewiring-to-win-in-the-energy-transition)
+- [https://ziphq.com/blog/13-account-payable-best-practices-for-2023](https://ziphq.com/blog/13-account-payable-best-practices-for-2023)
+- [https://www.clear.tech/blog/accounts-payable-challenges-and-solutions](https://www.clear.tech/blog/accounts-payable-challenges-and-solutions)
+- [https://www.mineraltree.com/blog/improving-accounts-payable-process/](https://www.mineraltree.com/blog/improving-accounts-payable-process/)
+- [https://complyadvantage.com/insights/top-fraud-trends/](https://complyadvantage.com/insights/top-fraud-trends/)
+- [https://www.sciencedirect.com/science/article/pii/S0301421521002925](https://www.sciencedirect.com/science/article/pii/S0301421521002925)
+- [https://www.bill.com/blog/accounts-payable-best-practices](https://www.bill.com/blog/accounts-payable-best-practices)
+- [https://www.sciencedirect.com/science/article/pii/S1364032121012764](https://www.sciencedirect.com/science/article/pii/S1364032121012764)
+- [https://www.bcg.com/publications/2023/optimizing-genai-in-payments](https://www.bcg.com/publications/2023/optimizing-genai-in-payments)
+- [https://www.mckinsey.com/industries/oil-and-gas/our-insights/digital-transformation-in-energy-achieving-escape-velocity](https://www.mckinsey.com/industries/oil-and-gas/our-insights/digital-transformation-in-energy-achieving-escape-velocity)
+- [https://www.sciencedirect.com/science/article/pii/S1364032118307184](https://www.sciencedirect.com/science/article/pii/S1364032118307184)
+- [https://www.capgemini.com/in-en/wp-content/uploads/sites/18/2022/05/Digital-Report-–-Automation-in-Utilities-2.pdf](https://www.capgemini.com/in-en/wp-content/uploads/sites/18/2022/05/Digital-Report-–-Automation-in-Utilities-2.pdf)
+- [https://www.afponline.org/docs/default-source/registered/2024-afp-payments-fraud-survey-key-highlights.pdf](https://www.afponline.org/docs/default-source/registered/2024-afp-payments-fraud-survey-key-highlights.pdf)
+- [https://insights.discoverglobalnetwork.com/insights/innovations-shaping-digital-payments-industry](https://insights.discoverglobalnetwork.com/insights/innovations-shaping-digital-payments-industry)
+- [https://www.mhcautomation.com/blog/common-accounts-payable-issues-and-how-to-solve-them/](https://www.mhcautomation.com/blog/common-accounts-payable-issues-and-how-to-solve-them/)
+- [https://www.datamatics.com/resources/case-studies/blue-stars-entire-accounts-payables-improves-by-33-with-procure-to-pay-process-reengineering](https://www.datamatics.com/resources/case-studies/blue-stars-entire-accounts-payables-improves-by-33-with-procure-to-pay-process-reengineering)
+- [https://www.medius.com/blog/common-accounts-payable-problems/](https://www.medius.com/blog/common-accounts-payable-problems/)
+- [https://stripe.com/resources/more/payment-fraud-detection-and-prevention](https://stripe.com/resources/more/payment-fraud-detection-and-prevention)
+- [https://www.stampli.com/blog/accounts-payable/accounts-payable-best-practices/](https://www.stampli.com/blog/accounts-payable/accounts-payable-best-practices/)
+- [https://www.eidebailly.com/insights/articles/2022/1/how-to-identify-and-improve-your-inefficient-business-processes](https://www.eidebailly.com/insights/articles/2022/1/how-to-identify-and-improve-your-inefficient-business-processes)
+- [https://www.alembicstrategy.com/strategic-thinking/how-to-identify-inefficient-processes-and-how-to-address-them](https://www.alembicstrategy.com/strategic-thinking/how-to-identify-inefficient-processes-and-how-to-address-them)
+ 
+ 
+ 
+
