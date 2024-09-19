@@ -8,6 +8,7 @@ Researching if LLMs can supplement domain knowledge (about the sector, organizat
 1. event log
 2. name of the organisation
 3. type of process
+4. Prefered technique (not mandatory)
 
 ### Output
 1. generated process model (BPMN, Petri net, Heuristic net, etc.)
