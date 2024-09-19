@@ -1,5 +1,5 @@
 # Paper repository
-Repo for development of a prototype for implementing LLMs into PM4PY. As the practical side of my master thesis for the MSc 'ICT in Business' at Leiden University in 2024. This repo was made as a copy of the active repo, to allow readers of the paper that we wrote about my thesis project to see the prototype and the results of the experiments
+Repo for development of a prototype for implementing LLMs into PM4PY. This repository functions as the Proof-of-Concept (PoC) for the paper that I co-authored for the Workshop on Generative AI for Process Mining at the International Conference on Process Mining (ICPM) 2024. This paper is based on my master thesis for the MSc 'ICT in Business' at Leiden University in 2024. This repo was made as a copy of the active repo, to allow readers of the paper to see the prototype and the results of the experiments. For more details on the project, you can take a look at my full thesis (access can be given upon request).
 
 ## Concept
 Researching if LLMs can supplement domain knowledge (about the sector, organization, process, etc.) into process mining tools and whether this offers additional value compared to the current status of these tools. The system is a multi-level agent, based on GPT-4 Turbo and GPT-3.5 Turbo.
