@@ -1,6 +1,11 @@
 # Paper repository
 Repo for development of an LLM-based agent that can generate domain knowledge for process mining. This repository functions as the Proof-of-Concept (PoC) for the paper that I co-authored for the Workshop on Generative AI for Process Mining at the International Conference on Process Mining (ICPM) 2024. This paper is based on my master thesis for the MSc 'ICT in Business' at Leiden University in 2024. This repo was made as a copy of the active repo, to allow readers of the paper to see the prototype and the results of the experiments. For more details on the project, you can take a look at my full thesis (access can be given upon request).
 
+## Navigation
+1. Event_Logs: contains the used event logs
+2. Prototype: contains the code of the PoC
+3. Experiments: contains the setup and outputs of the conducted experiments
+
 ## Concept
 Researching if LLMs can supplement domain knowledge (about the sector, organization, process, etc.) into process mining tools and whether this offers additional value compared to the current status of these tools. The system is a multi-level agent, based on GPT-4 Turbo and GPT-3.5 Turbo.
 
