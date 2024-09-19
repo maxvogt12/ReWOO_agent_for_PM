@@ -6,7 +6,7 @@ Repo for development of an LLM-based agent that can generate domain knowledge fo
 2. Prototype: contains the code of the PoC
 3. Experiments: contains the setup and outputs of the conducted experiments
 
-## Concept
+## PoC concept
 Researching if LLMs can supplement domain knowledge (about the sector, organization, process, etc.) into process mining tools and whether this offers additional value compared to the current status of these tools. The system is a multi-level agent, based on GPT-4 Turbo and GPT-3.5 Turbo.
 
 ### Input
@@ -25,7 +25,7 @@ Researching if LLMs can supplement domain knowledge (about the sector, organizat
 ## Programming languages
 Main language is Python.
 
-## (Current) Architecture prototype
+## Architecture PoC
 ### Flow
 ![image](https://github.com/maxvogt12/Master-Thesis/blob/6cb9fa36bc6024f6cf55135f26848d02905a9927/Prototype/Images/Agent_flow-FlowChart.drawio-4.png)
 ### Components
