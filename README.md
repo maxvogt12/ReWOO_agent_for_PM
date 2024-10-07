@@ -27,13 +27,13 @@ Main language is Python.
 
 ## Architecture PoC
 ### Flow
-![image](https://github.com/maxvogt12/Master-Thesis/blob/6cb9fa36bc6024f6cf55135f26848d02905a9927/Prototype/Images/Agent_flow-FlowChart.drawio-4.png)
+<img src="Prototype/Images/Agent_flow-FlowChart.drawio-4.png" width= "300">
 
 The figure above shows an overview of the sequential steps of an execution of the agent using the mentioned tools, although this is not a static order of steps as the agent constructs a plan of action each time it is run. If the constructed plan is insufficient for solving the task, the agent can go back to the planner instance. The agent will adapt the plan and then execute this new plan. The system will select the appropriate technique for the task and execute process discovery.
 Then the system will spot the relevant process components from the generated textual abstraction of the process, based on the type of analysis that the user requested. Then for each identified relevant process component, the system will generate a (detailed) research report. In the generation of this report, the sector of the organization is also taken into account. As this can be valuable information for generating relevant domain knowledge about the process and its components. All explanations, improvements, and other forms of domain knowledge are written down into a research report about that specific process component. The system collects all the reports that it generates and adds these to one final report that is returned to the user (together with the requested visualizations).
 
 ### Components
-![image](https://github.com/maxvogt12/Master-Thesis/blob/5228f09ab57f6aa28fb90b366cf4bebd02e7518d/Prototype/Images/Architecture-New_Components.drawio-4.png)
+<img src="Prototype/Images/Architecture-New_Components.drawio-4.png" width= "300">
 
 ## Example of input and output
 ### Example of input
@@ -57,7 +57,7 @@ The process model and statistics about the process model can also be visualized 
 
 
 ### Agent graph
-<img src="https://github.com/maxvogt12/Master-Thesis/blob/818955110b54d87f12afd9d612a6f607db06c4fc/Prototype/Images/state_graph.png" width= "300">
+<img src="Prototype/Images/state_graph.png" width= "300">
 
 ## Main components
 ### LangChain
@@ -67,12 +67,12 @@ For more info, see https://www.langchain.com
 ### Tavily GPT-Researcher
 For gathering more complex information from the internet the Tavily GPT-Researcher is used as one of the tools for the agent. This function requires a different version of LangChain compared to some other used functions. Therefore this tool runs in a separate virtual environment, see architecture. This tool generates a research report based on a provided quer and has the following architecture:
 
-<img src="https://github.com/maxvogt12/Master-Thesis/blob/b44ce59f093ecc0177bb521f9f8f4c51ff10c6ca/Prototype/Images/GPT-researcher.png" width= "250">
+<img src="Prototype/Images/GPT-researcher.png" width= "250">
 
 ### REWOO
 Reason without observation, is a novel approach for building LLM agents proposed by Xu, et. al. This approach builds on the concepts of ReAct and Plan and Solve prompting and results in more efficient agents that use less tokens and LLM calls. REWOO uses a multi-step planner and variable substitution for effective tool use. It was designed to improve on the ReACT-style agent architecture.
 
 The REWOO paper: https://arxiv.org/abs/2305.18323
 The concept of REWOO visualized:
-<img src="https://github.com/maxvogt12/Master-Thesis/blob/d69e1918b4109e8469e74c73973fbc1a1770df27/Prototype/Images/REWOO.png" width= "500">
+<img src="Prototype/Images/REWOO.png" width= "500">
 
