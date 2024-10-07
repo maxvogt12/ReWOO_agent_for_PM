@@ -27,13 +27,13 @@ Main language is Python.
 
 ## Architecture PoC
 ### Flow
-<img src="Prototype/Images/Agent_flow-FlowChart.drawio-4.png" width= "300">
+<img src="Prototype/Images/Agent_flow-FlowChart.drawio-4.png" width= "900">
 
 The figure above shows an overview of the sequential steps of an execution of the agent using the mentioned tools, although this is not a static order of steps as the agent constructs a plan of action each time it is run. If the constructed plan is insufficient for solving the task, the agent can go back to the planner instance. The agent will adapt the plan and then execute this new plan. The system will select the appropriate technique for the task and execute process discovery.
 Then the system will spot the relevant process components from the generated textual abstraction of the process, based on the type of analysis that the user requested. Then for each identified relevant process component, the system will generate a (detailed) research report. In the generation of this report, the sector of the organization is also taken into account. As this can be valuable information for generating relevant domain knowledge about the process and its components. All explanations, improvements, and other forms of domain knowledge are written down into a research report about that specific process component. The system collects all the reports that it generates and adds these to one final report that is returned to the user (together with the requested visualizations).
 
 ### Components
-<img src="Prototype/Images/Architecture-New_Components.drawio-4.png" width= "300">
+<img src="Prototype/Images/Architecture-New_Components.drawio-4.png" width= "900">
 
 ## Example of input and output
 ### Example of input
