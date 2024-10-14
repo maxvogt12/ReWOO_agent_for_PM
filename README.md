@@ -1,7 +1,7 @@
 # Paper repository
 Repo for development of an LLM-based agent that can generate domain knowledge for process mining. This repository functions as the Proof-of-Concept (PoC) for the paper that I co-authored for the Workshop on Generative AI for Process Mining at the International Conference on Process Mining (ICPM) 2024. This paper is based on my master thesis for the MSc 'ICT in Business' at Leiden University in 2024. This repo was made as a copy of the active repo, to allow readers of the paper to see the prototype and the results of the experiments. For more details on the project, you can take a look at:
-1. The research paper (https://liacs.leidenuniv.nl/~puttenpwhvander/library/2024_GenAI4PM%20-Vogtetal)
-2. The full thesis (https://surfdrive.surf.nl/files/index.php/s/USZ976hnMr8XYSh).
+1. Paper: Max W. Vogt, Peter van der Putten and Hajo A. Reijers. [Providing domain knowledge for process mining with ReWOO-based agents](https://liacs.leidenuniv.nl/~puttenpwhvander/library/2024_GenAI4PM%20-Vogtetal). The First International Workshop on Generative AI for Process Mining (GENAI4PM 2024). ICPM 2024 workshop, Technical University of Denmark, Copenhagen, October 14, 2024
+2. Full thesis: (https://surfdrive.surf.nl/files/index.php/s/USZ976hnMr8XYSh).
 
 ## Folder structure
 1. Event_Logs: contains the used event logs
